@@ -68,8 +68,8 @@ heroButtons:
 aboutTitle: "About Droidcon Paris"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Awesome speakers and lots of fun!" }
- - {title: "Barcamp", image: "workshop.jpg", text: "Come with your content and share directly with the audience." }
- - {title: "Party!", image: "hackathon.jpg", text: "Let's dance & drink." }
+ - {title: "Barcamp", image: "barcamp.jpg", text: "Come with your content and share directly with the audience." }
+ - {title: "Party!", image: "party.jpg", text: "Let's talk & drink." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

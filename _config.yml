@@ -10,33 +10,33 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "Droidcon Paris 2015"
+email: "contact@paug.fr"
+description: "Droidcon Paris, the biggest Android event in France"
+baseurl: ""
+url: "https://cmoatoto2.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Paris Android User Group & BeMyApp"
+organizerAlternateName: "Paris Android User Group & BeMyApp"
+organizerDescription: ""
+organizerEmail: "contact@paug.fr"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://paug.fr/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, droidcon, google, programming, android, wear, iot, glass, tv, developers, paris"
+twitterAccount: "@droidconfr"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://bit.ly/droidconfr-cfp"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -48,36 +48,36 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/droidconfr-cfp", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/droidconfr-cfp", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "Droidcon <typeout> 2015"
+eventDate: "November, 2015"
+typeoutTextValues: '"", "France", "Paris", "Android"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/droidconfr-cfp", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Droidcon Paris"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Barcamp", image: "barcamp.jpg", text: "Come with your content and share directly with the audience." }
+ - {title: "Party!", image: "party.jpg", text: "Let's talk & drink." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "600", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Android content"}
+ - {count: "30", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,17 +90,17 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
+eventLocationName: "Le Tapis Rouge"
+eventLocationLink: "http://www.tapisrouge.fr/"
+eventStreetAddress: "67 rue du Fbg Saint-Martin"
+eventAddressLocality: "Paris"
+eventAddressLocalityRegion: "Ile de France"
+eventPostalCode: "75010"
+eventAddressCountry: "France"
+eventStartTime: "2015-09-25T09:00"
+eventDoorTime: "08:00"
+eventEndTime: "2015-09-27T20:00"
+eventPlaceCoordinates: "48.872214, 2.357090"
 mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
@@ -110,13 +110,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Le Tapis Rouge"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "droidconfr"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block

@@ -63,7 +63,6 @@ typeoutTextValues: '"", "France", "Paris", "Android"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/droidconfr-cfp", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Droidcon Paris"

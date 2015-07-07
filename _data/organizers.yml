@@ -1,8 +1,8 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "Paris Android User Group", description: "PAUG - Open and volunteer Android lovers", link: "http://paug.fr", imageUrl: "gdg-lviv.svg"}
+    - {name: "Paris Android User Group", description: "PAUG - Open and volunteer Android lovers", link: "http://paug.fr", imageUrl: "paug.svg"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "Paris Android User Group", description: "PAUG - Open and volunteer Android lovers", link: "http://paug.fr", imageUrl: "gdg-lviv.svg"}
+    - {name: "Paris Android User Group", description: "PAUG - Open and volunteer Android lovers", link: "http://paug.fr", imageUrl: "paug.svg"}

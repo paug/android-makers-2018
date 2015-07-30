@@ -33,7 +33,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/droidconfr-cfp"
+c4pUrl: "http://cfp.droidcon.fr"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -42,9 +42,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/droidconfr-cfp", text: "Become a speaker"}
+ - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/droidconfr-cfp", text: "Become a speaker"}
+ - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -59,7 +59,7 @@ eventDate: "November, 2015"
 typeoutTextValues: '"", "France", "Paris", "Android"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/droidconfr-cfp", text: "Become a speaker"}
+ - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About Droidcon Paris"

@@ -4,6 +4,7 @@ $direction-details-color: #757575;
     padding: 0;
     color: $direction-details-color;
     .image-section {
+        color: inherit;
         @media (max-width: 767px) {
             min-height: 350px;
         }

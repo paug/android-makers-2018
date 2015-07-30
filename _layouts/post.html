@@ -5,7 +5,7 @@
 
 <body>
     <div id="preloader" class="preloader">
-        <div class="loader-gplus"></div>
+        <div class="loader" style="background-image: url('{{ site.baseurl }}/img/sprites/droidcar.gif');"></div>
     </div>
     
     <div id="st-container" class="st-container">
@@ -37,7 +37,9 @@
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     <script>Waves.displayEffect();</script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    {% comment %}
     {% include schema-event.html %}
+    {% endcomment %}
 </body>
 
 </html>

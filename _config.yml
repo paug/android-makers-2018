@@ -14,7 +14,7 @@ title: "Droidcon Paris 2015"
 email: "contact@paug.fr"
 description: "Droidcon Paris, the biggest Android event in France"
 baseurl: "/zeppelin"
-url: "https://cmoatoto2.github.io"
+url: "http://droidcon.fr"
 permalink: "/blog/:title"
 
 # Organizer Info
@@ -77,29 +77,29 @@ statisticBlock:
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Le Beffroi"
-eventLocationLink: "http://beffroidemontrouge.com/"
-eventStreetAddress: "2 Place Emile Cresp"
-eventAddressLocality: "Montrouge"
-eventAddressLocalityRegion: "Ile de France"
-eventPostalCode: "92120"
-eventAddressCountry: "France"
-eventStartTime: "2015-11-09T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2015-11-10T20:00"
-eventPlaceCoordinates: "48.81915, 2.319569"
-mapCenterCoordinates: "48.81915, 2.319569"
-mapMobileCenterCoordinates: "48.81915, 2.319569"
+# locationBlockTitle: "Location"
+# eventLocationName: "Le Beffroi"
+# eventLocationLink: "http://beffroidemontrouge.com/"
+# eventStreetAddress: "2 Place Emile Cresp"
+# eventAddressLocality: "Montrouge"
+# eventAddressLocalityRegion: "Ile de France"
+# eventPostalCode: "92120"
+# eventAddressCountry: "France"
+# eventStartTime: "2015-11-09T09:00"
+# eventDoorTime: "09:00"
+# eventEndTime: "2015-11-10T20:00"
+# eventPlaceCoordinates: "48.81915, 2.319569"
+# mapCenterCoordinates: "48.81915, 2.319569"
+# mapMobileCenterCoordinates: "48.81915, 2.319569"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Le Beffroi"
-venueFeatures: ["More than 10 000m<sup>2</sup>", "A 700+ attendees keynote room", "At the gateway of Paris"]
+# venueBlockTitle: "Venue"
+# venueBigImage: "venue_0.jpg"
+# venueSmallImage1: "venue_1.jpg"
+# venueSmallImage2: "venue_2.jpg"
+# venueSmallImage3: "venue_3.jpg"
+# venueTitle: "Le Beffroi"
+# venueFeatures: ["More than 10 000m<sup>2</sup>", "A 700+ attendees keynote room", "At the gateway of Paris"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

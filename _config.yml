@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Droidcon Paris 2015"
 email: "contact@paug.fr"
 description: "Droidcon Paris, the biggest Android event in France"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "http://droidcon.fr"
 permalink: "/blog/:title"
 

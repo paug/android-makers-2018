@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Android Makers Paris 2015"
+title: "Android Makers Paris 2017"
 email: "contact@paug.fr"
 description: "Android Makers Paris, the biggest Android event in France"
 baseurl: ""

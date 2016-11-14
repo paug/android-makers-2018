@@ -16,6 +16,7 @@ description: "Android Makers Paris, the biggest Android event in France"
 baseurl: ""
 url: "http://androidmakers.fr"
 permalink: "/blog/:title"
+googleMapApiKey: AIzaSyDoDM9sRSk2C3JeopyW7UqGRA31QLi77tw
 
 # Organizer Info
 organizerName: "Paris Android User Group & BeMyApp"
@@ -40,7 +41,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 rightNavigationButtons:
@@ -77,29 +78,29 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Location Block
-# locationBlockTitle: "Location"
-# eventLocationName: "Le Beffroi"
-# eventLocationLink: "http://beffroidemontrouge.com/"
-# eventStreetAddress: "2 Place Emile Cresp"
-# eventAddressLocality: "Montrouge"
-# eventAddressLocalityRegion: "Ile de France"
-# eventPostalCode: "92120"
-# eventAddressCountry: "France"
-# eventStartTime: "2015-11-09T09:00"
-# eventDoorTime: "09:00"
-# eventEndTime: "2015-11-10T20:00"
-# eventPlaceCoordinates: "48.81915, 2.319569"
-# mapCenterCoordinates: "48.81915, 2.319569"
-# mapMobileCenterCoordinates: "48.81915, 2.319569"
+locationBlockTitle: "Location"
+eventLocationName: "Les salons de l'Aveyron"
+eventLocationLink: "http://www.salonsdelaveyron.fr/"
+eventStreetAddress: "17 Rue de l'Aubrac"
+eventAddressLocality: "Paris"
+eventAddressLocalityRegion: "Ile de France"
+eventPostalCode: "75012"
+eventAddressCountry: "France"
+eventStartTime: "2017-04-10T09:00"
+eventDoorTime: "09:00"
+eventEndTime: "2017-04-11T20:00"
+eventPlaceCoordinates: "48.834894, 2.386499"
+mapCenterCoordinates: "48.834894, 2.386499"
+mapMobileCenterCoordinates: "48.834894, 2.386499"
 
 # Venue Block
-# venueBlockTitle: "Venue"
-# venueBigImage: "venue_0.jpg"
-# venueSmallImage1: "venue_1.jpg"
-# venueSmallImage2: "venue_2.jpg"
-# venueSmallImage3: "venue_3.jpg"
-# venueTitle: "Le Beffroi"
-# venueFeatures: ["More than 10 000m<sup>2</sup>", "A 700+ attendees keynote room", "At the gateway of Paris"]
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Les salons de l'Aveyron"
+venueFeatures: ["1300m<sup>2</sup> of modulable spaces", "an 800 attendees keynote room", "Close to Bercy and Gare de Lyon, in Paris."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -190,14 +191,14 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "48.81915, 2.319569"
-logisticsMapMobileCenterCoordinates: "48.81915, 2.319569"
+logisticsMapCenterCoordinates: "48.834894, 2.386499"
+logisticsMapMobileCenterCoordinates: "48.834894, 2.386499"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Paris"
 directionDetailsCards:
- - {title: "From the Airports", information: 'Airports are close to Paris. It is easily reachable by car, public transport, Uber or taxi. You can find your way with <a href="http://www.ratp.fr/en/upload/docs/application/pdf/2014-07/depliant_aeroports_2014.pdf" target="_blank">this document</a>. You can also find the best way from <a href="http://www.ratp.fr/itineraires/fr/ratp/recherche-avancee?start=A%C3%A9roport+d%27Orly+Sud%2C+Paray-Vieille-Poste&end=2%2C+Place+Emile+Cresp%2C+92120%2C+Montrouge" target="_blank">Orly</a> or from <a href="http://www.ratp.fr/itineraires/fr/ratp/recherche-avancee?start=Aeroport+Charles+De+Gaulle+1+%28RER%29%2C+Tremblay-en-France&end=2%2C+Place+Emile+Cresp%2C+92120%2C+Montrouge" target="_blank">Roissy Charles De Gaulle</a>'}
- - {title: "Public Transit", information: 'Google Transit is available in Paris but without buses. So you can find most your way in Google Maps. Moreover, you can download the official <a href="https://play.google.com/store/apps/details?id=com.fabernovel.ratp&hl=fr" target="_blank">Paris transportation application</a>.'}
+ - {title: "From the Airports", information: 'Airports are close to Paris. It is easily reachable by car, public transport, Uber or taxi. You can find your way with <a href="http://www.ratp.fr/en/upload/docs/application/pdf/2014-07/depliant_aeroports_2014.pdf" target="_blank">this document</a>. You can also find the best way from <a href="http://www.ratp.fr/itineraires/fr/ratp/recherche-avancee?start=A%C3%A9roport+d%27Orly+Sud%2C+Paray-Vieille-Poste&end=17%2C+Rue+de+l%27Aubrac%2C+75012%2C+Paris" target="_blank">Orly</a> or from <a href="http://www.ratp.fr/itineraires/fr/ratp/recherche-avancee?start=A%C3%A9roport+Charles+De+Gaulle+1+%28RER%29%2C+Tremblay-en-France&end=17%2C+Rue+de+l%27Aubrac%2C+75012%2C+Paris" target="_blank">Roissy Charles De Gaulle</a>'}
+ - {title: "Public Transit", information: 'Google Transit is available in Paris, so you can find most of your way in Google Maps. Moreover, you can download the official <a href="https://play.google.com/store/apps/details?id=com.fabernovel.ratp&hl=fr" target="_blank">Paris transportation application</a>.'}
  - {title: "Hotels", information: 'Paris has lots of great hotels, hostels and AirBnB. If you have any trouble to find one, you can contact us.'}

@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Droidcon Paris 2015"
+title: "Android Makers Paris 2015"
 email: "contact@paug.fr"
-description: "Droidcon Paris, the biggest Android event in France"
+description: "Android Makers Paris, the biggest Android event in France"
 baseurl: ""
-url: "http://droidcon.fr"
+url: "http://androidmakers.fr"
 permalink: "/blog/:title"
 
 # Organizer Info
@@ -26,14 +26,14 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://paug.fr/"
 
 # Head
-metaKeywords: "event, gdg, droidcon, google, programming, android, wear, iot, glass, tv, developers, paris"
-twitterAccount: "@droidconfr"
+metaKeywords: "event, gdg, droidcon, google, programming, android, wear, iot, glass, tv, developers, paris, makers"
+twitterAccount: "@AndroidMakersFR"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://cfp.droidcon.fr"
+c4pUrl: "http://cfp.androidmakers.fr"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -42,9 +42,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
+ - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
+ - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -54,17 +54,17 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Droidcon <typeout> 2015"
-eventDate: "November, 2015"
-typeoutTextValues: '"", "France", "Paris", "Android"'
-typeoutFallback: "Season"
+heroTitle: "Android Makers <typeout> 2017"
+eventDate: "10th & 11th april, 2017"
+typeoutTextValues: '"", "France", "Paris"'
+typeoutFallback: "Paris"
 heroButtons:
- - {link: "http://cfp.droidcon.fr", text: "Become a speaker"}
+ - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 
 # About Block
-aboutTitle: "About Droidcon Paris"
+aboutTitle: "About Android Makers Paris"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Android related event in France, carefully crafted for you by the PAUG & BMA! Awesome speakers and lots of fun!" }
  - {title: "Barcamp", image: "barcamp.jpg", text: "Come with your content and share directly with the audience." }
  - {title: "Party!", image: "party.jpg", text: "Let's talk & drink." }
 
@@ -73,8 +73,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "600", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Android content"}
- - {count: "30", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "50", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Location Block
 # locationBlockTitle: "Location"
@@ -104,8 +104,8 @@ statisticBlock:
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "droidconfr"
-twitterFeed: "http://cmoatoto.fr/tweetledee/favoritesjson.php?c=100&cache_interval=90&user=droidconfr"
+twitterFeed: "http://cmoatoto.fr/tweetledee/favoritesjson.php?c=100&cache_interval=90&user=AndroidMakersFR"
+twitterHashTag: "AndroidMakersFR"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -165,7 +165,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://www.paug.fr/", text: "PAUG.fr"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://bemyapp.com", text: "bemyapp.com"}
  -
   title: "Contacts"
   links:

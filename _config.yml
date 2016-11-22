@@ -66,7 +66,7 @@ heroButtons:
 aboutTitle: "About Android Makers Paris"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Android related event in France, carefully crafted for you by the PAUG & BMA! Awesome speakers and lots of fun!" }
- - {title: "Barcamp", image: "barcamp.jpg", text: "Come with your content and share directly with the audience." }
+ - {title: "Workshop", image: "barcamp.jpg", text: "Come discover and build during the workshops." }
  - {title: "Party!", image: "party.jpg", text: "Let's talk & drink." }
 
 # Statistic Block

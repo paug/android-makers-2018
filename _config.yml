@@ -43,9 +43,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
+# - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
+# - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -60,7 +60,7 @@ eventDate: "10th & 11th april, 2017"
 typeoutTextValues: '"", "France", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
- - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
+# - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About Android Makers Paris"

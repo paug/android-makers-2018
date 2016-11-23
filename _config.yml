@@ -43,8 +43,10 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
+ - {link: "https://www.eventbrite.com/e/android-makers-1st-edition-tickets-29579435889", text: "Get your ticket"}
 # - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 rightNavigationButtons:
+ - {link: "https://www.eventbrite.com/e/android-makers-1st-edition-tickets-29579435889", text: "Get your ticket"}
 # - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 
 # Rockstar Speakers Block
@@ -60,6 +62,7 @@ eventDate: "10th & 11th april, 2017"
 typeoutTextValues: '"", "France", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
+ - {link: "https://www.eventbrite.com/e/android-makers-1st-edition-tickets-29579435889", text: "Get your ticket"}
 # - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 
 # About Block

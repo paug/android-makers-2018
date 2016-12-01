@@ -66,11 +66,13 @@ heroButtons:
 # - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
 
 # About Block
-aboutTitle: "About Android Makers Paris"
+aboutTitle: "Much more than a conference"
+aboutDetails: "Join us in tackling the future of Android with the hottest experts of the domain.<br />There'll be technical sessions, workshops, debates, networking, plus a chance to demo your project in the Makers Area.<br />The 1st edition of Android Makers gathers 4 events in 1."
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Android related event in France, carefully crafted for you by the PAUG & BMA! Awesome speakers and lots of fun!" }
- - {title: "Workshop", image: "barcamp.jpg", text: "Come discover and build during the workshops." }
- - {title: "Party!", image: "party.jpg", text: "Let's talk & drink." }
+ - {title: "Conference", image: "conference.jpg", text: "40min Tech Talks by awesome speakers and 20min Lightning Talks on the future of Android." }
+ - {title: "Workshop", image: "barcamp.jpg", text: "Get trained on new methods, discover and build your app during the workshops." }
+ - {title: "Makers Area", image: "makersarea.jpg", text: "Walk around, play and discover the latest innovation in hardware and software developed by the makers." }
+ - {title: "Party!", image: "party.jpg", text: "Let’s meet, talk, drink and party!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

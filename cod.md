@@ -15,6 +15,6 @@ If someone is bothering you, please tell GDG Organizers immediately and they wil
 
 ######Contacts:
 
-- [contact@paug.fr](mailto:contact@paug.fr)
+- [contact@androidmakers.fr](mailto:contact@androidmakers.fr)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

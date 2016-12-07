@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Android Makers Paris 2017"
-email: "contact@paug.fr"
+email: "contact@androidmakers.fr"
 description: "Android Makers Paris, the biggest Android event in France"
 baseurl: ""
 url: "http://androidmakers.fr"
@@ -22,7 +22,7 @@ googleMapApiKey: AIzaSyDoDM9sRSk2C3JeopyW7UqGRA31QLi77tw
 organizerName: "Paris Android User Group & BeMyApp"
 organizerAlternateName: "Paris Android User Group & BeMyApp"
 organizerDescription: ""
-organizerEmail: "contact@paug.fr"
+organizerEmail: "contact@androidmakers.fr"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://paug.fr/"
 
@@ -176,7 +176,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:contact@paug.fr", text: "contact@paug.fr"}
+   - {link: "mailto:contact@androidmakers.fr", text: "contact@androidmakers.fr"}
  -
   title: "FAQ"
   links:

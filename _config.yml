@@ -42,6 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/android-makers-1st-edition-tickets-29579435889", text: "Get your ticket"}
 # - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
@@ -82,6 +83,9 @@ statisticBlock:
  - {count: "50", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "50", specialCharacter: "+", info: "makers", detail: "crafting the future"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -181,6 +185,11 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "androimakersfr"
 
 # Speakers List Block
 showSessions: true

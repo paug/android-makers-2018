@@ -24,11 +24,11 @@ These 40-minutes talks are like the ones hosted during PAUG’s meetups. In addi
 20-minutes talks are meant to be efficient talks. They can be technical, show a specific use case, they can tell a story, like the longer conferences. You’ll have 5 more minutes for Q&A.
 
 **Workshop**<br />
-Workshops must last no more than 3 hours. A workshop is the right place for transforming theory into practise. You may take at least the first 30 minutes to give basic information and provide everyone with the required background to follow up.
+Workshops must last between 1 hour 30 minutes and 3 hours. A workshop is the right place for transforming theory into practise. You may take at least the first 30 minutes to give basic information and provide everyone with the required background to follow up.
 Workshops about development, design, IoT, agility, etc. are all really encouraged.
 
 **Makers Area**<br />
-For half a day (morning or afternoon), you will be invited to showcase your project on a booth. We will let you setup your stand the way you want and do the demo you want. The both should be about 2 square meters. Don’t forget! If you're ready to do a demo of your work, chance is that you have something interesting to share in a 20 or 40minutes talk or a workshop. So go submit a subject, we’re waiting for you :).
+For half a day (morning or afternoon), you will be invited to showcase your project on a booth. We will let you setup your stand the way you want and do the demo you want. The both should be about 2 square meters. Don’t forget! If you're ready to do a demo of your work, chance is that you have something interesting to share in a 20 or 40 minutes talk or a workshop. So go submit a subject, we’re waiting for you :).
 
 Android Makers is an event organized for you devs and makers. It's the perfect opportunity to seize your chance to jump onstage and become a speaker. We really hope to see lots of talks, propositions and new names.
 

@@ -1,0 +1,22 @@
+<!-- Begin Thanks for register Section -->
+<section id="thanks-for-register" class="thanks-for-register">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h3>{{ site.thanksForRegisterTitle }}</h3>
+			<p>{{ site.thanksForRegisterDescription }}</p>
+            {% for organizer in site.data.organizers %}
+            <h5>{{ organizer.group }}</h5>
+            <ul class="list-inline">
+                {% for element in organizer.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+		</div>
+	</div>
+</section>
+<!-- End LThanks for register Section -->

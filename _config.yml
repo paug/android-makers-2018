@@ -195,6 +195,10 @@ discusShortName: "androimakersfr"
 thanksForRegisterTitle: "Congratulations!"
 thanksForRegisterDescription: "Your registration to Android Makers, April 10th-11th has been confirmed.<br /><br />For any other information, shoot us an email at <a href=mailto:contact@androidmakers.fr>contact@androidmakers.fr</a><br /><br />See you soon!"
 
+# Analytics
+googleAnalyticsTrackingId: "UA-75184420-32"
+googleAnalyticsSiteUrl: "auto"
+
 # Speakers List Block
 showSessions: true
 

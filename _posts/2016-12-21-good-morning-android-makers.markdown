@@ -6,9 +6,10 @@ isStaticPost: false
 ---
 **English version below.**
 
-Le 9 et 10 novembre 2015, les équipes de BeMyApp et du Paris Android User Group organisaient conjointement la troisième édition annuelle de la Droidcon Paris.
 
-Cet événement de deux jours, dédié à la plateforme Android, était l’occasion de rencontrer et d’échanger sur les derniers projets, découvrir les dernières tendances UI et UX, les nouveaux design pattern, améliorer ses méthodes de travail, s’initier à de nouvelles bonnes pratiques, bref, l’événement annuel français pour les inconditionnels du robot vert.
+Vous avez aimé la Droidcon Paris ? Vous allez adorer Android Makers le 10 et 11 avril 2017 !
+
+Fin 2015, les équipes de BeMyApp et du Paris Android User Group organisaient conjointement la troisième édition annuelle de la Droidcon Paris. Cet événement de deux jours, dédié à la plateforme Android, était l’occasion de rencontrer et d’échanger sur les derniers projets, découvrir les dernières tendances UI et UX, les nouveaux design pattern, améliorer ses méthodes de travail, s’initier à de nouvelles bonnes pratiques, bref, l’événement annuel français pour les inconditionnels du robot vert.
 
 Cette année, nos équipes ont pris la décision de relever un nouveau défi pour que chacun d’entre vous ait l’opportunité de repartir avec toujours plus de nouvelles idées et connaissances. Cette année, nous lançons une nouvelle conférence annuelle : **Android Makers**.
 
@@ -32,9 +33,9 @@ See you there :)
 
 ***
 
-On November 9-10, 2015, BeMyApp and Paris Android User Group held the third edition of Droidcon Paris.
+Did you like Droidcon Paris? You will love Android Makers the 10th and 11th April 2017!
 
-This two-day event was dedicated to the Android platform and offered participants the opportunity to meet new people, exchange on their latest projects, discover new UI/UX trends, design patterns and good practises, and improve their working methodology. In short, it was THE annual French meeting for those working with the green droid.
+On November 9-10, 2015, BeMyApp and Paris Android User Group held the third edition of Droidcon Paris. This two-day event was dedicated to the Android platform and offered participants the opportunity to meet new people, exchange on their latest projects, discover new UI/UX trends, design patterns and good practises, and improve their working methodology. In short, it was THE annual French meeting for those working with the green droid.
 
 This year, our team decided to embark on a new challenge, so that each of you would leave the event with even more knowledge and fresh ideas. This year, we are launching a new annual meeting: **Android Makers**.
 

@@ -1,6 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- jekyll-seo-tag
 safe: false
 
 # Build Settings
@@ -12,11 +13,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Android Makers Paris 2017"
 email: "contact@androidmakers.fr"
-description: "Android Makers Paris, the biggest Android event in France"
+description: "Android Makers Paris, the biggest Android event in France, 10-11th april, 2017."
 baseurl: ""
 url: "http://androidmakers.fr"
 permalink: "/blog/:title"
 googleMapApiKey: AIzaSyDoDM9sRSk2C3JeopyW7UqGRA31QLi77tw
+twitter:
+  username: androidmakersfr
+logo: "/img/seo/organizer-logo.png"
 
 # Organizer Info
 organizerName: "Paris Android User Group & BeMyApp"

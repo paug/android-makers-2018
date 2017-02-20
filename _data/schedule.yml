@@ -7,9 +7,9 @@
     - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [002, 003, 004]
     }
     - {
         startTime: "11:00",
@@ -17,9 +17,9 @@
         sessionIds: [003, 404, 004]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+        startTime: "12:00",
+        endTime: "11:45",
+        sessionIds: [307]
     }
 - 
   date: "2014-10-25"
@@ -29,14 +29,14 @@
     - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [404, 002]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [002, 003]
     }
     - {
         startTime: "13:00",
@@ -44,7 +44,7 @@
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [503]
     }

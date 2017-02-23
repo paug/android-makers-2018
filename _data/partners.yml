@@ -6,3 +6,4 @@
     - {name: "Octo Techno", description: "Octo Technology : There is a better way", link: "http://www.octo.com/en", imageUrl: "octo.png"}
     - {name: "Google", description: "Google", link: "https://d.android.com", imageUrl: "google.png"}
     - {name: "Le bon coin", description: "Le bon coin", link: "https://www.leboncoin.fr", imageUrl: "leboncoin.jpg"}
+    - {name: "iD.apps", description: "iD.apps", link: "http://www.id-apps.fr/", imageUrl: "idapps.png"}

@@ -7,3 +7,7 @@
     - {name: "Google", description: "Google", link: "https://d.android.com", imageUrl: "google.png"}
     - {name: "Le bon coin", description: "Le bon coin", link: "https://www.leboncoin.fr", imageUrl: "leboncoin.jpg"}
     - {name: "iD.apps", description: "iD.apps", link: "http://www.id-apps.fr/", imageUrl: "idapps.png"}
+-
+  group: "Media"
+  elements:
+    - {name: "F6S", description: "F6S", link: "https://www.f6s.com/", imageUrl: "f6s.png"}

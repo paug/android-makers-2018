@@ -100,7 +100,7 @@
   name: "Yoann"
   surname: "Benoit"
   thumbnailUrl: ybenoit.png
-  company: "SOAT"
+  company: "Xebia"
   bio: "Yoann est Data Scientist chez Xebia depuis près de deux ans. Il intervient sur de nombreux sujets autour de la Data Science et du Big Data, allant de la collecte, du traitement et de l'analyse des données jusqu'à la mise en production de pipelines complets de Machine Learning. Speaker et rédacteur à la fois sur les concepts et les technologies liées à la Data Science, il travaille principalement avec Python, Scala et Spark. Il intervient de plus en tant que formateur sur l'Analyse de Données et le Machine Learning sur Spark."
   social:
     - {name: "twitter", link: "https://twitter.com/YoannBENOIT"}

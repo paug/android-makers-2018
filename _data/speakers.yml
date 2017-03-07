@@ -150,16 +150,6 @@
     - {name: "site", link: "http://android.ald.softbankrobotics.com"}
 -
   id: 14
-  name: "Erwan"
-  surname: "Pinault"
-  company: "Softbank Robotics"
-  thumbnailUrl: epinault.png
-  bio: "Spécialisé en Java, Erwan Pinault est un ingénieur français qui travaille depuis 3 ans sur le SDK Java de SBR. Par le passé, il a travaillé sur différentes applications mobiles (iCoyote sur Android l'autoradio Parrot Asteroid ou encore sur le système R-Link de Renault). Son expertise Java lui a également permis de développer des serveurs J2EE pour des acteurs incontournables de l’industrie automobile, tels que BMW, Renault, Porsche ou encore Mercedes. Pendant son temps libre, Erwan aime partager son expertise Android et relevé des défis technologiques dans des environnements embarqués contraints."
-  social:
-    - {name: "twitter", link: "https://twitter.com/ghostwan"}
-    - {name: "site", link: "http://android.ald.softbankrobotics.com"}
--
-  id: 15
   name: "Julie"
   surname: "Petit"
   company: "SOAT"
@@ -170,7 +160,7 @@
     - {name: "google-plus", link: "https://plus.google.com/100764745771383969021"}
     - {name: "twitter", link: "https://twitter.com/J_TShyNe"}
 -
-  id: 16
+  id: 15
   name: "Yann"
   surname: "Huriez"
   company: "SOAT"
@@ -179,7 +169,7 @@
   social:
     - {name: "site", link: "http://blog.soat.fr/author/yann-huriez/"}
 -
-  id: 17
+  id: 16
   name: "Elaine"
   surname: "Dias Batista"
   company: "SFEIR"
@@ -191,7 +181,7 @@
     - {name: "twitter", link: "https://twitter.com/elainedbatista"}
     - {name: "site", link: "http://www.sfeir.com"}
 -
-  id: 18
+  id: 17
   name: "Wajdi"
   surname: "Ben Rabah"
   company: "SFEIR"
@@ -202,7 +192,7 @@
     - {name: "github", link: "https://github.com/wadjo"}
     - {name: "site", link: "http://www.wajdibr.com"}
 -
-  id: 19
+  id: 18
   name: "Lisa"
   surname: "Wray"
   company: "Genius"
@@ -217,7 +207,7 @@
     - {name: "github", link: "https://github.com/lisawray"}
     - {name: "site", link: "http://www.xwray.com/"}
 -
-  id: 20
+  id: 19
   name: "Parul"
   surname: "Soi"
   company: "Google"

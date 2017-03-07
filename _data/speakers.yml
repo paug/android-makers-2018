@@ -1,67 +1,230 @@
-- 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon: 
+-
+  id: 1
+  name: "Taylor"
+  surname: "Ling"
+  thumbnailUrl: tling.png
+  company: "Fabulous Co."
+  bio: "Taylor is a Digital Product Designer and is always passionate about great user experience. Previously he worked at a 3D printing company on their life-saving medical software before joining Snappymob, a startup in Kuala Lumpur, which allows him to make a difference in the local mobile app development scene by creating high-quality apps that users love. He is also the design co-founder of Fabulous, a habit-forming companion that received Material Design Award from Google Design team."
+  ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114727657292466806804/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+TaylorLing"}
+    - {name: "twitter", link: "https://twitter.com/taylorling"}
+    - {name: "site", link: "https://dribbble.com/taylorling"}
+-
+  id: 2
+  name: "Cyril"
+  surname: "Mottier"
+  thumbnailUrl: cmottier.png
+  company: ""
+  bio: "Mobile Product Devsigner & Android expert. ex-Head of Mobile & Web @captaintrain. #UI #UX #Design."
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
+    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
+    - {name: "github", link: "https://github.com/cyrilmottier"}
+    - {name: "site", link: "http://cyrilmottier.com"}
+-
+  id: 3
+  name: "Benjamin"
+  surname: "Monjoie"
+  thumbnailUrl: bmonjoie.png
+  company: "Appkers"
+  bio: "Developer since 2004, I have grown fond of Android since I started tinkering with it in 2011. I was previously employed at Emakina as lead Android developer. Since July 2016, I started my carrer as a freelancer. Through my work, I do my best to share my passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. I stay closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110401625095190962164/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/Xzan"}
+    - {name: "github", link: "https://github.com/bmonjoie"}
+-
+  id: 4
+  name: "Wayne"
+  surname: "Piekarski"
+  thumbnailUrl: wpiekarski.png
+  company: "Google"
+  bio: "Wayne Piekarski is a Developer Advocate at Google, focusing on the Internet of Things and the Google Assistant. He has worked for 15 years in academia and industry in the areas of wearable computing, outdoor augmented reality, and mobile devices. He works to get developers excited about new Google technologies, through conferences, social media, and training materials. He also works to advocate for developers within Google, ensuring developers have the right tools and information to support their work."
+  social:
+    - {name: "google-plus", link: "http://plus.google.com/+WaynePiekarski"}
+    - {name: "twitter", link: "https://twitter.com/waynepiekarski"}
+    - {name: "github", link: "https://github.com/waynepiekarski"}
+    - {name: "site", link: "http://www.tinmith.net/wayne/"}
+-
+  id: 5
+  name: "Jeroen"
+  surname: "Mols"
+  thumbnailUrl: jmols.png
+  company: "Philips Hue"
+  bio: "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process refocussed his master in Electrical engineering to become an Android developer. Starting off with highly technical prototypes for Wi-Fi connected products, he build his own file sharing platform (Wi-FileTransfer). Currently he drives the innovation for the official Philips Hue Android and iOS apps.<br /><br />One of a kind, never-been-done before apps are what he enjoys most and complex systems, highly technical apps have become his expertise. Currently Jeroen helped realize three huge connected products, various high profile apps (e.g. Nieuwsblad), actively contributes to open source and loves interacting with the Android community."
+  social:
+    - {name: "twitter", link: "https://twitter.com/molsjeroen"}
+    - {name: "github", link: "https://github.com/JeroenMols"}
+    - {name: "site", link: "http://jeroenmols.com"}
+-
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
+  name: "David"
+  surname: "Fournier"
+  thumbnailUrl: dfournier.png
+  company: "Philips Hue"
+  bio: "I am David Fournier. After a PhD in Computer Science, I started working for a quantitative optimization software company, making Java applications and softwares to optimize energy consumptions of cities, reduce delays in trains or decrease the number of operations on super tankers. Making Android applications during my past time, I eventually took my chance to develop them as a professional and was hired last year at Smart & Soft where I develop mobile apps on a daily basis."
+  social:
+    - {name: "twitter", link: "https://twitter.com/smartnsoft"}
+    - {name: "site", link: "https://smartnsoft.com/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "David"
+  surname: "Wursteisen"
+  thumbnailUrl: dwursteisen.png
+  company: "SOAT"
+  bio: "David intervient chez différents clients au domaine fonctionnel varié, pour les aider à réaliser leurs projets. Pour lui le développement logiciel n’est pas qu’une affaire de technique. Son rôle est d’aider ses clients à prendre en compte d’autres aspects, pour que leurs développements informatiques ne soient plus un frein à leur activité mais un atout."
+  social:
+    - {name: "google-plus", link: "http://plus.google.com/118025745356901983994"}
+    - {name: "twitter", link: "https://twitter.com/dwursteisen"}
+    - {name: "github", link: "https://github.com/dwursteisen"}
+    - {name: "site", link: "http://blog.soat.fr/author/david-wursteisen/"}
+-
+  id: 8
+  name: "Qian"
+  surname: "Jin"
+  thumbnailUrl: qjin.png
+  company: "Xebia"
+  bio: "Android developer, Pythonista, IoT maker, Enthusiast on accessibility & TechForGood subjects"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+QianJIN_HZ"}
+    - {name: "twitter", link: "https://twitter.com/	bonbonking"}
+    - {name: "site", link: "http://potatobon.com/"}
+-
+  id: 9
+  name: "Yoann"
+  surname: "Benoit"
+  thumbnailUrl: ybenoit.png
+  company: "SOAT"
+  bio: "Yoann est Data Scientist chez Xebia depuis près de deux ans. Il intervient sur de nombreux sujets autour de la Data Science et du Big Data, allant de la collecte, du traitement et de l'analyse des données jusqu'à la mise en production de pipelines complets de Machine Learning. Speaker et rédacteur à la fois sur les concepts et les technologies liées à la Data Science, il travaille principalement avec Python, Scala et Spark. Il intervient de plus en tant que formateur sur l'Analyse de Données et le Machine Learning sur Spark."
+  social:
+    - {name: "twitter", link: "https://twitter.com/YoannBENOIT"}
+    - {name: "github", link: "https://github.com/ybenoit"}
+    - {name: "site", link: "http://training.xebia.fr/author/ybenoit/"}
+-
+  id: 10
+  name: "Quentin"
+  surname: "Sallat"
+  thumbnailUrl: qsallat.png
+  company: "iD.apps"
+  bio: "Quentin Sallat is an Android tech lead at iD.apps. He has been passionate about mobile development for several years. He loves to create smart and user-centric applications, focusing on user experience and little design details."
+  social:
+    - {name: "twitter", link: "https://twitter.com/Aerilys"}
+    - {name: "site", link: "http://blog.aerilys.fr"}
+-
+  id: 11
+  name: "Florian"
+  surname: "Mierzejewski"
+  thumbnailUrl: fmierzejewski.png
+  company: "Novoda"
+  bio: "Android developer, Photographer, and well... French. Converting caffeine into great stuff @ Novoda."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/florianmski"}
+    - {name: "github", link: "https://github.com/florianmski"}
+    - {name: "site", link: "http://florianmski.fr/"}
+-
+  id: 12
+  name: "Thalía"
+  surname: "Cruz Castañarez"
+  company: "Softbank Robotics"
+  thumbnailUrl: tcruzcastanarez.png
+  bio: "I'm a Mexican Software Engineer, Android and robotics enthusiast. I'm currently the Android team's manager at Softbank Robotics in Paris. Our goal is to create the SDK to develop Android applications compatible with our humanoid robot Pepper."
+  social:
+    - {name: "site", link: "http://android.ald.softbankrobotics.com"}
+-
+  id: 13
+  name: "Erwan"
+  surname: "Pinault"
+  company: "Softbank Robotics"
+  thumbnailUrl: epinault.png
+  bio: "Spécialisé en Java, Erwan Pinault est un ingénieur français qui travaille depuis 3 ans sur le SDK Java de SBR. Par le passé, il a travaillé sur différentes applications mobiles (iCoyote sur Android l'autoradio Parrot Asteroid ou encore sur le système R-Link de Renault). Son expertise Java lui a également permis de développer des serveurs J2EE pour des acteurs incontournables de l’industrie automobile, tels que BMW, Renault, Porsche ou encore Mercedes. Pendant son temps libre, Erwan aime partager son expertise Android et relevé des défis technologiques dans des environnements embarqués contraints."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ghostwan"}
+    - {name: "site", link: "http://android.ald.softbankrobotics.com"}
+-
+  id: 14
+  name: "Erwan"
+  surname: "Pinault"
+  company: "Softbank Robotics"
+  thumbnailUrl: epinault.png
+  bio: "Spécialisé en Java, Erwan Pinault est un ingénieur français qui travaille depuis 3 ans sur le SDK Java de SBR. Par le passé, il a travaillé sur différentes applications mobiles (iCoyote sur Android l'autoradio Parrot Asteroid ou encore sur le système R-Link de Renault). Son expertise Java lui a également permis de développer des serveurs J2EE pour des acteurs incontournables de l’industrie automobile, tels que BMW, Renault, Porsche ou encore Mercedes. Pendant son temps libre, Erwan aime partager son expertise Android et relevé des défis technologiques dans des environnements embarqués contraints."
+  social:
+    - {name: "twitter", link: "https://twitter.com/ghostwan"}
+    - {name: "site", link: "http://android.ald.softbankrobotics.com"}
+-
+  id: 15
+  name: "Julie"
+  surname: "Petit"
+  company: "SOAT"
+  thumbnailUrl: jpetit.png
+  bio: "Développeuse passionnée, j’ai depuis 4 ans décidée de m’expertiser dans le développement d'application Android."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/100764745771383969021"}
+    - {name: "twitter", link: "https://twitter.com/J_TShyNe"}
+-
+  id: 16
+  name: "Yann"
+  surname: "Huriez"
+  company: "SOAT"
+  thumbnailUrl: yhuriez.png
+  bio: "Développeur Android depuis 3 ans, je suis avec attention les nouveautés lié à Android et cherche toujours à en tirer les bonnes pratiques et les méthodes d'optimisation des applications mobiles."
+  social:
+    - {name: "site", link: "http://blog.soat.fr/author/yann-huriez/"}
+-
+  id: 17
+  name: "Elaine"
+  surname: "Dias Batista"
+  company: "SFEIR"
+  thumbnailUrl: ediasbatista.png
+  bio: "Elaine has been working with mobile apps since 2012. Passionate about new technologies, her main interests revolve around user experience optimization and non-conventional types of interaction with technology (voice, gestures, sensors)."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ElaineDiasBatista"}
+    - {name: "twitter", link: "https://twitter.com/elainedbatista"}
+    - {name: "site", link: "http://www.sfeir.com"}
+-
+  id: 18
+  name: "Wajdi"
+  surname: "Ben Rabah"
+  company: "SFEIR"
+  thumbnailUrl: wbenrabah.png
+  bio: "Wajdi est un ingénieur en informatique spécialisé en technologies mobile (natives et hybrides) et réalités parallèles. Il travaille actuellement avec la société SFEIR. Il a publié des articles autour de ces sujets soit sur des blogs ou dans des magazines papier (Programmez! num198). Il a été aussi speaker dans quelques évènements (en France et ailleurs). Il essaie également de participer à pousser le monde numérique vers l'avant via des contributions sur Github (Angular2 documentation par exemple) ou via des sessions de formations, ateliers, conférences et meetups."
+  social:
+    - {name: "twitter", link: "https://twitter.com/WajdiBenRabah"}
+    - {name: "github", link: "https://github.com/wadjo"}
+    - {name: "site", link: "http://www.wajdibr.com"}
+-
+  id: 19
+  name: "Lisa"
+  surname: "Wray"
+  company: "Genius"
+  thumbnailUrl: lwray.png
+  bio: "Android lead at Genius (genius.com), GDE, formerly Google, New York Times."
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+LisaWrayZeitouni"}
+    - {name: "twitter", link: "https://twitter.com/lisawrayz"}
+    - {name: "github", link: "https://github.com/lisawray"}
+    - {name: "site", link: "http://www.xwray.com/"}
+-
+  id: 20
+  name: "Parul"
+  surname: "Soi"
+  company: "Google"
+  thumbnailUrl: psoi.png
+  bio: "I'm a Program Manager with Google's Developer Relations team, leading the Agency Program in India. I've also been working with the Firebase team to evangelize the product through the Pirate Metrics with Firebase series (<a href='http://firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html'>firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html</a>)."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/111589393981937546851"}
+    - {name: "twitter", link: "https://twitter.com/parulsoi"}

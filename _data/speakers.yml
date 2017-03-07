@@ -145,7 +145,6 @@
   company: "Softbank Robotics"
   thumbnailUrl: epinault.png
   bio: "Spécialisé en Java, Erwan Pinault est un ingénieur français qui travaille depuis 3 ans sur le SDK Java de SBR. Par le passé, il a travaillé sur différentes applications mobiles (iCoyote sur Android l'autoradio Parrot Asteroid ou encore sur le système R-Link de Renault). Son expertise Java lui a également permis de développer des serveurs J2EE pour des acteurs incontournables de l’industrie automobile, tels que BMW, Renault, Porsche ou encore Mercedes. Pendant son temps libre, Erwan aime partager son expertise Android et relevé des défis technologiques dans des environnements embarqués contraints."
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ghostwan"}
     - {name: "site", link: "http://android.ald.softbankrobotics.com"}

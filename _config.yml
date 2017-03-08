@@ -46,6 +46,7 @@ c4sponsorsUrl: "mailto:jeremy@bemyapp.com"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/speakers/", text: "Speakers & Talks"}
  - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/android-makers-1st-edition-tickets-29579435889", text: "Get your ticket"}

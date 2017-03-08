@@ -1,0 +1,119 @@
+-
+  id: 1
+  title: "The Fabulous Journey to Material Design Award"
+  description: "<p>Taylor will be sharing his experience as a design co-founder of Fabulous, an app that recently got the Material Design Award, from design and marketing perspective.<br />The audience is expected to walk away with some lessons learned by Taylor while building Fabulous, including like why Details matter, the use of illustrations in Fabulous, data-driven design etc. which hopefully help to inspire the audience for further enhancement of their app.<br /><br />Type: UX/UI<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [1]
+  language: en
+-
+  id: 2
+  title: "Launch Screens: From a Tap to Your App"
+  description: "<p>The launch screen is a user’s first experience of your application and, hence, should be designed with great care.<br />In this talk, we will deep dive into the concept of launch screen, discover how to measure, debug & optimise them efficiently, and learn more about how to implement them correctly.<br />In other words, this talk is all about discussing for ±45 min about screens displayed less than 5 seconds.<br /><br />Type: Android development<br />Experience: expert </p>"
+  subtype: presentation
+  speakers: [2]
+  language: fr
+-
+  id: 3
+  title: "Android Leaks épisode live"
+  description: "<p>Un épisode live du podcast <a href='https://androidleakspodcast.com/'>Android Leaks</a> avec Yannick Lemin et Benjamin Monjoie<br /><br />Type: Android development<br />Experience: beginner </p>"
+  subtype: presentation
+  speakers: [3]
+  language: fr
+-
+  id: 4
+  title: "Workshop on Android Things for IoT"
+  description: "<p>Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android.<br />In this session, you will have the opportunity to develop your own IoT applications with the assistance of Developer Advocates from Google. We will be available for answering your questions, and also to give feedback to the engineering team.<br /> Come and try out the use of familiar tools such as Android Studio and the Android SDK to easily develop IoT software.<br /><br />Type: Android everywhere<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [4]
+  language: en
+-
+  id: 5
+  title: "The ART of organizing resources"
+  description: "<p>Do you remember the last time you had to dig into strings.xml to find the right String to use? Or that you manually had to go over all drawables to find the one you needed?<br /><br />Whenever we start a new project, we take a lot of care in setting up our architecture, CI, build flavors,... But do you also have a strategy to name your resources?<br /><br />You should! Because the lack of XML namespaces, makes managing Android resources tedious. And causes things to grow out of control easily, especially in large projects.<br /><br />So let's introduce a simple scheme that will solve your pains: - easy lookup of any resource (autocomplete) - logical, predictable names - clean ordering of resources - strongly typed resources<br /><br />This talk will explain the mechanism, its advantages, limitations and provide an easy to use cheat sheet.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [5]
+  language: en
+-
+  id: 6
+  title: "Android Auto - live coding"
+  description: "<p>Announced in 2014, Android Auto was the Google response to Apple CarPlay. It was however complicated for a developer to make Android Auto apps as the development tools were scarce and not really adapted.<br />With the release of Android Auto 2.0 in November 2016, the developer has now a fully functional testing platform with Google releasing an Android Auto simulator and an Android mobile app. This new version has encouraged a growing number of constructors to include Android Auto devices in their cars, and it becomes more appealing to start developing apps for this platform, either specifically or as a spin-off of an already existing app.<br /><br />In this session of live coding, we will show how to use the Android Auto SDK to make a small application capable of playing songs and live streams, controllable with touch commands or the user voice. We will show what are the good practices, the functionalities and limits of the SDK while giving the opportunity for attendants to have a quick look of the possibilities offered Android Auto.<br />A Github repository containing the code written during the presentation will be available at the end of it.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [6]
+  language: en
+-
+  id: 7
+  title: "Développer un jeu vidéo (quand on n’y connait rien en développement de jeux vidéo)"
+  description: "<p>Comment on développe un jeu vidéo ? Est-ce compliqué d’afficher un personnage sur l’écran et de le faire bouger par la suite ? Programmer un jeu est-il comparable à programmer un application backend ou une application Android ? Quels sont les outils à utiliser ? Comment rendre un jeu amusant ?<br /><br />J’ai dû me poser ces questions pour réaliser mon premier jeu mobile. Cette présentation essayera d’y répondre et fera un retour sur les différentes expérimentations réalisées avant d’obtenir un jeu.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [7]
+  language: fr
+-
+  id: 8
+  title: "Faites chauffer les neurones de votre Smartphone Android avec du Deep Learning"
+  description: "<p>Nous entendons aujourd'hui parler de Deep Learning un peu partout : reconnaissance d'images, de sons, génération de texte, etc. Mais, bien que les techniques et frameworks soient en train de se démocratiser, il reste difficile d'en voir des applications concrètes en entreprise, et encore moins sur des applications mobiles. Nous avons donc décidé de construire un Proof Of Concept pour relever les défis du domaine.<br />Nous allons vous présenter un exemple d'application mobile à but éducatif utilisant du Deep Learning pour de la reconnaissance d'images. A travers cet exemple, nous aborderons les questions d'impact de ce type de modèle sur les smartphones, mais aussi d'architecture pour l'entraînement et le déploiement de modèles. Que vous soyez quelque part entre la Data Science et le développement Android, il y en aura pour tous les goûts !<br /><br />Type: Android everywhere<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [8,9]
+  language: fr
+-
+  id: 9
+  title: "Le design mobile, c'est pas facile !"
+  description: "<p>Réaliser le design d'une application sur mobile ne doit pas être si compliqué que ça. Après tout, petit écran = petit design non ? Certainement pas !<br /><br />Cette conférence vous propose de démystifier le design sur Android et iOS. Au travers d'exemples très concrets, vous allez découvrir les demandes parfois farfelues, mais bien souvent légitimes, que nous avons pu recevoir, et comment faire malgré tout un design correct. Cela sera ainsi l'occasion de vous donner quelques clés pour convaincre vos clients de faire les choses correctement.<br /><br />Si vous en avez assez de créer un design iOS pour vos applications Android, ou pire, de devoir appliquer un pseudo-style bootstrap pour votre app iPad, vous n'êtes pas seul, venez nous voir !<br /><br />Type: UX/UI<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [10]
+  language: fr
+-
+  id: 10
+  title: "Taking care of your UI tests"
+  description: "<p>Most Android UI testing talks focus on how Espresso works and how to start writing simple tests. This is fine for a simple app but maintaining and expanding those tests gets harder as the app grows.<br />This talk will focus on writing complex tests scenarios while making sure we keep them maintenable, extandable and readable. I’ll use a released app we developed as an example. This will involve multi-screen scenarios, handling asynchronous operations, providing a fake environment as well as some common and less common Espresso gotchas.<br /><br />Type: Android development<br />Experience: expert</p>"
+  subtype: presentation
+  speakers: [11]
+  language: en
+-
+  id: 11
+  title: "Android and Pepper: a love story"
+  description: "<p>“Once upon a time there was a humanoid robot called Pepper. He was one of a kind: with a body all covered in white and a display to show beautiful images. One day, a green stranger stepped into Pepper's life. His name was Android. At the beginning they were both shy. They didn't speak the same language but somehow they knew they were made for each other...“<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [12,13]
+  language: en
+-
+  id: 12
+  title: "DataBinding : simplifiez la gestion de vos vues !"
+  description: "<p>Vous entendez parlez de DataBinding depuis longtemps mais ne savez pas ce que c'est, ni ce que cela peut apporter à votre projet, et vous êtes curieux d'en savoir plus ? Alors ce Workshop est fait pour vous !<br /></p><h3>Objectif du Workshop</h3><p>Nous vous proposons durant cet atelier de découvrir les bases du DataBinding sous Android et les gains que cela vous apportent à la gestion des vues.</p><h3>Programme</h3><p>Au travers d'une série d'exercices, nous vous apprendront à :<ul><li>Créer un binding et laisser votre layout gérer ses propres données</li><li>Rendre vos vues facilement réutilisables grâce aux ViewModels et au MVVM</li><li>Gérer plus facilement les changements dynamique sur vos écrans</li><li>Accéder à des champs inaccessibles depuis le XML avec les Binding Adapters</li><li>Décomplexifier les Adapter de la RecyclerView</li></ul></p><h3>Prérequis</h3><h4>Expérience requise</h4><p>Les développeurs de tous niveaux sont conviés : les exercices s'adaptent à votre rythme et vont du plus simple au plus complexe en fonction de votre aisance.</p><h4>Matériel</h4><p>Un PC avec Java 7 ou plus suffit. Si vous n’avez pas Android Studio d’installé, nous vous aiderons à l’installer sur place.<br /><br />N'hésitez pas à venir nombreux au rendez-vous !<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [14,15]
+  language: fr
+-
+  id: 13
+  title: "An Introduction to Google Home, Google Assistant and Actions on Google"
+  description: "<p>Google Home is a voice-activated speaker powered by the Google Assistant. You can ask questions, tell it to do things. It’s your own Google, always ready to help.<br /><br />On this talk I will present and demonstrate the main features of the Google Home. Further on, I will show how to create custom actions through Actions on Google and make them available for all Google Home users.<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [16,17]
+  language: en
+-
+  id: 14
+  title: "Actions on Google Workshop"
+  description: "<p>Come and create conversation actions for the Google Assistant using Actions on Google. We'll show how you can integrate your existing services (or you can create a brand new one!) into the Google Assistant ecosystem, available on phones, android wear smartwatches and the Google Home. We'll build our actions with the <a href='https://youtu.be/9SUAuy9OJg4'>API.AI platform</a>.<br /><br />Type: Android everywhere<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [16,17]
+  language: en
+-
+  id: 15
+  title: "Text in the Age of Material"
+  description: "<p>Two years ago <a href='https://youtu.be/7GFRpP9a-eQ'>I spoke about bringing the quality and detail of print typography to Android</a>. Since then, I’ve heard lots of new questions about the “ink” part of material UI.<br />Do the material guidelines mean you need to use Roboto for buttons and toolbars?<br />How should you animate text as part of a transition?<br />Is it performant to draw your own text layouts, and why would you want to?<br />We’ll start with an overview of the tools available in Android for text manipulation and then dive into practical techniques you can use in your app today.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [18]
+  language: en
+-
+  id: 16
+  title: "Keynote: Android First"
+  description: "<p>In the global election of mobile platforms, the world has spoken and it wants Android. So why is it still the tech world's second choice? Let's take an honest, no-holds-barred look at our industry’s greatest failure -- the phenomenon of the iOS-first launch -- and what it means for the past, present, and future of Android.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [18]
+  language: en
+-
+  id: 17
+  title: "Pirate Metrics with Firebase"
+  description: "<p>Pirate Metrics is a popular framework for product analytics, popularized by Dave McClure of 500 Startups. While analytics itself is a vast field, most tech products ultimately track and try to boost these 5 key metrics - Acquisition, Activation, Retention, Referral and Revenue.<br /><br />So far, doing so was often costly and/or required multiple different tools. Enter Firebase, with its suite of integrated SDKs which can help you do all that, and more.<br /><br />Type: UX/UI<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [19]
+  language: en

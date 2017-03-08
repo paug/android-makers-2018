@@ -98,20 +98,13 @@
   language: en
 -
   id: 15
-  title: "Text in the Age of Material"
-  description: "<p>Two years ago <a href='https://youtu.be/7GFRpP9a-eQ'>I spoke about bringing the quality and detail of print typography to Android</a>. Since then, I’ve heard lots of new questions about the “ink” part of material UI.<br />Do the material guidelines mean you need to use Roboto for buttons and toolbars?<br />How should you animate text as part of a transition?<br />Is it performant to draw your own text layouts, and why would you want to?<br />We’ll start with an overview of the tools available in Android for text manipulation and then dive into practical techniques you can use in your app today.<br /><br />Type: Android development<br />Experience: beginner</p>"
-  subtype: presentation
-  speakers: [18]
-  language: en
--
-  id: 16
   title: "Keynote: Android First"
   description: "<p>In the global election of mobile platforms, the world has spoken and it wants Android. So why is it still the tech world's second choice? Let's take an honest, no-holds-barred look at our industry’s greatest failure -- the phenomenon of the iOS-first launch -- and what it means for the past, present, and future of Android.<br /><br />Type: Android development<br />Experience: beginner</p>"
   subtype: presentation
   speakers: [18]
   language: en
 -
-  id: 17
+  id: 16
   title: "Pirate Metrics with Firebase"
   description: "<p>Pirate Metrics is a popular framework for product analytics, popularized by Dave McClure of 500 Startups. While analytics itself is a vast field, most tech products ultimately track and try to boost these 5 key metrics - Acquisition, Activation, Retention, Referral and Revenue.<br /><br />So far, doing so was often costly and/or required multiple different tools. Enter Firebase, with its suite of integrated SDKs which can help you do all that, and more.<br /><br />Type: UX/UI<br />Experience: beginner</p>"
   subtype: presentation

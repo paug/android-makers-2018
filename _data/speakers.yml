@@ -66,7 +66,7 @@
   name: "David"
   surname: "Fournier"
   thumbnailUrl: dfournier.png
-  company: "Philips Hue"
+  company: "Smart & Soft"
   bio: "I am David Fournier. After a PhD in Computer Science, I started working for a quantitative optimization software company, making Java applications and softwares to optimize energy consumptions of cities, reduce delays in trains or decrease the number of operations on super tankers. Making Android applications during my past time, I eventually took my chance to develop them as a professional and was hired last year at Smart & Soft where I develop mobile apps on a daily basis."
   social:
     - {name: "twitter", link: "https://twitter.com/smartnsoft"}

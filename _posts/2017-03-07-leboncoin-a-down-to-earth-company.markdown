@@ -4,11 +4,11 @@ title:  'Leboncoin, a down to earth company'
 date:   2017-03-06 19:00:00
 isStaticPost: false
 --- 
-The android and Ios app has already been downloaded more than 12 million times. It is used by more than 1 million unique visitors each day. The quality is not set aside with a rating of 4.24 stars and a crash rate of 99.85% free session. Since its launch in 2006, leboncoin has incorporated Androids technology into their business frame.
+Launched in 2006, leboncoin is now one of the top 5 most consulted websites in France; more specifically, the number 1 website for private sales and the leader in real estate, car sales and job ads markets.
  
-The IT is agile using Scrum method. Every committed code is reviewed by developers and Jenkins jobs to attest the non-regression. Le Bon Coin is improving their CI to maximize automation, and to ensure the quality of their releases, they have a QA team composed of dedicated developers and analysts.
+The android app launched in 2012 has already been downloaded more than 12 million times. It is used by more than 1 million unique visitors each day. The quality is not set aside with a rating of 4.24 stars and a crash rate of 99.85% free session.
  
-Leboncoin is now one of the top 4 most consulted websites in France; more specifically, the number 1 website for private sales and the leader in real estate, car sales and job ads markets.
+The IT is agile using Scrum method. Every committed code is reviewed by developers and Jenkins jobs to attest the non-regression. Leboncoin is improving their CI to maximize automation, and to ensure the quality of their releases, they have a QA team composed of dedicated developers and analysts
  
 **About**
 

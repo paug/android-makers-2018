@@ -11,7 +11,7 @@
   description: "<p>The launch screen is a user’s first experience of your application and, hence, should be designed with great care.<br />In this talk, we will deep dive into the concept of launch screen, discover how to measure, debug & optimise them efficiently, and learn more about how to implement them correctly.<br />In other words, this talk is all about discussing for ±45 min about screens displayed less than 5 seconds.<br /><br />Type: Android development<br />Experience: expert </p>"
   subtype: presentation
   speakers: [2]
-  language: fr
+  language: en
 -
   id: 3
   title: "Android Leaks épisode live"

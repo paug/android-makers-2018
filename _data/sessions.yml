@@ -17,7 +17,7 @@
   title: "Android Leaks épisode live"
   description: "<p>Un épisode live du podcast <a href='https://androidleakspodcast.com/'>Android Leaks</a> avec Yannick Lemin et Benjamin Monjoie<br /><br />Type: Android development<br />Experience: beginner </p>"
   subtype: presentation
-  speakers: [3]
+  speakers: [3,20]
   language: fr
 -
   id: 4

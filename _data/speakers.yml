@@ -217,3 +217,15 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/111589393981937546851"}
     - {name: "twitter", link: "https://twitter.com/parulsoi"}
+-
+  id: 20
+  name: "Yannick"
+  surname: "Lemin"
+  company: "TechYOS"
+  thumbnailUrl: psoi.png
+  bio: "Passionate about computers ever since I was a kid, it was actually logical for me to become a developer. To this day I'm still as passionate as ever. I started my carreer in 2000 in the US doing cross platform desktop apps in C++, back in Belgium in 2007 and started Java development and got very interested in mobile, particularly Android, in 2008 when it was announced. I have been developing for the platform ever since. I am also one half of the french speaking Android development podcast: Android Leaks, and lead organizer of the GDG Brussels."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105068877693379070381/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+YannickLemin"}
+    - {name: "twitter", link: "https://twitter.com/theyann"}

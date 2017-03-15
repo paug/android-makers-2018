@@ -89,7 +89,7 @@ statisticBlock:
  - {count: "600", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Android content"}
  - {count: "50", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "50", specialCharacter: "+", info: "makers", detail: "crafting the future"}
+ - {count: "10", specialCharacter: "+", info: "makers", detail: "crafting the future"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

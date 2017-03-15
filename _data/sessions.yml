@@ -29,7 +29,7 @@
 -
   id: 5
   title: "The ART of organizing resources"
-  description: "<p>Do you remember the last time you had to dig into strings.xml to find the right String to use? Or that you manually had to go over all drawables to find the one you needed?<br /><br />Whenever we start a new project, we take a lot of care in setting up our architecture, CI, build flavors,... But do you also have a strategy to name your resources?<br /><br />You should! Because the lack of XML namespaces, makes managing Android resources tedious. And causes things to grow out of control easily, especially in large projects.<br /><br />So let's introduce a simple scheme that will solve your pains: - easy lookup of any resource (autocomplete) - logical, predictable names - clean ordering of resources - strongly typed resources<br /><br />This talk will explain the mechanism, its advantages, limitations and provide an easy to use cheat sheet.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  description: "<p>Do you remember the last time you had to dig into strings.xml to find the right String to use? Or that you manually had to go over all drawables to find the one you needed?<br /><br />Whenever we start a new project, we take a lot of care in setting up our architecture, CI, build flavors,… But do you also have a strategy to name your resources?<br /><br />You should! Because the lack of XML namespaces, makes managing Android resources tedious. And causes things to grow out of control easily, especially in large projects.<br /><br />So let's introduce a simple scheme that will solve your pains: - easy lookup of any resource (autocomplete) - logical, predictable names - clean ordering of resources - strongly typed resources<br /><br />This talk will explain the mechanism, its advantages, limitations and provide an easy to use cheat sheet.<br /><br />Type: Android development<br />Experience: beginner</p>"
   subtype: presentation
   speakers: [5]
   language: en
@@ -71,7 +71,7 @@
 -
   id: 11
   title: "Android and Pepper: a love story"
-  description: "<p>“Once upon a time there was a humanoid robot called Pepper. He was one of a kind: with a body all covered in white and a display to show beautiful images. One day, a green stranger stepped into Pepper's life. His name was Android. At the beginning they were both shy. They didn't speak the same language but somehow they knew they were made for each other...“<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
+  description: "<p>“Once upon a time there was a humanoid robot called Pepper. He was one of a kind: with a body all covered in white and a display to show beautiful images. One day, a green stranger stepped into Pepper's life. His name was Android. At the beginning they were both shy. They didn't speak the same language but somehow they knew they were made for each other…“<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
   subtype: presentation
   speakers: [12,13]
   language: en
@@ -159,3 +159,52 @@
   subtype: presentation
   speakers: [28,29]
   language: en
+-
+  id: 24
+  title: "Découvrir et maîtriser l'obfuscation sur Android"
+  description: "<p>Développer des applications, c’est bien ! Les sécuriser, c’est mieux… Et encore plus si ces applications manipulent des données sensibles ou personnelles. Protéger ses applications contre le reverse-engineering est quelque chose qui devrait être fait systématiquement avant leur ouverture au grand public : Malheureusement, cette étape est encore trop souvent négligée.<br /><br />Bien obfusquer son code permet, de rendre la compréhension de votre système plus difficile pour un tiers, d’éviter le vol de votre propriété intellectuelle et de limiter la fuite d’informations.<br /><br />Le but de cette présentation est de vous introduire a l’obfuscation d’un SDK ou d’une application, de vous présenter les différents enjeux et de vous prouver qu’activer proguard n’est pas toujours synonyme de crash ! François et Renaud vous montreront pas à pas et de manière pratique comment obfusquer une application en partant de zéro, tout en analysant le résultat et la qualité de celle-ci.<br /><br />Des techniques plus poussées seront également présentées, le but étant de tirer le maximum des différents outils mis à notre disposition gratuitement. La limite des outils gratuits par rapport aux outils payants sera également abordée.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [30,31]
+  language: fr
+-
+  id: 25
+  title: "Le root : un inconnu chez soi ?"
+  description: "<p>Vous laisseriez le compte admin de votre laptop à un inconnu ? Ou même votre password Gmail ? Alors pourquoi tant d’utilisateurs installent le root sur leurs devices ?<br />Venez découvrir comment marche réellement ce hack, son évolution au cours des dernières années et ses implications un peu trop vite oubliées.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [32]
+  language: fr
+-
+  id: 26
+  title: "Putting the “Pro” in “Proximity”: Interactive Demos of the Nearby API"
+  description: "<p>What if… - you could share a meeting agenda, link, or access to a document to a roomful of people without having to enter their email addresses? - you could collaborate seamlessly with a group of people on a proposal, lunch order or crowdgame just by being in the same room? - when you walked up to a locked door, it knew you were there and unlocked for you without having to pull out an ID card? - you could navigate to your parked car in a huge concrete garage as easily as you could navigate across town with GPS?<br /><br />All of these concepts, and many more, are possible thanks to the Nearby API. Before, it was often easier to have one phone talk to another around the world than one in the same room. Now the Nearby API greatly simplifies the process of proximity-based communication between phones, and of working with beacons. It’s easy for you to become a pro at handling proximity in your apps!<br /><br />We’ll go over ideas of what the Nearby API can add to your app, how to implement it, and what Google doesn’t tell you about the Nearby API. We’ll also be able to try some apps hands-on together to see the potential firsthand! There will be a smorgasbord of interesting information. Bon app-etit!<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [33]
+  language: en
+-
+  id: 27
+  title: "Make or brake… using Gradle."
+  description: "<p>This talk will focus on automating the tedious tasks every team has. Everyone knows you should write clean code, unit test, and check for common bugs. But sometimes, it's hard… Sometimes you forget… Well in this talk we will focus on making it easier. How to automate the process, make your build servers do most of the stuff for you, and increase visibility of your tasks and their progress to your team. I will focus on both a setup for a new project, where you start from scratch and where you will want to keep the slate clean, but also for existing projects where you will want to pay your technical debt, a bit at a time, fixing your project, but also not disrupting your daily routine.<br /><br />You can see <a href='https://docs.google.com/presentation/d/1Dmm8pqQw-6hbArfoNhRiGmj0AMB9h7cB27kelwe_ej8/edit?usp=sharing'>the outline of the slides here</a><br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [34]
+  language: en
+-
+  id: 28
+  title: "RxJava est mort, vive RxJava 2 !"
+  description: "<p>La migration de RxJava 2 à commencé en 2016. Mais 2017 sera sont année phare et va pouvoir profiter du chemin déjà tracé par sa précédente version.<br /><br />Quels sont les changements apportés par cette nouvelle version, en terme d’API ou de performances ? En quoi RxJava et RxJava 2 sont-ils différents ? Faut-il migrer sur RxJava 2 tout de suite ?<br /><br />Cette conférence fera un bref historique des ces bibliothèques avant de répondre à ces différentes questions.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [7]
+  language: fr
+-
+  id: 29
+  title: "One year of Clean Architecture : the Good, the Bad and the Bob"
+  description: "<p>Après des heures de visionnage de ce sacré tonton, et conscients qu’évidemment, there is a better way, il était temps de passer à la version supérieure du MVP. C’est ce que nous avons fait, en mettant en place différentes interprétations de la Clean Architecture sur nos missions, sur des applications existantes comme sur du from-scratch. ((MVVM + Interactor + Kotlin) x Executor * TU + Test d’acceptance)TDD = plaisir assuré ;)<br /><br />Nous sommes partis des postulats d’Uncle Bob : avoir une architecture indépendante des frameworks, de l’UI, des back-ends et des BDD. Et par dessus tout : testable. Pour une fois, nous n’avons pas mis la stack technique au centre de notre choix d’architecture. Car comme il le dit si bien, un bon architecte est quelqu’un qui retarde au plus tard les choix des outils. Nous nous sommes concentrés sur les règles métier. En pur java. En pur KOTLIN. Sans librairies.<br /><br />Ce modèle a révolutionné notre manière de concevoir une application chez nos différents clients (BNP, SNCF, Meetic…). Nous allons vous partager nos fiertés, nos douleurs et les questions qui restent encore ouvertes.<br /><br />Alors viens-t’en kiffer jeune niaiseux!<br /><br />La tribu MOB, aka les ne(r)veux d'Oncle BOB<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [35]
+  language: fr
+-
+  id: 30
+  title: "Développez votre prochaine application avec Kotlin"
+  description: "<p>Kotlin est un langage développé par Jetbrains. Sa version 1.0 (production ready) est sortie en début d'année 2016, faisant un certain buzz au sein de la communauté Android. Aujourd'hui en version 1.0.6, et bientôt 1.1, Kotlin continue de susciter un vif intérêt.<br /><br />À ekito, cela fait plus d'un an que nous travaillons sur ce langage et aujourd'hui, nous n'hésitons plus à lancer des applications en production avec Kotlin.<br /><br />Cette session propose de découvrir ce langage, qui reprend certains aspects de groovy ou scala, et qui est très proche de swift dans la syntaxe et les concepts. Nous verrons comment Kotlin boost la productivité du développement d’applications Android et pourquoi vous ne pourrez plus vous en passer ;)<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [36]
+  language: fr

@@ -335,3 +335,78 @@
   social:
     - {name: 'twitter', link: 'https://twitter.com/D_Lemures'}
     - {name: "site", link: "https://medium.com/groupon-eng"}
+-
+  id: 30
+  name: "Renaud"
+  surname: "Boulard"
+  thumbnailUrl: rboulard.png
+  company: "EquensWorldline"
+  bio: "Renaud Boulard est développeur Android à equensWorldline, il réalise des applications mobiles destinées à de grands comptes du domaine bancaire. Il accompagne également en tant que freelance des startups et petites structures, dans la réalisation et la conception d’applications. Passionné de développement et design mobile, il recherche constamment à améliorer ses outils et méthode de développement."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/_renaudb'}
+    - {name: "github", link: "https://github.com/renaudboulard"}
+-
+  id: 31
+  name: "François"
+  surname: "Lolom"
+  thumbnailUrl: flolom.png
+  company: "Worldline"
+  bio: "François Lolom travaille depuis presque trois ans a enquensWorldline en tant que développeur Android, principalement sur des applications de paiement mobile. Il aime repousser les limites du framework ainsi que peaufiner les petits détails qui font la différence. Les sujets liés à la qualité, le test automatisé et la sécurité l’intéressent tout particulièrement."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FrançoisLolom"}
+    - {name: 'twitter', link: 'https://twitter.com/flolom'}
+    - {name: "github", link: "https://github.com/flolom"}
+-
+  id: 32
+  name: "Bruce"
+  surname: "Bujon"
+  thumbnailUrl: bbujon.png
+  company: "MBDA (Airbug Group)"
+  bio: "Architecte logiciel, développeur Java et hacker curieux."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/hardcoding'}
+    - {name: "github", link: "https://github.com/PerfectSlayer"}
+    - {name: "site", link: "https://blog.hardcoding.fr"}
+-
+  id: 33
+  name: "Chad"
+  surname: "Schultz"
+  thumbnailUrl: cschultz.png
+  company: "SpotHero"
+  bio: "Chad has been an appy-go-lucky Android developer for four years. Currently he works remotely from San Antonio for SpotHero, a Chicago-based startup. He loves Android, public speaking, and puns. (He’s an incorrigible punster--do not incorrige him!)"
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/thechadschultz'}
+    - {name: "github", link: "https://github.com/chadschultz"}
+    - {name: "site", link: "https://spothero.com/"}
+-
+  id: 34
+  name: "Stanojko"
+  surname: "Markovik"
+  thumbnailUrl: smarkovik.png
+  company: "ContentSquare"
+  bio: "Accomplished software engineer, with experience ranging from large scale server side projects, to single user mobile apps. In my last company I managed to get from 0 to 1M+ mobile users on android. Received all the awards the Play Store can give and now decided to start a new journey."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+StanojkoMarkovik"}
+    - {name: 'twitter', link: 'https://twitter.com/smarkovik'}
+-
+  id: 35
+  name: "Gabriel"
+  surname: "Adgeg"
+  thumbnailUrl: gadgeg.png
+  company: "OCTO Technology"
+  bio: "Passionné d'Android, dans lequel je baigne depuis 5 ans, mon album panini a comme plus belles vignettes Reto, Romain, Cyril, Jake, Roman, Pierre-Yves. Et tonton Bob... Avec OCTO Technology, j'ai eu la fierté de contribuer à des très beaux projets, pour le groupe Le Monde, pour Meetic, pour la BNP. C'est à la Droidcon que j'ai véritablement découvert cette entreprise il y a 3 ans. C'est dorénavant à mon tour de vous transmettre la magnifique énergie qui circule ici !"
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/g_adgeg'}
+    - {name: "github", link: "https://github.com/adgeg"}
+    - {name: "site", link: "http://blog.octo.com/"}
+-
+  id: 36
+  name: "Arnaud"
+  surname: "Giuliani"
+  thumbnailUrl: agiuliani.png
+  company: "Ekito"
+  bio: "Développeur Java/JEE depuis une dizaine d'années, dans le monde industriel toulousain. J'essaye depuis tout ce temps de travailler essentiellement avec des projets open source et dans divers sujets (essentiellement backend/middleware/web). Je suis retombé dans le frontend grâce à d'Android. Mes premiers clients android/mobile remontent à 2012/2013. Et depuis je m'investis dans le mobile et les applications cloud (amazon, google, heroku ...). Dernièrement je m'investis beaucoup dans Kotlin, une superbe alternative à Java et une superbe opportunité pour Android."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/arnogiu'}
+    - {name: "github", link: "https://github.com/arnaudgiuliani"}
+    - {name: "site", link: "https://www.ekito.fr/people/author/agiuliani/"}

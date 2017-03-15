@@ -229,3 +229,109 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+YannickLemin"}
     - {name: "twitter", link: "https://twitter.com/theyann"}
+-
+  id: 21
+  name: "Eyal"
+  surname: "Lezmy"
+  company: "Genymobile"
+  thumbnailUrl: elezmy.png
+  bio: "<ul><li>Software Engineer at Genymobile</li><li>Treasurer at the Paris Android User Group</li><li>Google Developer Expert Android</li></ul>Working with Android since 2009. After several R&D projects at french internet providers, at Samsung in the Android B2B team, and then building an Android STB for a hotel chain. I'm currently working on Genymotion, an Android emulator."
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY"}
+    - {name: 'twitter', link: 'https://twitter.com/Eyal_Lezmy'}
+    - {name: "github", link: "https://github.com/eyal-lezmy"}
+-
+  id: 22
+  name: "Mike"
+  surname: "Nakhimovich"
+  company: "New York Times"
+  thumbnailUrl: mnakhimovich.png
+  bio: "Android Developer Expert in Android and the Android Lead at NY Times. I'm a performance nut and responsible for reducing startup time of the NY Times app by 300%. I'm a regular blogger and speaker, last few include Android Camps at the United Nations, Droidcon Italy and 360anDev. I'm an instructor for Caster.io, paid writer for NimbleDroid's blog, and co founder of friendlyrobot.nyc. I write for my personal blog as well and was recently on Tech Beacons top 40 android devs to follow on twitter. I am also one of the organizers for DevFestNYC where I also ran a performance workshop. Currently maintaining 2 github projects with 1000+ stars."
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/friendlyMikhail'}
+    - {name: "github", link: "https://github.com/digitalbuddha"}
+    - {name: "site", link: "https://medium.com/@theMikhail"}
+-
+  id: 23
+  name: "Pierre"
+  surname: "Benayoun"
+  company: "Le cabinet numérique"
+  thumbnailUrl: pbenayoun.png
+  bio: "Je suis développeur depuis 2001.<br /><br/>Je me suis lancé dans l'aventure Android en 2011 et suis en mode “one man startup“ sur des applications indépendantes depuis 2014."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://baug.fr/"}
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/Pierre_Benayoun'}
+    - {name: "site", link: "http://www.frandroid.com/blogs/vmvdd/"}
+-
+  id: 24
+  name: "Jeremie"
+  surname: "Martinez"
+  company: "Trainline (Captain Train)"
+  thumbnailUrl: jmartinez.png
+  bio: "Jérémie est développeur Android depuis plus de 5 ans et travaille chez Captain Train. Il est un fervent adepte des bonnes pratiques de développement et des principes du Software Craftsmanship. Il est également un grand passionné d'UI/UX."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://baug.fr/"}
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/JeremMartinez'}
+    - {name: "github", link: "http://github.com/jeremiemartinez"}
+    - {name: "site", link: "http://jeremie-martinez.com/"}
+-
+  id: 25
+  name: "Benjamin"
+  surname: "Augustin"
+  thumbnailUrl: baugustin.png
+  company: "Novoda"
+  bio: "Benjamin is a Software Craftsman and Android developer at Novoda.<br /><br />Ben might have started thinking functionally when, as a kid, he got hit on his head by a ladder while doing maths homework. Suddenly, he could see functions everywhere, and now he's sharing his visions with the world. Or maybe this is just one of those crazy made up back stories, who knows?<br /><br />One thing is sure, he is convinced that functional programming has a lot to teach us on our everyday work."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BenjaminAugustin-Dorvaryn"}
+    - {name: 'twitter', link: 'https://twitter.com/Dorvaryn'}
+    - {name: "github", link: "https://github.com/Dorvaryn"}
+-
+  id: 26
+  name: "Dominic"
+  surname: "Freeston"
+  thumbnailUrl: dfreeston.png
+  company: "Novoda"
+  bio: "Once upon a time, Dominic accidentally became an iOS developer and figured he should probably get himself an iPhone. He's been eyeing other platforms with a suspicious but intrigued eye ever since. He often thinks about ways he can stop worrying about state."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/dominicfreeston'}
+    - {name: "github", link: "https://github.com/dominicfreeston"}
+-
+  id: 27
+  name: "Mathieu"
+  surname: "Calba"
+  thumbnailUrl: mcalba.png
+  company: "LumApps"
+  bio: "Mathieu is a Mobile Software Developer at LumApps, and GDG leader at Lyon with the GDG Lyon Android. Mathieu is fond of new technologies, and particularly with Android. He loves to create applications that integrate seamlessly with the system and spread his love for Android by giving some talks."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://lyaug.fr/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MathieuCalba"}
+    - {name: 'twitter', link: 'https://twitter.com/Mathieu_Calba'}
+    - {name: "github", link: "https://github.com/MathieuCalba"}
+-
+  id: 28
+  name: "Stéphane"
+  surname: "Nicolas"
+  thumbnailUrl: snicolas.png
+  company: "Groupon"
+  bio: "With 20+ years of Java coding experience, I am now a Senior Android Developer at Groupon. As a member of the Groupon Android Core team, I focus mostly on software design, good practices, quality metrics, testability, dependency injection, optimisations, hard bugs, tooling, build & CI, etc.<br /><br />I am an Free & Opens Source Software enthusiast and often contribute, modify, initiate open source projects. All of them available on github: <a href='https://github.com/stephanenicolas'>https://github.com/stephanenicolas</a>."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+StéphaneNICOLAS-OnG"}
+    - {name: "github", link: "https://github.com/stephanenicolas"}
+-
+  id: 29
+  name: "Daniel"
+  surname: "Molinero Reguera"
+  thumbnailUrl: dmolinoreguera.png
+  company: "Groupon"
+  bio: "Daniel is an Android Software Engineer at Groupon. He is a passionate Science geek with special interest in performance, design and security.<br /><br />Before joining Groupon, he worked as a Web and Android developer for 6 years, participating in the development of some Android applications as: Hostelworld, Bonobu and now Groupon.<br /><br />He is keen on contributing to the community by writing articles and collaborating on some open source projects: Toothpick, Dart & Henson, etc. Moreover, he has taken part in some conferences: Berlin Droidcon 2016, Mobile Era 2016 or AndDevCon San Francisco 2016."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/D_Lemures'}
+    - {name: "site", link: "https://medium.com/groupon-eng"}

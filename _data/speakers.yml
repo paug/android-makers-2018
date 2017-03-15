@@ -5,6 +5,7 @@
   thumbnailUrl: tling.png
   company: "Fabulous Co."
   bio: "Taylor is a Digital Product Designer and is always passionate about great user experience. Previously he worked at a 3D printing company on their life-saving medical software before joining Snappymob, a startup in Kuala Lumpur, which allows him to make a difference in the local mobile app development scene by creating high-quality apps that users love. He is also the design co-founder of Fabulous, a habit-forming companion that received Material Design Award from Google Design team."
+  rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114727657292466806804/"}
@@ -19,6 +20,7 @@
   thumbnailUrl: cmottier.png
   company: ""
   bio: "Mobile Product Devsigner & Android expert. ex-Head of Mobile & Web @captaintrain. #UI #UX #Design."
+  rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
@@ -90,7 +92,6 @@
   thumbnailUrl: qjin.png
   company: "Xebia"
   bio: "Android developer, Pythonista, IoT maker, Enthusiast on accessibility & TechForGood subjects"
-  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+QianJIN_HZ"}
     - {name: "twitter", link: "https://twitter.com/	bonbonking"}
@@ -155,7 +156,6 @@
   company: "SOAT"
   thumbnailUrl: jpetit.png
   bio: "Développeuse passionnée, j’ai depuis 4 ans décidée de m’expertiser dans le développement d'application Android."
-  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/100764745771383969021"}
     - {name: "twitter", link: "https://twitter.com/J_TShyNe"}
@@ -175,7 +175,6 @@
   company: "SFEIR"
   thumbnailUrl: ediasbatista.png
   bio: "Elaine has been working with mobile apps since 2012. Passionate about new technologies, her main interests revolve around user experience optimization and non-conventional types of interaction with technology (voice, gestures, sensors)."
-  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ElaineDiasBatista"}
     - {name: "twitter", link: "https://twitter.com/elainedbatista"}
@@ -213,7 +212,6 @@
   company: "Google"
   thumbnailUrl: psoi.png
   bio: "I'm a Program Manager with Google's Developer Relations team, leading the Agency Program in India. I've also been working with the Firebase team to evangelize the product through the Pirate Metrics with Firebase series (<a href='http://firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html'>firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html</a>)."
-  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/111589393981937546851"}
     - {name: "twitter", link: "https://twitter.com/parulsoi"}
@@ -236,6 +234,7 @@
   company: "Genymobile"
   thumbnailUrl: elezmy.png
   bio: "<ul><li>Software Engineer at Genymobile</li><li>Treasurer at the Paris Android User Group</li><li>Google Developer Expert Android</li></ul>Working with Android since 2009. After several R&D projects at french internet providers, at Samsung in the Android B2B team, and then building an Android STB for a hotel chain. I'm currently working on Genymotion, an Android emulator."
+  rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
@@ -250,6 +249,7 @@
   company: "New York Times"
   thumbnailUrl: mnakhimovich.png
   bio: "Android Developer Expert in Android and the Android Lead at NY Times. I'm a performance nut and responsible for reducing startup time of the NY Times app by 300%. I'm a regular blogger and speaker, last few include Android Camps at the United Nations, Droidcon Italy and 360anDev. I'm an instructor for Caster.io, paid writer for NimbleDroid's blog, and co founder of friendlyrobot.nyc. I write for my personal blog as well and was recently on Tech Beacons top 40 android devs to follow on twitter. I am also one of the organizers for DevFestNYC where I also ran a performance workshop. Currently maintaining 2 github projects with 1000+ stars."
+  rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:

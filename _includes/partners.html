@@ -5,7 +5,7 @@
             <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
             <h5>{{ organizer.group }}</h5>
-            <ul class="list-inline">
+            <ul class="list-inline big">
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
@@ -18,7 +18,7 @@
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
-            <ul class="list-inline">
+            <ul class="list-inline{% if partner.group == "Silver sponsor" %} big{% endif %}">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">

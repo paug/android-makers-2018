@@ -208,3 +208,45 @@
   subtype: presentation
   speakers: [36]
   language: fr
+-
+  id: 31
+  title: "Deep Android Integrations"
+  description: "<p>Designing an elegant interface for developers to communicate with your Android app is crucial for building a mobile platform. Ty has been building mobile-focused developer platforms at Evernote, Twitter, and now Uber. In this talk, he'll walk you through many of the best practices that he has accumulated and you’ll find out how to allow third party developers to seamlessly interact with your users’ local data to shortcut more expensive server operations.<br /><br />Topics will include building single sign-on, surfacing your local databases, constructing well-defined Intent interfaces, using deep links, and binding services for programmatic communication. Ty will walk you through how to create a well-defined interface in your app – if that’s something you want to know, don’t miss it!<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [37]
+  language: en
+-
+  id: 32
+  title: "Améliorez vos compétences Android en réalisant des cadrans Android Wear"
+  description: "<p>Soyons honnête : il y a très peu de chances que vous ayez un jour à réaliser un projet professionnel sur Android Wear. Par contre, apprendre Android Wear peut vous aider à améliorer drastiquement vos compétences Android natives, et faire de vous de meilleurs développeurs Android professionnels. C'est le constat que j'ai pu faire après avoir développé plusieurs cadrans sur cette plate forme.<br /><br />Lors de ce talk, j'expliquerai tout ce qu'il faut savoir pour bien comprendre Android Wear, à commencer par les contraintes de la plate forme. Il y aura ensuite une explication étape par étape afin de réaliser un très joli cadran, le tout uniquement via des opérations de draw et de canvas, sans utiliser aucune aucune image.<br /><br />Vous pensiez que les radians, shaders, radial gradients, canvas, paths, Xfer modes, et autres courbes quadratiques étaient des concepts super galères ? En réalité ces concepts sont tout simples et à la fin de ce talk, vous pourrez les comprendre et les utiliser dans vos applications Android pour faire des vues custom super belles ou même des animations.<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [38]
+  language: fr
+-
+  id: 33
+  title: "Dependency Injection in Android - Best Practices"
+  description: "<p>Dependency injection techniques and frameworks constitute the foundation on which testable and maintainable applications are built. However, when used incorrectly or abused, dependency injection might not reveal its full strengths, and, in some cases, might even incur some not-so-evident penalties.<br /><br />In this session we will review a set of “best practices“ that will maximize the gain from using dependency injection in Android.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [39]
+  language: en
+-
+  id: 34
+  title: "Testable Android Architecture"
+  description: "<p>Today we have many testing tools for Android including JUnit, Mockito, PowerMock, Robolectric, Espresso, and more. But how can you design your application to leverage each one most effectively? This talk introduces a modified version of the Model View Presenter (MVP) architecture that organizes your code to be more flexible, maintainable, and testable.<br /><br />Using classic software design principles and modern code examples we will explore the topics of clean architecture and testability on Android. This talk covers all levels of the test pyramid including unit, integration, and UI tests. Other topics will include unit test rules, naming conventions, presenter lifecycle, persisting state, testing concurrency, mocking strategies, and working with legacy code.<br /><br />Type: Android development<br />Experience: expert</p>"
+  subtype: presentation
+  speakers: [40]
+  language: en
+-
+  id: 35
+  title: "Iot inception : Mesure de l'énergie d'Android Things sur Raspberry avec Arduino"
+  description: "<p>L'autonomie est critique pour le mobile et encore plus pour l'IOT. Android offre des API de mesure permettant de faire des mesures software mais avec le nouveau SDK d'Android pour l'IOt (Android Things) ce n'est pas aussi simple. Les données constructeurs ne suffissent plus pour faire des estimations, il faut mettre les mains dans le moteur pour mesurer l'énergie. Dans cette session, je vous montrerai comment utiliser un Arduino Uno pour mesurer la consommation du Raspberry PI 3 avec Android Things C'est le moment de voir ce que ce nouveau venu de la famille Android a dans le ventre !<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [41]
+  language: fr
+-
+  id: 36
+  title: "About React Native inside your existing Android App"
+  description: "<p>Yeah, React Native so What? It's not about cross-platform apps.<br /><br />It's not about that having web developers building apps.<br /><br />React Native is a game changer for every Android Developer. Remember those shitty webviews your manager wants to keep? ReactNative is there to kill that and make your app more flexible keeping a native look and feel (yes it's React Native).<br /><br />Come to understand why it's a big deal to understand React Native for an Android Developer (and a few hints about how to catch the train while it's not too late!)<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [42]
+  language: en

@@ -410,3 +410,70 @@
     - {name: 'twitter', link: 'https://twitter.com/arnogiu'}
     - {name: "github", link: "https://github.com/arnaudgiuliani"}
     - {name: "site", link: "https://www.ekito.fr/people/author/agiuliani/"}
+-
+  id: 37
+  name: "Ty"
+  surname: "Smith"
+  thumbnailUrl: tsmith.png
+  company: "Uber"
+  bio: "Ty has been working on Android since 2009. He is a tech lead at Uber, focusing on the external developer platform. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android."
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/fr-FR/sfandroid/"}
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/tsmith'}
+    - {name: "github", link: "https://github.com/tyvsmith"}
+    - {name: "site", link: "http://tysmith.me"}
+-
+  id: 38
+  name: "Gautier"
+  surname: "Mechling"
+  thumbnailUrl: gmechling.png
+  company: "Baatch"
+  bio: "Gautier est développeur Android et aspirant Craftsman. Intéressé par les méthodes agiles, le hacking et la qualité logicielle, il façonne et maintient des outils libres et gratuits permettant d’améliorer sa productivité. Parlez lui de Kotlin, de Clean Code ou de Logiciel Libre et vous pourrez voir ses yeux briller."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+GautierMechling"}
+    - {name: 'twitter', link: 'https://twitter.com/Nilhcem'}
+    - {name: "github", link: "https://github.com/Nilhcem"}
+-
+  id: 39
+  name: "Vasiliy"
+  surname: "Zukanov"
+  thumbnailUrl: vzukanov.png
+  company: "StuccoMedia"
+  bio: "I'm a passionate Android developer, Android tech lead and an amateur blogger. Having worked as a hardware engineer for several years, I'm now constantly amazed at the power that software developers have in bringing products to life. Main areas of my professional interests are architecture, testing and concurrent programming. Android development blog written by me: <a href='http://www.techyourchance.com'>www.techyourchance.com</a>"
+  social:
+    - {name: "site", link: "http://www.techyourchance.com"}
+-
+  id: 40
+  name: "Chuck"
+  surname: "Greb"
+  thumbnailUrl: cgreb.png
+  company: "Mapzen"
+  bio: "Open source aficionado, test-driven evangelist, and clean code connoisseur. Mobile lead @mapzen."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/ecgreb'}
+    - {name: "github", link: "https://github.com/ecgreb"}
+    - {name: "site", link: "https://medium.com/android-testing-daily"}
+-
+  id: 41
+  name: "Olivier"
+  surname: "Philippot"
+  thumbnailUrl: ophilippot.png
+  company: "Greenspector"
+  bio: "Olivier est CTO chez Greenspector. Il aime les technologies mais surtout les optimiser. En particulier sur Android et l'embarqué. Il est fortement engagé dans les actions de sensibilisation à l'efficience et l'éco-conception logicielle comme le Geen Code Lab Challenge."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/simplygreenit'}
+    - {name: "site", link: "http://greenspector.com/blog.html"}
+-
+  id: 42
+  name: "Damien"
+  surname: "Cavaillès"
+  thumbnailUrl: dcavailles.png
+  company: "JeChercheUnDev.fr"
+  bio: "Développeur et Entrepreneur, je porte des T-Shirt Startup Weekend et j'aime le Welsh. Agent Secret depuis 2015, je suis en mission : Réconcilier les Développeurs avec le Recrutement."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DamienCavailles"}
+    - {name: 'twitter', link: 'https://twitter.com/thedamfr'}
+    - {name: "github", link: "https://github.com/thedamfr"}

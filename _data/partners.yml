@@ -13,5 +13,6 @@
     - {name: "F6S", description: "F6S", link: "https://www.f6s.com/", imageUrl: "f6s.png"}
     - {name: "Droidsoft", description: "Droidsoft, Tout sur Android", link: "http://droidsoft.fr/", imageUrl: "droidsoft.png"}
     - {name: "Lunabee Studio", description: "Lunabee Studio", link: "http://www.lunabee.studio/", imageUrl: "lunabee.png"}
+    - {name: "Begeek", description: "Begeek", link: "http://www.begeek.fr/", imageUrl: "begeek.png"}
     - {name: "Android Weekly", description: "Android Weekly", link: "http://www.androidweekly.net/", imageUrl: "androidweekly.png"}
     - {name: "Infinum", description: "Infinum", link: "https://androidsweets.ongoodbits.com/", imageUrl: "infinum.png"}

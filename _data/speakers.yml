@@ -275,8 +275,6 @@
   company: "Trainline (Captain Train)"
   thumbnailUrl: jmartinez.png
   bio: "Jérémie est développeur Android depuis plus de 5 ans et travaille chez Captain Train. Il est un fervent adepte des bonnes pratiques de développement et des principes du Software Craftsmanship. Il est également un grand passionné d'UI/UX."
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://baug.fr/"}
   social:
     - {name: 'twitter', link: 'https://twitter.com/JeremMartinez'}
     - {name: "github", link: "http://github.com/jeremiemartinez"}

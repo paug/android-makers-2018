@@ -104,13 +104,6 @@
   speakers: [18]
   language: en
 -
-  id: 16
-  title: "Pirate Metrics with Firebase"
-  description: "<p>Pirate Metrics is a popular framework for product analytics, popularized by Dave McClure of 500 Startups. While analytics itself is a vast field, most tech products ultimately track and try to boost these 5 key metrics - Acquisition, Activation, Retention, Referral and Revenue.<br /><br />So far, doing so was often costly and/or required multiple different tools. Enter Firebase, with its suite of integrated SDKs which can help you do all that, and more.<br /><br />Type: UX/UI<br />Experience: beginner</p>"
-  subtype: presentation
-  speakers: [19]
-  language: en
--
   id: 17
   title: "App Live Review by GDEs"
   description: "<p>Live review session.<br /><br />Type: UX/UI<br />Experience: beginner</p>"

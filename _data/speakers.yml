@@ -207,17 +207,6 @@
     - {name: "github", link: "https://github.com/lisawray"}
     - {name: "site", link: "http://www.xwray.com/"}
 -
-  id: 19
-  name: "Parul"
-  surname: "Soi"
-  company: "Google"
-  thumbnailUrl: psoi.png
-  bio: "I'm a Program Manager with Google's Developer Relations team, leading the Agency Program in India. I've also been working with the Firebase team to evangelize the product through the Pirate Metrics with Firebase series (<a href='http://firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html'>firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html</a>)."
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/111589393981937546851"}
-    - {name: "twitter", link: "https://twitter.com/parulsoi"}
--
   id: 20
   name: "Yannick"
   surname: "Lemin"
@@ -360,8 +349,8 @@
   id: 32
   name: "Bruce"
   surname: "Bujon"
+  company: "MBDA (Airbus Group)"
   thumbnailUrl: bbujon.png
-  company: "MBDA (Airbug Group)"
   bio: "Architecte logiciel, développeur Java et hacker curieux."
   social:
     - {name: 'twitter', link: 'https://twitter.com/hardcoding'}

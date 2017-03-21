@@ -250,3 +250,24 @@
   subtype: presentation
   speakers: [42]
   language: en
+-
+  id: 37
+  title: "Modern Android: How to ditch Activities and Fragments"
+  description: "<p>Activities get destroyed when you rotate the screen and have a complex lifecycle. Using Fragments is error-prone and their lifecycle is even worse. How would you like a Screen that doesn't get destroyed on rotation, and a navigation as simple as calling <code>goTo(screen)</code>? That's what modern Android development should look like.<br /><br />In this presentation you'll learn how we implemented a single Activity architecture with a custom navigation system, and how we use it everyday in production thanks to a library we created: <a href='https://github.com/wealthfront/magellan'>Magellan</a>.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [43]
+  language: en
+-
+  id: 38
+  title: "Android Design Tools : New features and tools for rapid UI development"
+  description: "<p>Android Studio provides powerful tools to help you develop your application user interface. With many capabilities added in the past year, there's a lot to discover for developers. This talk will cover how you can use those new tools and how they integrate with existing libraries. We will also cover new approaches such as ConstraintLayout to craft flexible user interfaces quickly.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [44]
+  language: en
+-
+  id: 39
+  title: "Remote, lonely and productive"
+  description: "<p>Being the only developer in a project can be frustrating, everything falls into your shoulders and it's very easy to get trapped into bad habits. You are not alone! There are many tools, practices and services that will make your life easier... and efficient!<br /><br />Several months ago I joined Help Scout as the only Android Developer with the main purpose of building their Android application from scratch. Coming from an agency environment where there were more than 30 developers willing to discuss and present different ideas, it's been quiet a challenge.<br /><br />This talk shares my experience, explaining what tools, practices and methodologies I've followed. Being the only developer is no impediment to build great quality code, follow good design patterns and delight your users.<br /><br />How to do Pull Requests, Code Reviews, Design Reviews, Continuous Delivery and Integration... Wether you are a one man band or work with a team, these tips will help you become a better programmer!<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [45]
+  language: en

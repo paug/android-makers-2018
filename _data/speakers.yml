@@ -477,3 +477,40 @@
     - {name: "google-plus", link: "https://plus.google.com/+DamienCavailles"}
     - {name: 'twitter', link: 'https://twitter.com/thedamfr'}
     - {name: "github", link: "https://github.com/thedamfr"}
+-
+  id: 43
+  name: "Fabien"
+  surname: "Devos"
+  thumbnailUrl: fdevos.png
+  company: "Wealthfront"
+  bio: "Fabien Devos has been developing Android apps since before Android 1.0 was released. In Paris, he worked on some of the top european apps (Dailymotion, Le Monde, AlloCiné). He then moved to London to join Lightbox (acquired by Facebook), which brought him to Menlo Park to work on Facebook core Android team. After working on Upthere's Android app for a while, he is now Android Lead at Wealthfront where he created Magellan: an open source navigation library for Android. He also created <a href='https://play.google.com/store/apps/details?id=com.hackedapp'>Hacked</a> with Joaquim Vergès, a mobile coding game with more than 600,000 downloads."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/Fabien_Devos'}
+    - {name: "github", link: "https://github.com/fabiendevos"}
+    - {name: "site", link: "http://www.wealthfront.com"}
+-
+  id: 44
+  name: "Nicolas"
+  surname: "Roard"
+  thumbnailUrl: nroard.png
+  company: "Google"
+  bio: "Nicolas worked over the years on various projects at Google, from the HTML5 support in Android Browser, implementing the webview hardware acceleration in Honeycomb, or writing a scalable and non-destructive photo editor in JB/KitKat. After a year building high-speed telemetry systems for robots, he came back to Android, created ConstraintLayout and now works on the Android Studio layout editor."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+NicolasRoard"}
+    - {name: 'twitter', link: 'https://twitter.com/camaelon'}
+-
+  id: 45
+  name: "David"
+  surname: "González"
+  thumbnailUrl: dgonzales.png
+  company: "Help Scout"
+  bio: "David is an Android Software Engineer at Help Scout and a Google Developer Expert for Android (<a href='https://goo.gl/hWnJl6'>https://goo.gl/hWnJl6</a>). He's actively involved in the Android community, co-organises the London Android User Group and has been developing with the Android platform since 2009.<br /><br />He enjoys public speaking and loves sharing his experiences through conferences, blog posts and open source libraries like the Android Architecture Blueprints (<a href='https://goo.gl/d9l7IN'>https://goo.gl/d9l7IN</a>). He is also a Google Startup Launchpad mentor, helping startups and companies produce highly desirable and quality products, by following agile methodologies; a skilled development process; and always going the extra mile."
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/android/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein"}
+    - {name: 'twitter', link: 'https://twitter.com/dggonzalez'}
+    - {name: "github", link: "https://github.com/malmstein"}

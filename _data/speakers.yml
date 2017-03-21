@@ -213,6 +213,7 @@
   company: "Google"
   thumbnailUrl: psoi.png
   bio: "I'm a Program Manager with Google's Developer Relations team, leading the Agency Program in India. I've also been working with the Firebase team to evangelize the product through the Pirate Metrics with Firebase series (<a href='http://firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html'>firebase.googleblog.com/2016/12/pirate-metrics-go-viral-with-firebase.html</a>)."
+  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/111589393981937546851"}
     - {name: "twitter", link: "https://twitter.com/parulsoi"}
@@ -223,7 +224,6 @@
   company: "TechYOS"
   thumbnailUrl: yannick.png
   bio: "Passionate about computers ever since I was a kid, it was actually logical for me to become a developer. To this day I'm still as passionate as ever. I started my carreer in 2000 in the US doing cross platform desktop apps in C++, back in Belgium in 2007 and started Java development and got very interested in mobile, particularly Android, in 2008 when it was announced. I have been developing for the platform ever since. I am also one half of the french speaking Android development podcast: Android Leaks, and lead organizer of the GDG Brussels."
-  rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105068877693379070381/"}
   social:

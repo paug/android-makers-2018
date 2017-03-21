@@ -503,3 +503,14 @@
     - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein"}
     - {name: 'twitter', link: 'https://twitter.com/dggonzalez'}
     - {name: "github", link: "https://github.com/malmstein"}
+-
+  id: 46
+  name: "Dario"
+  surname: "Incalza"
+  thumbnailUrl: dincalza.png
+  company: "ZIONSECURITY"
+  bio: "Dario is a mobile security expert at ZIONSECURITY, where he performs security assessments of mobile applications and their backends on architectural and implementation level. Additionally he coaches juniors in his team on mobile security and evangelises mobile security to the global community. He graduated as a M. Sc. Computer Science specialised in Development of Secure Software at KU Leuven. When he is not talking or working on mobile security at ZIONSECURITY, he enjoys bug bounty hunting and creating open source reverse engineering tools."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/h4oxer'}
+    - {name: "github", link: "https://github.com/DarioI"}
+    - {name: "site", link: "http://www.darioincalza.be"}

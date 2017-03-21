@@ -47,6 +47,7 @@
   thumbnailUrl: wpiekarski.png
   company: "Google"
   bio: "Wayne Piekarski is a Developer Advocate at Google, focusing on the Internet of Things and the Google Assistant. He has worked for 15 years in academia and industry in the areas of wearable computing, outdoor augmented reality, and mobile devices. He works to get developers excited about new Google technologies, through conferences, social media, and training materials. He also works to advocate for developers within Google, ensuring developers have the right tools and information to support their work."
+  rockstar: true
   social:
     - {name: "google-plus", link: "http://plus.google.com/+WaynePiekarski"}
     - {name: "twitter", link: "https://twitter.com/waynepiekarski"}
@@ -222,6 +223,7 @@
   company: "TechYOS"
   thumbnailUrl: yannick.png
   bio: "Passionate about computers ever since I was a kid, it was actually logical for me to become a developer. To this day I'm still as passionate as ever. I started my carreer in 2000 in the US doing cross platform desktop apps in C++, back in Belgium in 2007 and started Java development and got very interested in mobile, particularly Android, in 2008 when it was announced. I have been developing for the platform ever since. I am also one half of the french speaking Android development podcast: Android Leaks, and lead organizer of the GDG Brussels."
+  rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105068877693379070381/"}
   social:

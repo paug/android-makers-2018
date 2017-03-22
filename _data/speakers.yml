@@ -1,4 +1,27 @@
 -
+  id: 47
+  name: "Romain"
+  surname: "Guy"
+  thumbnailUrl: rguy.png
+  company: "Google"
+  bio: "Android Graphics team manager at Google. I previously worked for several years as the manager and tech lead of the Android Framework team. I mostly focused on graphics and the UI toolkit."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RomainGuy"}
+    - {name: 'twitter', link: 'https://twitter.com/romainguy'}
+-
+  id: 48
+  name: "Chet"
+  surname: "Haase"
+  thumbnailUrl: chaase.png
+  company: "Google"
+  bio: "Chet leads the Android UI Toolkit team at Google, where he works on animations, graphics, UI widgets, and anything else that puts pixels on the screen. He also writes and performs comedy if given the chance or a mic."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ChetHaase"}
+    - {name: 'twitter', link: 'https://twitter.com/chethaase'}
+    - {name: "site", link: "https://medium.com/@chethaase"}
+-
   id: 1
   name: "Taylor"
   surname: "Ling"
@@ -29,18 +52,6 @@
     - {name: "github", link: "https://github.com/cyrilmottier"}
     - {name: "site", link: "http://cyrilmottier.com"}
 -
-  id: 3
-  name: "Benjamin"
-  surname: "Monjoie"
-  thumbnailUrl: bmonjoie.png
-  company: "Appkers"
-  bio: "Developer since 2004, I have grown fond of Android since I started tinkering with it in 2011. I was previously employed at Emakina as lead Android developer. Since July 2016, I started my carrer as a freelancer. Through my work, I do my best to share my passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. I stay closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application."
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110401625095190962164/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/Xzan"}
-    - {name: "github", link: "https://github.com/bmonjoie"}
--
   id: 4
   name: "Wayne"
   surname: "Piekarski"
@@ -53,6 +64,103 @@
     - {name: "twitter", link: "https://twitter.com/waynepiekarski"}
     - {name: "github", link: "https://github.com/waynepiekarski"}
     - {name: "site", link: "http://www.tinmith.net/wayne/"}
+-
+  id: 18
+  name: "Lisa"
+  surname: "Wray"
+  company: "Genius"
+  thumbnailUrl: lwray.png
+  bio: "Android lead at Genius (genius.com), GDE, formerly Google, New York Times."
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+LisaWrayZeitouni"}
+    - {name: "twitter", link: "https://twitter.com/lisawrayz"}
+    - {name: "github", link: "https://github.com/lisawray"}
+    - {name: "site", link: "http://www.xwray.com/"}
+-
+  id: 21
+  name: "Eyal"
+  surname: "Lezmy"
+  company: "Genymobile"
+  thumbnailUrl: elezmy.png
+  bio: "<ul><li>Software Engineer at Genymobile</li><li>Treasurer at the Paris Android User Group</li><li>Google Developer Expert Android</li></ul>Working with Android since 2009. After several R&D projects at french internet providers, at Samsung in the Android B2B team, and then building an Android STB for a hotel chain. I'm currently working on Genymotion, an Android emulator."
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY"}
+    - {name: 'twitter', link: 'https://twitter.com/Eyal_Lezmy'}
+    - {name: "github", link: "https://github.com/eyal-lezmy"}
+-
+  id: 22
+  name: "Mike"
+  surname: "Nakhimovich"
+  company: "New York Times"
+  thumbnailUrl: mnakhimovich.png
+  bio: "Android Developer Expert in Android and the Android Lead at NY Times. I'm a performance nut and responsible for reducing startup time of the NY Times app by 300%. I'm a regular blogger and speaker, last few include Android Camps at the United Nations, Droidcon Italy and 360anDev. I'm an instructor for Caster.io, paid writer for NimbleDroid's blog, and co founder of friendlyrobot.nyc. I write for my personal blog as well and was recently on Tech Beacons top 40 android devs to follow on twitter. I am also one of the organizers for DevFestNYC where I also ran a performance workshop. Currently maintaining 2 github projects with 1000+ stars."
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/friendlyMikhail'}
+    - {name: "github", link: "https://github.com/digitalbuddha"}
+    - {name: "site", link: "https://medium.com/@theMikhail"}
+-
+  id: 37
+  name: "Ty"
+  surname: "Smith"
+  thumbnailUrl: tsmith.png
+  company: "Uber"
+  bio: "Ty has been working on Android since 2009. He is a tech lead at Uber, focusing on the external developer platform. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android."
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/fr-FR/sfandroid/"}
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/tsmith'}
+    - {name: "github", link: "https://github.com/tyvsmith"}
+    - {name: "site", link: "http://tysmith.me"}
+-
+  id: 44
+  name: "Nicolas"
+  surname: "Roard"
+  thumbnailUrl: nroard.png
+  company: "Google"
+  bio: "Nicolas worked over the years on various projects at Google, from the HTML5 support in Android Browser, implementing the webview hardware acceleration in Honeycomb, or writing a scalable and non-destructive photo editor in JB/KitKat. After a year building high-speed telemetry systems for robots, he came back to Android, created ConstraintLayout and now works on the Android Studio layout editor."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+NicolasRoard"}
+    - {name: 'twitter', link: 'https://twitter.com/camaelon'}
+-
+  id: 45
+  name: "David"
+  surname: "González"
+  thumbnailUrl: dgonzales.png
+  company: "Help Scout"
+  bio: "David is an Android Software Engineer at Help Scout and a Google Developer Expert for Android (<a href='https://goo.gl/hWnJl6'>https://goo.gl/hWnJl6</a>). He's actively involved in the Android community, co-organises the London Android User Group and has been developing with the Android platform since 2009.<br /><br />He enjoys public speaking and loves sharing his experiences through conferences, blog posts and open source libraries like the Android Architecture Blueprints (<a href='https://goo.gl/d9l7IN'>https://goo.gl/d9l7IN</a>). He is also a Google Startup Launchpad mentor, helping startups and companies produce highly desirable and quality products, by following agile methodologies; a skilled development process; and always going the extra mile."
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/android/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein"}
+    - {name: 'twitter', link: 'https://twitter.com/dggonzalez'}
+    - {name: "github", link: "https://github.com/malmstein"}
+-
+  id: 3
+  name: "Benjamin"
+  surname: "Monjoie"
+  thumbnailUrl: bmonjoie.png
+  company: "Appkers"
+  bio: "Developer since 2004, I have grown fond of Android since I started tinkering with it in 2011. I was previously employed at Emakina as lead Android developer. Since July 2016, I started my carrer as a freelancer. Through my work, I do my best to share my passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. I stay closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110401625095190962164/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/Xzan"}
+    - {name: "github", link: "https://github.com/bmonjoie"}
 -
   id: 5
   name: "Jeroen"
@@ -192,21 +300,6 @@
     - {name: "github", link: "https://github.com/wadjo"}
     - {name: "site", link: "http://www.wajdibr.com"}
 -
-  id: 18
-  name: "Lisa"
-  surname: "Wray"
-  company: "Genius"
-  thumbnailUrl: lwray.png
-  bio: "Android lead at Genius (genius.com), GDE, formerly Google, New York Times."
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+LisaWrayZeitouni"}
-    - {name: "twitter", link: "https://twitter.com/lisawrayz"}
-    - {name: "github", link: "https://github.com/lisawray"}
-    - {name: "site", link: "http://www.xwray.com/"}
--
   id: 20
   name: "Yannick"
   surname: "Lemin"
@@ -218,35 +311,6 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+YannickLemin"}
     - {name: "twitter", link: "https://twitter.com/theyann"}
--
-  id: 21
-  name: "Eyal"
-  surname: "Lezmy"
-  company: "Genymobile"
-  thumbnailUrl: elezmy.png
-  bio: "<ul><li>Software Engineer at Genymobile</li><li>Treasurer at the Paris Android User Group</li><li>Google Developer Expert Android</li></ul>Working with Android since 2009. After several R&D projects at french internet providers, at Samsung in the Android B2B team, and then building an Android STB for a hotel chain. I'm currently working on Genymotion, an Android emulator."
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY"}
-    - {name: 'twitter', link: 'https://twitter.com/Eyal_Lezmy'}
-    - {name: "github", link: "https://github.com/eyal-lezmy"}
--
-  id: 22
-  name: "Mike"
-  surname: "Nakhimovich"
-  company: "New York Times"
-  thumbnailUrl: mnakhimovich.png
-  bio: "Android Developer Expert in Android and the Android Lead at NY Times. I'm a performance nut and responsible for reducing startup time of the NY Times app by 300%. I'm a regular blogger and speaker, last few include Android Camps at the United Nations, Droidcon Italy and 360anDev. I'm an instructor for Caster.io, paid writer for NimbleDroid's blog, and co founder of friendlyrobot.nyc. I write for my personal blog as well and was recently on Tech Beacons top 40 android devs to follow on twitter. I am also one of the organizers for DevFestNYC where I also ran a performance workshop. Currently maintaining 2 github projects with 1000+ stars."
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: 'twitter', link: 'https://twitter.com/friendlyMikhail'}
-    - {name: "github", link: "https://github.com/digitalbuddha"}
-    - {name: "site", link: "https://medium.com/@theMikhail"}
 -
   id: 23
   name: "Pierre"
@@ -400,21 +464,6 @@
     - {name: "github", link: "https://github.com/arnaudgiuliani"}
     - {name: "site", link: "https://www.ekito.fr/people/author/agiuliani/"}
 -
-  id: 37
-  name: "Ty"
-  surname: "Smith"
-  thumbnailUrl: tsmith.png
-  company: "Uber"
-  bio: "Ty has been working on Android since 2009. He is a tech lead at Uber, focusing on the external developer platform. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android."
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/fr-FR/sfandroid/"}
-  social:
-    - {name: 'twitter', link: 'https://twitter.com/tsmith'}
-    - {name: "github", link: "https://github.com/tyvsmith"}
-    - {name: "site", link: "http://tysmith.me"}
--
   id: 38
   name: "Gautier"
   surname: "Mechling"
@@ -478,32 +527,6 @@
     - {name: "github", link: "https://github.com/fabiendevos"}
     - {name: "site", link: "http://www.wealthfront.com"}
 -
-  id: 44
-  name: "Nicolas"
-  surname: "Roard"
-  thumbnailUrl: nroard.png
-  company: "Google"
-  bio: "Nicolas worked over the years on various projects at Google, from the HTML5 support in Android Browser, implementing the webview hardware acceleration in Honeycomb, or writing a scalable and non-destructive photo editor in JB/KitKat. After a year building high-speed telemetry systems for robots, he came back to Android, created ConstraintLayout and now works on the Android Studio layout editor."
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+NicolasRoard"}
-    - {name: 'twitter', link: 'https://twitter.com/camaelon'}
--
-  id: 45
-  name: "David"
-  surname: "González"
-  thumbnailUrl: dgonzales.png
-  company: "Help Scout"
-  bio: "David is an Android Software Engineer at Help Scout and a Google Developer Expert for Android (<a href='https://goo.gl/hWnJl6'>https://goo.gl/hWnJl6</a>). He's actively involved in the Android community, co-organises the London Android User Group and has been developing with the Android platform since 2009.<br /><br />He enjoys public speaking and loves sharing his experiences through conferences, blog posts and open source libraries like the Android Architecture Blueprints (<a href='https://goo.gl/d9l7IN'>https://goo.gl/d9l7IN</a>). He is also a Google Startup Launchpad mentor, helping startups and companies produce highly desirable and quality products, by following agile methodologies; a skilled development process; and always going the extra mile."
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/android/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+davidgonzalezmalmstein"}
-    - {name: 'twitter', link: 'https://twitter.com/dggonzalez'}
-    - {name: "github", link: "https://github.com/malmstein"}
--
   id: 46
   name: "Dario"
   surname: "Incalza"
@@ -514,26 +537,3 @@
     - {name: 'twitter', link: 'https://twitter.com/h4oxer'}
     - {name: "github", link: "https://github.com/DarioI"}
     - {name: "site", link: "http://www.darioincalza.be"}
--
-  id: 47
-  name: "Romain"
-  surname: "Guy"
-  thumbnailUrl: rguy.png
-  company: "Google"
-  bio: "Android Graphics team manager at Google. I previously worked for several years as the manager and tech lead of the Android Framework team. I mostly focused on graphics and the UI toolkit."
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomainGuy"}
-    - {name: 'twitter', link: 'https://twitter.com/romainguy'}
--
-  id: 48
-  name: "Chet"
-  surname: "Haase"
-  thumbnailUrl: chaase.png
-  company: "Google"
-  bio: "Chet leads the Android UI Toolkit team at Google, where he works on animations, graphics, UI widgets, and anything else that puts pixels on the screen. He also writes and performs comedy if given the chance or a mic."
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+ChetHaase"}
-    - {name: 'twitter', link: 'https://twitter.com/chethaase'}
-    - {name: "site", link: "https://medium.com/@chethaase"}

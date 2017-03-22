@@ -278,3 +278,24 @@
   subtype: presentation
   speakers: [47,48]
   language: en
+-
+  id: 42
+  title: "Industrialisation des développements mobile"
+  description: "<p>L'industrialisation des développements n'est pas réservé aux applications web et serveur ! Il s'applique aussi au développement mobile. Dans cette session, vous découvrirez comment des outils Microsoft peuvent vous aider à industrialiser le développement de vos applications Android. Au programme : Xamarin Test Cloud, Hockey App et Visual Studio Mobile Center.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [49]
+  language: fr
+-
+  id: 43
+  title: "Let's Get Functional? Seriously!"
+  description: "<p>Une application sans tests c'est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber. Nous ne t’apprennons rien. En tout cas, nous l'espérons.<br /><br />Tu en as marre de rejouer à la main toujours les mêmes scénarios, de répéter inlassablement les mêmes enchaînements de clicks, scrolls et flings pour t’assurer que ton application préférée fonctionne toujours à merveille ? Il te faut de la crème dans ton café : les tests fonctionnels automatisés.<br /><br />En 2014, nous avons sauté dans le wagon des tests fonctionnels sur Android. Nous avions un vrai gain à faire ces tests compréhensibles par le métier.<br /><br />Nous te présenterons notre retour d’expérience sur les technologies qui permettent de réaliser de tels tests (Calabash, Cucumber, ...), leurs intégrations dans notre application et au sein de notre chaîne de build. Et pour finir notre avancé sur le sujet, et les douleurs auxquelles tu vas devoir te préparer...<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [50,51]
+  language: fr
+-
+  id: 44
+  title: "Merge like it's 2099"
+  description: "<p>Every developer working in a team of more than 2 person has experienced conflicts when merging, rebasing or cherry picking a commit. Resolving those conflicts is a tedious task and it's time for a change. This talk will propose a solution to merge smarter and not harder.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [52]
+  language: en

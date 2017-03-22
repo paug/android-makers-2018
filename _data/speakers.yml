@@ -537,3 +537,37 @@
     - {name: 'twitter', link: 'https://twitter.com/h4oxer'}
     - {name: "github", link: "https://github.com/DarioI"}
     - {name: "site", link: "http://www.darioincalza.be"}
+-
+  id: 49
+  name: "Jean-Sébastien"
+  surname: "Dupuy"
+  thumbnailUrl: jsdupuy.png
+  company: "Microsoft"
+  bio: "Jean-Sébastien Dupuy est évangéliste technique chez Microsoft France. Passionné par le développement d’applications mobiles, les agents conversationnels et l'IA, il anime régulièrement des sessions sur ces différents sujets. Vous pouvez suivre son actualité sur twitter <a href='http://twitter.com/dupuyjs'>@dupuyjs</a> ou sur son blog <a href='https://blogs.msdn.microsoft.com/jdupuy/'>https://blogs.msdn.microsoft.com/jdupuy/</a>."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/dupuyjs'}
+    - {name: "site", link: "https://blogs.msdn.microsoft.com/jdupuy/"}
+-
+  id: 50
+  name: "Cédric"
+  surname: "Creusot"
+  thumbnailUrl: noone.png
+  company: "Meetic"
+  bio: "Fan de développement mobile, j'ai plusieurs années d'expérience dans le développement d'application sur Android. J'ai tenté l'expérience du freelance pour produire des jeux vidéo indépendant. Puis, j'ai rejoint les rangs de Meetic en 2014. Depuis, je suis convaincu que travailler en équipe est plus efficace et fun que seul.<br /><br />J'ai participé à la Droidcon 2014 de Paris en tant que conférencier avec la présentation “Green Ligth for the Apps with Calabash“."
+-
+  id: 51
+  name: "Geoffrey"
+  surname: "TAN"
+  thumbnailUrl: noone.png
+  company: "Meetic"
+  bio: "Durant mon cursus à l'école, j'ai eu la chance de pouvoir développer sur iOS et Android. Cette expérience m'a fortement séduite et faite découvrir les problématiques mobiles. Depuis, je suis un passionné de développement mobile. J'ai gardé cette double compétence dans le but d'avoir une vision plus large sur le mobile : regarder comment résoudre une même problématique, mais avec des approches différentes."
+-
+  id: 52
+  name: "Xavier"
+  surname: "F. Gouchet"
+  thumbnailUrl: xfgouchet.png
+  company: "Deezer"
+  bio: "Xavier F. Gouchet is an Android Architect at Deezer. There, he focuses on the core architecture of the apps, developer tools, unit tests and administrate the CI systems. He has been dabbling in Android since the Cupcake days and has been working as an Android engineer for 5 years."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/xgouchet'}
+    - {name: "github", link: "https://github.com/xgouchet/"}

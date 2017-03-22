@@ -17,3 +17,4 @@
     - {name: "Android Weekly", description: "Android Weekly", link: "http://www.androidweekly.net/", imageUrl: "androidweekly.png"}
     - {name: "Infinum", description: "Infinum", link: "https://androidsweets.ongoodbits.com/", imageUrl: "infinum.png"}
     - {name: "Awesome Android", description: "Awesome Android", link: "https://android.libhunt.com/newsletter", imageUrl: "awesome-android.png"}
+    - {name: "Startup Village", description: "StartupVillage : le village des Startups et des Entrepreneurs", link: "http://www.startupvillage.fr/", imageUrl: "startup-village.png"}

@@ -131,12 +131,12 @@
 -
   startDate: "2017-04-10T13:40:00+0200"
   endDate: "2017-04-10T14:05:00+0200"
-  sessionId: -1
+  sessionId: 5
   roomId: 2
 -
   startDate: "2017-04-10T14:05:00+0200"
   endDate: "2017-04-10T14:30:00+0200"
-  sessionId: 5
+  sessionId: 6
   roomId: 2
 -
   startDate: "2017-04-10T14:30:00+0200"

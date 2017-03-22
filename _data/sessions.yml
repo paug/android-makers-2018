@@ -271,3 +271,10 @@
   subtype: presentation
   speakers: [46]
   language: en
+-
+  id: 41
+  title: "Keynote"
+  description: ""
+  subtype: presentation
+  speakers: [47,48]
+  language: en

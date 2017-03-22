@@ -514,3 +514,26 @@
     - {name: 'twitter', link: 'https://twitter.com/h4oxer'}
     - {name: "github", link: "https://github.com/DarioI"}
     - {name: "site", link: "http://www.darioincalza.be"}
+-
+  id: 47
+  name: "Romain"
+  surname: "Guy"
+  thumbnailUrl: rguy.png
+  company: "Google"
+  bio: "Android Graphics team manager at Google. I previously worked for several years as the manager and tech lead of the Android Framework team. I mostly focused on graphics and the UI toolkit."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RomainGuy"}
+    - {name: 'twitter', link: 'https://twitter.com/romainguy'}
+-
+  id: 48
+  name: "Chet"
+  surname: "Haase"
+  thumbnailUrl: chaase.png
+  company: "Google"
+  bio: "Chet leads the Android UI Toolkit team at Google, where he works on animations, graphics, UI widgets, and anything else that puts pixels on the screen. He also writes and performs comedy if given the chance or a mic."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ChetHaase"}
+    - {name: 'twitter', link: 'https://twitter.com/chethaase'}
+    - {name: "site", link: "https://medium.com/@chethaase"}

@@ -68,9 +68,9 @@
   id: 18
   name: "Lisa"
   surname: "Wray"
-  company: "Genius"
+  company: ""
   thumbnailUrl: lwray.png
-  bio: "Android lead at Genius (genius.com), GDE, formerly Google, New York Times."
+  bio: "Independent Android developer based in New York City, GDE, formerly Genius, Google, New York Times."
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}

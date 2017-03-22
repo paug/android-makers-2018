@@ -18,3 +18,7 @@
     - {name: "Infinum", description: "Infinum", link: "https://androidsweets.ongoodbits.com/", imageUrl: "infinum.png"}
     - {name: "Awesome Android", description: "Awesome Android", link: "https://android.libhunt.com/newsletter", imageUrl: "awesome-android.png"}
     - {name: "Startup Village", description: "StartupVillage : le village des Startups et des Entrepreneurs", link: "http://www.startupvillage.fr/", imageUrl: "startup-village.png"}
+-
+  group: "Location"
+  elements:
+    - {name: "Salons de l'Aveyron", description: "Salons de l'Aveyron", link: "http://www.salonsdelaveyron.fr/", imageUrl: "salondelaveyron.png"}

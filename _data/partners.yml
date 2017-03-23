@@ -18,6 +18,7 @@
     - {name: "Infinum", description: "Infinum", link: "https://androidsweets.ongoodbits.com/", imageUrl: "infinum.png"}
     - {name: "Awesome Android", description: "Awesome Android", link: "https://android.libhunt.com/newsletter", imageUrl: "awesome-android.png"}
     - {name: "Startup Village", description: "StartupVillage : le village des Startups et des Entrepreneurs", link: "http://www.startupvillage.fr/", imageUrl: "startup-village.png"}
+    - {name: "FrAndroid", description: "FrAndroid - Tout ce qu'il faut savoir sur Android, et pas seulement", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}
 -
   group: "Location"
   elements:

@@ -299,3 +299,73 @@
   subtype: presentation
   speakers: [52]
   language: en
+-
+  id: 45
+  title: "ExoPlayer, player multimédia pour vos applications et la réalité virtuelle"
+  description: "<p>Cette présentation commencera avec une introduction à ExoPlayer qui en fait un remplaçant naturel de MediaPlayer. Les fonctionnalités de la v1 à v2 seront exposées avec les pour et les contre, le différents formats supportés par la player, ses différentes extensions... On vous montrera comment migrer votre code MediaPlayer vers ExoPlayer en quelques lignes de code. On finira par la capacité d'ExoPlayer à être utilisé dans le domaine de la réalité virtuelle sur Android pour créer des players pour Cardboard / Daydream ou GearVR et comment l'utiliser à l'aide d'un plugin sur Unity.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [53]
+  language: fr
+-
+  id: 46
+  title: "Mode offline : Notre application Android fonctionne au niveau -5 d’un parking"
+  description: "<p>Votre application Android fonctionne-t-elle parfaitement en mode offline ?<br /><br />Pour Virtuo, c’est indispensable. Virtuo est la startup française qui propose une nouvelle expérience de location de voiture. Tout se fait depuis un mobile : la création de compte, la réservation, l’état des lieux et l’ouverture de la voiture. Grâce à ça, plus de file au guichet pour récupérer sa clé. Parce qu’on n’a pas peur des challenges, nos clients n’ont jamais de clé et utilisent leur smartphone ou leur smartwatch pour ouvrir et démarrer leur véhicule pendant toute la durée de la location. Et ça fonctionne, puisque Virtuo totalise déjà plus de 7.000 jours de locations qui commencent toujours de la même manière : dans le sous-sol d’un parking, sans accès à la 3G.<br /><br />Au programme : BLE : La seule solution rapide et vraiment offline Cache HTTP : Connaissez vous le header max-stale Synchronisation et conflits : Quelle stratégie adopter Programmation réactive : Pourquoi elle nous a aidé à nous améliorer UX/Design : Comment un bandeau permet d’améliorer l'expérience Stratégie de cache en fonction du contexte : Pourquoi ne peut-on pas appliquer la même stratégie avant, pendant ou après une réservation<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [54,55]
+  language: fr
+-
+  id: 47
+  title: "Les modules Android, une manière efficace de travailler avec du code legacy"
+  description: "<p>Tout commence d’un besoin métier : optimiser ou proposer une nouvelle expérience utilisateur dans un premier temps disponible pour une fonctionnalité de l’application Meetic mais, sur une vision plus long-terme, potentiellement accessible depuis une autre fonctionnalité voire même une autre application. Nous nous sommes naturellement orientés vers l’implémentation de librairie dans notre projet. Les bénéfices constatés se sont révélés au delà de nos attentes. En plus de notre besoin de réutilisation, de gros gains de productivité nous sont très vite apparus. Le temps de lancement des tests unitaires est devenu suffisamment court pour travailler en TDD. Et l’utilisation de données statiques dans une application de démo a grandement réduit le temps de déploiement. A tel point que nous concevons dorénavant une grande partie de nos fonctionnalités suivant ce mode de développement. Cette présentation va vous montrer que l’utilisation de modules est une solution pour accroître votre productivité sur d'importants projets de plusieurs dizaines de milliers de lignes de code. Ce sera également l’occasion d’évoquer les problématiques que nous avons pu rencontrer (inversion de dépendance, ...)<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [35,56]
+  language: fr
+-
+  id: 48
+  title: "Kotlin in the real world. What you should be aware of before starting a Kotlin project"
+  description: "<p>Kotlin is now recognized as a powerful and viable alternative to Java for Android development. Many are the articles which focus on the different assets of this language. In this talk, I will highlight the differents tools and behaviors which are still missing in Kotlin and might be a handicap for you if you decide to migrate to this language.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [57]
+  language: fr
+-
+  id: 49
+  title: "OpenGL, a noob's guide for Android developers"
+  description: "<p>OpenGL is often regarded as too complex, obscur or even too low level to be considered when developing an application. Most people will even try to go around it and develop what they want using Views and Canvas to avoid developing with it. Nevertheless, it's not always possible nor the best solution. As someone who have been going through all the learning of OpenGL recently, I have encountered a lot of frustration but also a lot of “aha!“ moment. In this talk, I will try to demystified OpenGL and share the basics of what it is and how to use it in Android to make applications perform better. Also, I will share all the pitfalls and key concepts that you should know when starting with OpenGL.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 50
+  title: "Développez une application de météo avec Kotlin"
+  description: "<p>Kotlin est un langage de JVM développé par Jetbrains. Sa version 1.0 (production ready) est sortie en début d'année 2016 et a fait un certain buzz au sein de la communauté android. L'intérêt pour ce langage est toujours d'actualité un an après. Cette session propose de découvrir ce langage, qui reprend certains aspects de groovy ou scala, et qui est très proche de swift dans la syntaxe et les concepts.<br /><br />Ce “nouveau“ langage est très clairement prisé, à juste titre, par la communauté android qui en est demandeuse. D'autres communautés Java, comme spring.io, s'ouvrent clairement et officiellement à ce langage.<br /><br />Ce “handson“ vous propose de monter une application android 100% Kotlin, afin d'y découvrir différentes thématiques du langage. On débutera par une presentation de Kotlin, pour balayer les points intéressants du langage de manière pragmatique (ce qui est intéressant au quotidien) et aller jusque la programmation fonctionnelle et réactive (avec Rx). Ensuite, un TP de 2h se déroulera autour de l'application de démo.<br /><br />Pré-requis : AndroidStudio 2.2+, Android SDK API 24, Build tools 24.0.3+, plugin Kotlin 1.0.6+ et GIT installés sur son portable.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [58,36]
+  language: fr
+-
+  id: 51
+  title: "Genius Scan et NDK : performances et multiplateforme"
+  description: "<p>Partager une base de code entre plusieurs plateformes est souvent une question de compromis entre fonctionnalités, complexité et maintenance. Pour développer le coeur de Genius Scan, nous avons fait le choix du C++ et du NDK. Outre le gain de performance pour les algorithmes de traitement d'image, cette solution simplifie la maintenance du code sur iOS et Android. De plus, les outils intégrés à Android Studio permettent de réduire sensiblement la complexité du développement natif et la lourdeur du JNI.<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [59]
+  language: fr
+-
+  id: 52
+  title: "Automatiser avec Fastlane"
+  description: "<p><a href='https://github.com/fastlane/fastlane'>Fastlane</a> est un outil en ligne de commande qui permet d'automatiser des actions. Il est prévu spécifiquement pour les projets mobiles.<br /><br />Initialement un projet iOS, Fastlane supporte depuis plus d'un an Android et permet d'automatiser de nombreuses actions.<br /><br />Apprenez à :<ul><li>Compiler, signer et envoyer au playstore un apk en 5 lignes de code et une ligne de commande</li><li>Automatiser les captures d'écran localisées et les envoyer sur la fiche Playstore sans lancer un navigateur Web</li><li>Packager et déployer une librairie Android sur un gestionnaire d'artefact depuis un poste utilisateur</li><li>Interfacer Fastlane avec une plateforme d'intégration continue comme Jenkins</li></ul>C'est simple, efficace et peut permettre de faire gagner un temps considérable dans une équipe de développement mobile.<br /><br />Type: Android development<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [60]
+  language: fr
+-
+  id: 53
+  title: "GoMobile at Zenly: Go on Android"
+  description: "<p>GoMobile is a technology that allows regular Go code to run on the phone and have it linked as regular libraries on both Android and iOS. It is used for both talking to the underlying system and to client apps.<br /><br />Since GoMobile has limited support for complex types and the callback/delegate pattern doesn't fit well with the Go paradigm, we will also present RxProto. RxProto allows to pass complex data types between the two runtimes in an easy and type safe manner. By leveraging Rx, it also provides seamless interfacing with the Go concurrency primitives without feeling foreign to the Android ecosystem.<br /><br />In this talk we will present GoMobile, RxProto and the journey on how we wrote a common app backend for both our iOS and Android apps, starting with JSON/REST to Go/GRPC/Protobuf/Java.<br /><br />Type: Android development<br />Experience: expert</p>"
+  subtype: presentation
+  speakers: [61]
+  language: en
+-
+  id: 54
+  title: "The Magic Of VectorDrawables"
+  description: "<p>Introduced in Lollipop, VectorDrawable has been with us for some time now. And yet, it still seems that many of us don’t quite know it well enough. It can do magic to our UI and to our apk size, but.. it also have some weaknesses we must be aware of. This talk will dive deep into VectorDrawable and AnimatedVectorDrawable, and take a 360 degrees look around them. We’ll understand what they really are? How do they work? When should we use them? When should we not? And finally - how to make sweet delightful UI candies out of them?<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  subtype: presentation
+  speakers: [62]
+  language: en

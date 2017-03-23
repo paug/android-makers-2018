@@ -571,3 +571,105 @@
   social:
     - {name: 'twitter', link: 'https://twitter.com/xgouchet'}
     - {name: "github", link: "https://github.com/xgouchet/"}
+-
+  id: 53
+  name: "Julien"
+  surname: "Salvi"
+  thumbnailUrl: jsalvi.png
+  company: "Cinémur"
+  bio: "Creative Technologist et Android Enigneer chez Cinémur, je développe les applications Android de Cinémur et je suis impliqué dans les projets R&D lorsqu'il s'agit mixer player et réalité virtuelle (VR) sur Android, le tout entre 2 films de Star Wars et quelques bières belges. Si je ne trouve pas un bug de plus sur des Samsung ou Wiko, je tente de réussir mon objectif de visiter 50 pays dans le monde."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/115346449744082753357"}
+    - {name: 'twitter', link: 'https://twitter.com/JulienSalvi'}
+    - {name: "github", link: "https://github.com/Oleur"}
+-
+  id: 54
+  name: "Romain"
+  surname: "Potier"
+  thumbnailUrl: rpotier.png
+  company: "Virtuo"
+  bio: "Développeur depuis 6 ans dont 3 sur Android, je travaille maintenant pour la startup Virtuo qui propose de la location de voiture 100% mobile et sans clé."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/PotierRomain'}
+    - {name: "github", link: "https://github.com/romainpotier"}
+-
+  id: 55
+  name: "Mathieu"
+  surname: "Hausherr"
+  thumbnailUrl: mhausherr.png
+  company: "Virtuo"
+  bio: "Développeur d’applications mobiles. Je réalise des applications Android et iOS pour des voitures connectées chez Virtuo Technologies. Passé 4 ans dans l'équipe mobile d'Octo Technology j'y ai appris a croire en l’industrialisation des devs mobiles, aux tests unitaires et à l’intégration continue."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/mhausherr'}
+    - {name: "github", link: "https://github.com/mhausherr"}
+    - {name: "site", link: "https://mathieu-hausherr.com"}
+-
+  id: 56
+  name: "Damien"
+  surname: "Locque"
+  thumbnailUrl: dlocque.png
+  company: "Meetic (Match Group)"
+  bio: "Diplomé de l'Epitech j'ai fait mes premières armes sur le développement Android en start-up pendant plus de deux ans. Je viens de recemment rejoindre Meetic où je participe activement à la transition de l'application vers une clean architecture."
+-
+  id: 57
+  name: "Rémi"
+  surname: "Pradal"
+  thumbnailUrl: rpradal.png
+  company: "Octo Technology"
+  bio: "Rémi is an Android developer working at Octo Technology. He used to work on BNP and Le Monde applications<br /><br />He loves well-designed Android applications and exploring the Kotlin language."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/RemiPradal'}
+    - {name: "github", link: "https://github.com/rpradal"}
+    - {name: "site", link: "http://blog.octo.com/en/author/rpradalocto-com/"}
+-
+  id: 58
+  name: "Laurent"
+  surname: "Baresse"
+  thumbnailUrl: lbaresse.png
+  company: "Ekito"
+  bio: "Développeur / Architecte Java depuis 17 ans dans une SSII Toulousaine et j'ai rejoins ekito (<a href='https://www.ekito.fr'>https://www.ekito.fr</a>) pour me rapprocher de passionnés de technique. Participant assidu du JUG Toulouse, animateur / speaker principal des réunions techniques “entre midi et deux“ pour diffuser la bonne parole et enfin speaker à DevoxxFR"
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/Baresse'}
+    - {name: "github", link: "https://github.com/Baresse"}
+    - {name: "site", link: "https://www.ekito.fr/people/author/lbaresse/"}
+-
+  id: 59
+  name: "Guillaume"
+  surname: "Gigaud"
+  thumbnailUrl: ggigaud.png
+  company: "The Grizzly Labs"
+  bio: "Nous développons depuis plusieurs années des applications de productivité dont Genius Scan, Genius Fax et Genius Sign, avec plus de 2M d'utilisateurs actifs par mois. Notre objectif est de fournir aux entreprises comme aux particuliers des outils efficaces et simples pour pouvoir gérer leurs documents depuis leur mobile. Genius Scan en particulier allie des algorithmes de traitement d'images puissants à un design épuré."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/thegrizzlylabs'}
+    - {name: "site", link: "https://thegrizzlylabs.com"}
+-
+  id: 60
+  name: "Antoine"
+  surname: "Descamps"
+  thumbnailUrl: adescamps.png
+  company: "Amiltone"
+  bio: "Responsable d'un pôle d'expertise en développement mobile natif.<br /><br />Expertise sur la mise en place d'architectures adaptées pour des projets mobiles développés en langage natif. Automatisation de la chaine de production. Scaling de projets complexes & bonnes pratiques en développement sur mobile.<br /><br />Bidouilleur dans des projets DIY persos et d'entreprise (Borne d'arcade, Domotique)"
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/_antdesc'}
+-
+  id: 61
+  name: "Steeve"
+  surname: "Morin"
+  thumbnailUrl: smorin.png
+  company: "Zenly"
+  bio: "I make tasty ice creams at Zenly. Golang fan. boot2docker creator. <a href='http://keybase.io/steeve/key.asc'>http://keybase.io/steeve/key.asc</a>"
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/steeve'}
+    - {name: "github", link: "https://github.com/steeve"}
+    - {name: "site", link: "https://zen.ly"}
+-
+  id: 62
+  name: "Britt"
+  surname: "Barak"
+  thumbnailUrl: bbarak.png
+  company: "Figure8 / Android Academy / Women Techmakers"
+  bio: "Born and raised in the “Startup Nation” Britt has started and led mobile teams on various startup companies. Currently she is a part of an establishing startup by the name of Figure8.<br /><br />Passionate about Android development, Britt is a part of the leading team of Android Academy which is the largest, most active Android community. She is also the Women Techmakers Israel lead and organizes events combining career skills with technical content, in the mission of promoting diversity in the tech industry and empowering women."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/BrittBarak'}
+    - {name: "site", link: "https://medium.com/@britt.barak"}
+    - {name: "site", link: "https://www.facebook.com/britt.barak"}

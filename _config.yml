@@ -174,9 +174,9 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/103781206198600111125", icon: "google-plus"}
- - {link: "https://twitter.com/parisandroidug", icon: "twitter"}
- - {link: "https://www.facebook.com/ParisAndroidUG", icon: "facebook"}
+ - {link: "https://plus.google.com/+DroidconParis", icon: "google-plus"}
+ - {link: "https://twitter.com/AndroidMakersFR", icon: "twitter"}
+ - {link: "https://www.facebook.com/events/700985966748191/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -184,6 +184,7 @@ footerBlocks:
   links:
    - {link: "http://www.paug.fr/", text: "PAUG.fr"}
    - {link: "http://bemyapp.com", text: "bemyapp.com"}
+   - {link: "https://drive.google.com/drive/folders/0B6SH_S_lcnHEcFhqTzMtZGdzdjA", text: "Press"}
  -
   title: "Contacts"
   links:

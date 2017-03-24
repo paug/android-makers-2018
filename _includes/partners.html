@@ -18,7 +18,7 @@
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
-            <ul class="list-inline{% if partner.group == "Silver sponsor" %} big{% endif %}">
+            <ul class="list-inline{% if partner.group == "Gold+ sponsor" %} big{% endif %}">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">

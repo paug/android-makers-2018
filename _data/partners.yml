@@ -1,5 +1,5 @@
 -
-  group: "Gold sponsor"
+  group: "Gold+ sponsor"
   elements:
   - {name: "Google", description: "Google", link: "https://d.android.com", imageUrl: "google.png"}
 - 
@@ -10,7 +10,7 @@
     - {name: "Octo Techno", description: "Octo Technology : There is a better way", link: "http://www.octo.com/en", imageUrl: "octo.png"}
     - {name: "Le bon coin", description: "Le bon coin", link: "https://www.leboncoin.fr", imageUrl: "leboncoin.jpg"}
     - {name: "iD.apps", description: "iD.apps", link: "http://www.id-apps.fr/", imageUrl: "idapps.png"}
-    - {name: "SoLocal", description: "SoLocal", link: "https://www.solocalgroup.com/", imageUrl: "solocal.png"}
+    - {name: "SoLocal", description: "SoLocal Group", link: "https://www.solocalgroup.com/", imageUrl: "solocal.png"}
 -
   group: "Media"
   elements:

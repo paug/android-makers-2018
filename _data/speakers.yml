@@ -150,6 +150,16 @@
     - {name: 'twitter', link: 'https://twitter.com/dggonzalez'}
     - {name: "github", link: "https://github.com/malmstein"}
 -
+  id: 63
+  name: "Jonathan"
+  surname: "Koren"
+  thumbnailUrl: jkoren.png
+  company: "Google"
+  bio: "Hi! I'm a Developer Programs Engineer at Google, currently working on IoT/Android Things. I make developers' lives easier by vetting APIs, creating samples, and writing libraries used by 3rd parties. I have about 5 years of experience developing apps and libraries on Android and am excited to help foster Google's IoT platform."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JonathanKoren"}
+-
   id: 3
   name: "Benjamin"
   surname: "Monjoie"

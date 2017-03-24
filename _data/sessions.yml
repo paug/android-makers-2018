@@ -24,7 +24,7 @@
   title: "Workshop on Android Things for IoT"
   description: "<p>Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android.<br />In this session, you will have the opportunity to develop your own IoT applications with the assistance of Developer Advocates from Google. We will be available for answering your questions, and also to give feedback to the engineering team.<br /> Come and try out the use of familiar tools such as Android Studio and the Android SDK to easily develop IoT software.<br /><br />Type: Android everywhere<br />Experience: intermediate</p>"
   subtype: presentation
-  speakers: [4]
+  speakers: [4,63]
   language: en
 -
   id: 5

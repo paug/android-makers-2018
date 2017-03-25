@@ -141,12 +141,12 @@
 -
   startDate: "2017-04-10T14:30:00+0200"
   endDate: "2017-04-10T14:55:00+0200"
-  sessionId: -1
+  sessionId: 45
   roomId: 2
 -
   startDate: "2017-04-10T14:55:00+0200"
   endDate: "2017-04-10T15:20:00+0200"
-  sessionId: -1
+  sessionId: 46
   roomId: 2
 -
   startDate: "2017-04-10T15:35:00+0200"
@@ -161,17 +161,17 @@
 -
   startDate: "2017-04-10T16:25:00+0200"
   endDate: "2017-04-10T16:50:00+0200"
-  sessionId: -1
+  sessionId: 47
   roomId: 2
 -
   startDate: "2017-04-10T16:50:00+0200"
   endDate: "2017-04-10T17:15:00+0200"
-  sessionId: -1
+  sessionId: 48
   roomId: 2
 -
   startDate: "2017-04-10T17:15:00+0200"
   endDate: "2017-04-10T17:40:00+0200"
-  sessionId: -1
+  sessionId: 49
   roomId: 2
 -
   startDate: "2017-04-10T17:40:00+0200"
@@ -229,9 +229,29 @@
   sessionId: 36
   roomId: 2
 -
+  startDate: "2017-04-10T10:05:00+0200"
+  endDate: "2017-04-10T12:50:00+0200"
+  sessionId: 50
+  roomId: 3
+-
+  startDate: "2017-04-10T13:40:00+0200"
+  endDate: "2017-04-10T14:05:00+0200"
+  sessionId: 51
+  roomId: 3
+-
   startDate: "2017-04-10T14:05:00+0200"
   endDate: "2017-04-10T14:30:00+0200"
   sessionId: 7
+  roomId: 3
+-
+  startDate: "2017-04-10T14:30:00+0200"
+  endDate: "2017-04-10T14:55:00+0200"
+  sessionId: 52
+  roomId: 3
+-
+  startDate: "2017-04-10T14:55:00+0200"
+  endDate: "2017-04-10T15:20:00+0200"
+  sessionId: 53
   roomId: 3
 -
   startDate: "2017-04-10T15:35:00+0200"
@@ -252,6 +272,11 @@
   startDate: "2017-04-11T13:25:00+0200"
   endDate: "2017-04-11T16:10:00+0200"
   sessionId: 14
+  roomId: 3
+-
+  startDate: "2017-04-10T16:10:00+0200"
+  endDate: "2017-04-10T17:00:00+0200"
+  sessionId: 54
   roomId: 3
 -
   startDate: "2017-04-11T17:00:00+0200"

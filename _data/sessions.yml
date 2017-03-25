@@ -24,7 +24,7 @@
   title: "Workshop on Android Things for IoT"
   description: "<p>Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android.<br />In this session, you will have the opportunity to develop your own IoT applications with the assistance of Developer Advocates from Google. We will be available for answering your questions, and also to give feedback to the engineering team.<br /> Come and try out the use of familiar tools such as Android Studio and the Android SDK to easily develop IoT software.<br /><br />Type: Android everywhere<br />Experience: intermediate</p>"
   subtype: presentation
-  speakers: [4,63]
+  speakers: [63]
   language: en
 -
   id: 5
@@ -368,4 +368,11 @@
   description: "<p>Introduced in Lollipop, VectorDrawable has been with us for some time now. And yet, it still seems that many of us don’t quite know it well enough. It can do magic to our UI and to our apk size, but.. it also have some weaknesses we must be aware of. This talk will dive deep into VectorDrawable and AnimatedVectorDrawable, and take a 360 degrees look around them. We’ll understand what they really are? How do they work? When should we use them? When should we not? And finally - how to make sweet delightful UI candies out of them?<br /><br />Type: Android development<br />Experience: intermediate</p>"
   subtype: presentation
   speakers: [62]
+  language: en
+-
+  id: 55
+  title: "Android Things for IoT"
+  description: "<p>Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android. This talk will show how developers can use familiar tools such as Android Studio and the Android SDK to easily develop IoT software, and then to scale the hardware from a single prototype into production.<br /><br />Type: Android everywhere<br />Experience: beginner</p>"
+  subtype: presentation
+  speakers: [4]
   language: en

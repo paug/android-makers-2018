@@ -4,7 +4,18 @@
     }
     .list-inline {
         margin-bottom: 65px;
-        .big {
+        li {
+            width: 16%;
+            max-width: 180px;
+            margin: 13px 7px;
+            @media (max-width: 767px) {
+                width: 40%;
+                max-width: 160px;
+            }
+        }
+    }
+    .big {
+        li {
             width: 25%;
             max-width: 270px;
             margin: 13px 7px;
@@ -13,13 +24,15 @@
                 max-width: 240px;
             }
         }
+    }
+    .small {
         li {
-            width: 16%;
-            max-width: 180px;
+            width: 10%;
+            max-width: 100px;
             margin: 13px 7px;
             @media (max-width: 767px) {
-                width: 40%;
-                max-width: 160px;
+                width: 30%;
+                max-width: 100px;
             }
         }
     }

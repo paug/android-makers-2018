@@ -12,6 +12,10 @@
     - {name: "iD.apps", description: "iD.apps", link: "http://www.id-apps.fr/", imageUrl: "idapps.png"}
     - {name: "SoLocal", description: "SoLocal Group", link: "https://www.solocalgroup.com/", imageUrl: "solocal.png"}
 -
+  group: "Other sponsor"
+  elements:
+    - {name: "Uber", description: "Uber", link: "https://www.uber.com", imageUrl: "uber.png"}
+-
   group: "Media"
   elements:
     - {name: "FrAndroid", description: "FrAndroid - Tout ce qu'il faut savoir sur Android, et pas seulement", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}

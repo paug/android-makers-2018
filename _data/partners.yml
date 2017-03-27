@@ -2,9 +2,9 @@
   group: "Gold+ sponsor"
   elements:
   - {name: "Google", description: "Google", link: "https://d.android.com", imageUrl: "google.png"}
-- 
+-
   group: "Silver sponsor"
-  elements: 
+  elements:
     - {name: "Xebia mobile", description: "Xebia mobile", link: "http://mobile.xebia.fr/", imageUrl: "xebia.png"}
     - {name: "Deezer", description: "Deezer - Encore plus de musique à découvrir", link: "http://deezer.com", imageUrl: "deezer.png"}
     - {name: "Octo Techno", description: "Octo Technology : There is a better way", link: "http://www.octo.com/en", imageUrl: "octo.png"}
@@ -14,15 +14,16 @@
 -
   group: "Media"
   elements:
-    - {name: "F6S", description: "F6S", link: "https://www.f6s.com/", imageUrl: "f6s.png"}
-    - {name: "Droidsoft", description: "Droidsoft, Tout sur Android", link: "http://droidsoft.fr/", imageUrl: "droidsoft.png"}
-    - {name: "Lunabee Studio", description: "Lunabee Studio", link: "http://www.lunabee.studio/", imageUrl: "lunabee.png"}
+    - {name: "FrAndroid", description: "FrAndroid - Tout ce qu'il faut savoir sur Android, et pas seulement", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}
+    - {name: "Programmez!", description: "Programmez! Le magazine des développeurs", link: "http://www.programmez.com/", imageUrl: "programmez.png"}
     - {name: "Begeek", description: "Begeek", link: "http://www.begeek.fr/", imageUrl: "begeek.png"}
-    - {name: "Android Weekly", description: "Android Weekly", link: "http://www.androidweekly.net/", imageUrl: "androidweekly.png"}
+    - {name: "Droidsoft", description: "Droidsoft, Tout sur Android", link: "http://droidsoft.fr/", imageUrl: "droidsoft.png"}
+    - {name: "Startup Village", description: "StartupVillage : le village des Startups et des Entrepreneurs", link: "http://www.startupvillage.fr/", imageUrl: "startup-village.png"}
+    - {name: "F6S", description: "F6S", link: "https://www.f6s.com/", imageUrl: "f6s.png"}
+    - {name: "Lunabee Studio", description: "Lunabee Studio", link: "http://www.lunabee.studio/", imageUrl: "lunabee.png"}
     - {name: "Infinum", description: "Infinum", link: "https://androidsweets.ongoodbits.com/", imageUrl: "infinum.png"}
     - {name: "Awesome Android", description: "Awesome Android", link: "https://android.libhunt.com/newsletter", imageUrl: "awesome-android.png"}
-    - {name: "Startup Village", description: "StartupVillage : le village des Startups et des Entrepreneurs", link: "http://www.startupvillage.fr/", imageUrl: "startup-village.png"}
-    - {name: "FrAndroid", description: "FrAndroid - Tout ce qu'il faut savoir sur Android, et pas seulement", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}
+    - {name: "Android Weekly", description: "Android Weekly", link: "http://www.androidweekly.net/", imageUrl: "androidweekly.png"}    
 -
   group: "Location"
   elements:

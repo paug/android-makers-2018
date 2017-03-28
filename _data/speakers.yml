@@ -683,3 +683,33 @@
     - {name: 'twitter', link: 'https://twitter.com/BrittBarak'}
     - {name: "site", link: "https://medium.com/@britt.barak"}
     - {name: "site", link: "https://www.facebook.com/britt.barak"}
+-
+  id: 64
+  name: "Mark"
+  surname: "Boyt"
+  thumbnailUrl: mboyt.png
+  company: "Xerox"
+  bio: "Experienced solution marketeer from Xerox. Joined Mopria 3 year ago to help bring the mobile opportunity to everyone."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/Boytie'}
+    - {name: "site", link: "http://www.mopria.org"}
+-
+  id: 65
+  name: "Pawoubadi"
+  surname: "Abalo"
+  thumbnailUrl: pabalo.png
+  company: "Leboncoin"
+  bio: "Aujourd'hui Head of Front-End Engineering, cumulant 8ans d'expérience chez leboncoin. J'ai connu toutes les étapes du produit leboncoin et en a été successivement dev full stack, dev mobile puis manager front."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/leboncoin'}
+    - {name: "site", link: "https://www.leboncoin.fr"}
+-
+  id: 66
+  name: "Thibault"
+  surname: "Fighiera"
+  thumbnailUrl: tfighiera.png
+  company: "PagesJaunes"
+  bio: "Développeur Android depuis 2 ans chez PagesJaunes après 2 ans chez QooQ je promeux les spécificités de notre OS et notre incroyable Material Design. J'adore découvrir chaque jour les nouveautés qui s'offrent à nous et participer à ce grand projet qui nous réunit : simplifier la vie de nos utilisateurs."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/YellowTeamAndro'}
+    - {name: "site", link: "https://play.google.com/store/apps/details?id=com.pagesjaunes"}

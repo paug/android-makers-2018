@@ -8,8 +8,6 @@ An outstanding gift for all Android Makers attendees!
 ===================
 *(Version française en bas de page)*
 
-![Android Makers](http://androidmakers.fr/img/posts/speakers/cover.png)
-
 Once upon a time, the BeMyApp and Paris Android User Group teams decided to organize the event of their dream. To do so, they met for long hours to define a list of their **dearest wishes**.
 
 An Android event obviously means a tshirt with our favorite **bugdroid**. With Android Makers, we wanted to aim for the Moon by choosing one of our favorite designers: **Taylor Ling**.

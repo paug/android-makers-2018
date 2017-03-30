@@ -7,7 +7,6 @@ isStaticPost: false
 Solocal Group n°1 in Europe on digital local communication
 ===================
 
-SoLocal Group ranks #1 in Europe on digital local communication.
 Through their major brands (PagesJaunes, Mappy, Ooreka and AVAL) and their partnerships with global Internet players (Apple, Google, Bing, Yahoo! and Facebook), they manage the local presence on the Internet and the local communication of 490,000 businesses and create rich and pertinent digital business content for their customers that is in tune with the targeted consumers.
 
 By focusing their positioning on the various businesses in the communication field and on establishing local relationships on the fixed and mobile Internet, they are now among the local communication leaders in Europe, with 812,3 million euros in advertising revenues.

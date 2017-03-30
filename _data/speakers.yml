@@ -252,9 +252,9 @@
 -
   id: 12
   name: "Thalía"
-  surname: "Cruz Castañarez"
+  surname: "Cruz Castañares"
   company: "Softbank Robotics"
-  thumbnailUrl: tcruzcastanarez.png
+  thumbnailUrl: tcruzcastanares.png
   bio: "I'm a Mexican Software Engineer, Android and robotics enthusiast. I'm currently the Android team's manager at Softbank Robotics in Paris. Our goal is to create the SDK to develop Android applications compatible with our humanoid robot Pepper."
   social:
     - {name: "site", link: "http://android.ald.softbankrobotics.com"}

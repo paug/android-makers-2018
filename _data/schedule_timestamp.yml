@@ -1,5 +1,5 @@
 -
-  startDate: "2017-04-10T08:55:00+0200"
+  startDate: "2017-04-10T08:45:00+0200"
   endDate: "2017-04-10T09:45:00+0200"
   sessionId: 41
   roomId: 1
@@ -47,6 +47,11 @@
   startDate: "2017-04-10T17:10:00+0200"
   endDate: "2017-04-10T18:00:00+0200"
   sessionId: 21
+  roomId: 1
+-
+  startDate: "2017-04-10T18:00:00+0200"
+  endDate: "2017-04-10T22:00:00+0200"
+  sessionId: 61
   roomId: 1
 -
   startDate: "2017-04-11T08:45:00+0200"
@@ -101,12 +106,12 @@
 -
   startDate: "2017-04-11T17:20:00+0200"
   endDate: "2017-04-11T17:45:00+0200"
-  sessionId: -1
+  sessionId: 59
   roomId: 1
 -
   startDate: "2017-04-11T17:45:00+0200"
   endDate: "2017-04-11T18:00:00+0200"
-  sessionId: -1
+  sessionId: 60
   roomId: 1
 -
   startDate: "2017-04-10T10:15:00+0200"

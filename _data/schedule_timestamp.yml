@@ -146,7 +146,7 @@
 -
   startDate: "2017-04-10T12:45:00+0200"
   endDate: "2017-04-10T13:35:00+0200"
-  sessionId: 9
+  sessionId: 54
   roomId: 2
 -
   startDate: "2017-04-10T13:50:00+0200"
@@ -231,7 +231,7 @@
 -
   startDate: "2017-04-11T14:50:00+0200"
   endDate: "2017-04-11T15:40:00+0200"
-  sessionId: 33
+  sessionId: 9
   roomId: 2
 -
   startDate: "2017-04-11T15:40:00+0200"
@@ -286,7 +286,7 @@
 -
   startDate: "2017-04-11T11:15:00+0200"
   endDate: "2017-04-11T12:05:00+0200"
-  sessionId: 54
+  sessionId: 33
   roomId: 3
 -
   startDate: "2017-04-11T12:20:00+0200"

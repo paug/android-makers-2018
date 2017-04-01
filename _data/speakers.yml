@@ -674,15 +674,14 @@
     - {name: "site", link: "https://zen.ly"}
 -
   id: 62
-  name: "Britt"
-  surname: "Barak"
-  thumbnailUrl: bbarak.png
-  company: "Figure8 / Android Academy / Women Techmakers"
-  bio: "Born and raised in the “Startup Nation” Britt has started and led mobile teams on various startup companies. Currently she is a part of an establishing startup by the name of Figure8.<br /><br />Passionate about Android development, Britt is a part of the leading team of Android Academy which is the largest, most active Android community. She is also the Women Techmakers Israel lead and organizes events combining career skills with technical content, in the mission of promoting diversity in the tech industry and empowering women."
+  name: "Hoi"
+  surname: "Lam"
+  thumbnailUrl: hlam.jpg
+  company: "Google"
+  bio: "Hoi is the Lead Developer Advocate for Android Wear and an Internet of Things (IoT) panel expert for the Institute of Engineering and Technology. He worked on the launch of Chromecast in Europe, Android Wear, Google Glass and the Google beacon platform.<br /><br />Prior to joining Google, he founded Exahive to disrupt the mobile commerce marketplace. Hoi was an Equity Research VP at Deutsche Bank and Citigroup between 2007-2012 advising technology CEOs, CFOs on corporate strategy and institutional investors on tech investments.<br /><br />Before banking, he was an enterprise architect at Accenture heading up product management for large client programmes. Hoi holds a Master and Bachelor degree in Space Engineering from the University of Cambridge."
   social:
-    - {name: 'twitter', link: 'https://twitter.com/BrittBarak'}
-    - {name: "site", link: "https://medium.com/@britt.barak"}
-    - {name: "site", link: "https://www.facebook.com/britt.barak"}
+    - {name: 'twitter', link: 'https://twitter.com/hoitab'}
+    - {name: "site", link: "https://developer.android.com/wear/index.html"}
 -
   id: 64
   name: "Mark"

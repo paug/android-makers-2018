@@ -364,8 +364,8 @@
   language: en
 -
   id: 54
-  title: "The Magic Of VectorDrawables"
-  description: "<p>Introduced in Lollipop, VectorDrawable has been with us for some time now. And yet, it still seems that many of us don’t quite know it well enough. It can do magic to our UI and to our apk size, but.. it also have some weaknesses we must be aware of. This talk will dive deep into VectorDrawable and AnimatedVectorDrawable, and take a 360 degrees look around them. We’ll understand what they really are? How do they work? When should we use them? When should we not? And finally - how to make sweet delightful UI candies out of them?<br /><br />Type: Android development<br />Experience: intermediate</p>"
+  title: "Developing for Android Wear 2.0"
+  description: "<p>In this session, Hoi will explore the past, the present and the future of Android Wear. Come and find out the new developer features in Android Wear 2.0 and what developers / designers should do to get ready!<br /><br />Type: Android development<br />Experience: intermediate</p>"
   subtype: presentation
   speakers: [62]
   language: en

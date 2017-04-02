@@ -489,7 +489,7 @@
   name: "Vasiliy"
   surname: "Zukanov"
   thumbnailUrl: vzukanov.png
-  company: "StuccoMedia"
+  company: "TechYourChance"
   bio: "I'm a passionate Android developer, Android tech lead and an amateur blogger. Having worked as a hardware engineer for several years, I'm now constantly amazed at the power that software developers have in bringing products to life. Main areas of my professional interests are architecture, testing and concurrent programming. Android development blog written by me: <a href='http://www.techyourchance.com'>www.techyourchance.com</a>"
   social:
     - {name: "site", link: "http://www.techyourchance.com"}

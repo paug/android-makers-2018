@@ -21,7 +21,7 @@
     - {name: "FrAndroid", description: "FrAndroid - Tout ce qu'il faut savoir sur Android, et pas seulement", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}
     - {name: "Programmez!", description: "Programmez! Le magazine des développeurs", link: "http://www.programmez.com/", imageUrl: "programmez.png"}
     - {name: "Begeek", description: "Begeek", link: "http://www.begeek.fr/", imageUrl: "begeek.png"}
-    - {name: "MeilleurMobile", description: "Acheter les meilleurs téléphones pas chers avec Meilleurmobile", link: "http://www.meilleurmobile.com/", imageUrl: "meilleurmobile.png"}    
+    - {name: "MeilleurMobile", description: "Acheter les meilleurs téléphones pas chers avec Meilleurmobile", link: "http://www.meilleurmobile.com/", imageUrl: "meilleur-mobile.png"}    
     - {name: "Droidsoft", description: "Droidsoft, Tout sur Android", link: "http://droidsoft.fr/", imageUrl: "droidsoft.png"}
     - {name: "Startup Village", description: "StartupVillage : le village des Startups et des Entrepreneurs", link: "http://www.startupvillage.fr/", imageUrl: "startup-village.png"}
     - {name: "F6S", description: "F6S", link: "https://www.f6s.com/", imageUrl: "f6s.png"}

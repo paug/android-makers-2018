@@ -51,7 +51,7 @@
 -
   startDate: "2017-04-10T18:00:00+0200"
   endDate: "2017-04-10T22:00:00+0200"
-  sessionId: 61
+  sessionId: 104
   roomId: 1
 -
   startDate: "2017-04-11T08:45:00+0200"
@@ -111,7 +111,7 @@
 -
   startDate: "2017-04-11T17:45:00+0200"
   endDate: "2017-04-11T18:00:00+0200"
-  sessionId: 60
+  sessionId: 105
   roomId: 1
 -
   startDate: "2017-04-10T10:15:00+0200"

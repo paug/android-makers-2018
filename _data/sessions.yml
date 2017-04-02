@@ -1,4 +1,30 @@
 -
+  id: 101
+  title: "Registration"
+  place: ""
+  service: true
+-
+  id: 102
+  title: "Break"
+  place: ""
+  service: true
+-
+  id: 103
+  title: "Lunch"
+  place: ""
+  service: true
+  description: "The best time to talk with speakers and attendees."
+-
+  id: 104
+  title: "Party"
+  place: ""
+  service: true
+  description: "Let's talk & drink."
+-
+  id: 105
+  title: "Thank you see you next year!"
+  service: true
+-
   id: 1
   title: "The Fabulous Journey to Material Design Award"
   description: "<p>Taylor will be sharing his experience as a design co-founder of Fabulous, an app that recently got the Material Design Award, from design and marketing perspective.<br />The audience is expected to walk away with some lessons learned by Taylor while building Fabulous, including like why Details matter, the use of illustrations in Fabulous, data-driven design etc. which hopefully help to inspire the audience for further enhancement of their app.<br /><br />Type: UX/UI<br />Experience: beginner</p>"
@@ -404,17 +430,3 @@
   subtype: presentation
   speakers: [48]
   language: en
--
-  id: 60
-  title: "The End"
-  description: ""
-  subtype: presentation
-  speakers: []
-  language: fr
--
-  id: 61
-  title: "After Party"
-  description: ""
-  subtype: presentation
-  speakers: []
-  language: fr

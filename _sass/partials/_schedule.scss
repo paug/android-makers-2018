@@ -51,10 +51,9 @@ $small-label-width: 80px;
 }
 .timeslot {
     background: #fff;
-    border-top: $schedule-border;
-    border-left: $schedule-border;
+    border: $schedule-border;
     &:last-child {
-        border-bottom: $schedule-border;
+        border: $schedule-border;
     }
 }
 .track-header {
@@ -124,17 +123,13 @@ $small-label-width: 80px;
     padding: 10px 15px 10px;
     text-align: left;
     transition: $base-transition;
-    border-right: $schedule-border;
+    border: $schedule-border;
     user-select: none;
     @media (max-width: 767px) {
-        border-top: 0;
-        border-left: $schedule-border;
+        border: $schedule-border;
     }
     &:first-child {
-        border-left: $schedule-border;
-        @media (max-width: 767px) {
-            border-top: 0;
-        }
+        border: $schedule-border;
     }
 }
 .slot {
@@ -142,7 +137,7 @@ $small-label-width: 80px;
     padding: 0;
     cursor: pointer;
     @media (max-width: 767px) {
-        border-top: $schedule-border;
+        border: $schedule-border;
     }
     &.blank-col {
         cursor: default;
@@ -187,4 +182,38 @@ $small-label-width: 80px;
 }
 .service-description {
     margin-top: 15px;
+}
+.height-1 {
+    height: 200px;
+}
+.height-2 {
+    height: 400px;
+}
+.height-3 {
+    height: 600px;
+}
+.height-4 {
+    height: 800px;
+}
+.height-5 {
+    height: 1000px;
+}
+.height-6 {
+    height: 1200px;
+}
+.height-7 {
+    height: 1400px;
+}
+.height-8 {
+    height: 1600px;
+}
+.height-9 {
+    height: 1800px;
+}
+.height-10 {
+    height: 2000px;
+}
+
+.no-padding {
+  padding: 0px;
 }

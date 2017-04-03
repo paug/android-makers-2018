@@ -22,8 +22,10 @@
   description: "Let's talk & drink."
 -
   id: 105
-  title: "Thank you see you next year!"
+  title: "Thank you!"
+  place: ""
   service: true
+  description: "Thank you see you next year!"
 -
   id: 1
   title: "The Fabulous Journey to Material Design Award"

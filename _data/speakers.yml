@@ -345,27 +345,6 @@
     - {name: "github", link: "http://github.com/jeremiemartinez"}
     - {name: "site", link: "http://jeremie-martinez.com/"}
 -
-  id: 25
-  name: "Benjamin"
-  surname: "Augustin"
-  thumbnailUrl: baugustin.png
-  company: "Novoda"
-  bio: "Benjamin is a Software Craftsman and Android developer at Novoda.<br /><br />Ben might have started thinking functionally when, as a kid, he got hit on his head by a ladder while doing maths homework. Suddenly, he could see functions everywhere, and now he's sharing his visions with the world. Or maybe this is just one of those crazy made up back stories, who knows?<br /><br />One thing is sure, he is convinced that functional programming has a lot to teach us on our everyday work."
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+BenjaminAugustin-Dorvaryn"}
-    - {name: 'twitter', link: 'https://twitter.com/Dorvaryn'}
-    - {name: "github", link: "https://github.com/Dorvaryn"}
--
-  id: 26
-  name: "Dominic"
-  surname: "Freeston"
-  thumbnailUrl: dfreeston.png
-  company: "Novoda"
-  bio: "Once upon a time, Dominic accidentally became an iOS developer and figured he should probably get himself an iPhone. He's been eyeing other platforms with a suspicious but intrigued eye ever since. He often thinks about ways he can stop worrying about state."
-  social:
-    - {name: 'twitter', link: 'https://twitter.com/dominicfreeston'}
-    - {name: "github", link: "https://github.com/dominicfreeston"}
--
   id: 27
   name: "Mathieu"
   surname: "Calba"

@@ -158,13 +158,6 @@
   speakers: [24]
   language: fr
 -
-  id: 21
-  title: "Build together, not the same (codebase)"
-  description: "<p>You’re building an app for Android and iOS. You want feature parity, you want quality and you want to do it with a small team. You probably had a look at cross platform solutions and realised none of them suits you.<br /><br />That doesn’t mean you can’t improve your native development practices in order to work as one team across Android and iOS.<br /><br />We will show you a push-based architecture (using Firebase and Reactive Extensions) that uses the same terminology and code design on both platforms. We can plan, design and architecture code once as a team. We can even pair and review code across platforms and when bugs are identified it is easy to fix on both platforms as the change is virtually the same.<br /><br />Type: Android development<br />Experience: intermediate</p>"
-  subtype: presentation
-  speakers: [25,26]
-  language: en
--
   id: 22
   title: "Streamlining Payments on Mobile"
   description: "<p>Payments on Mobile is not an easy task but it is certainly one of the most important in a commerce application. At Capitaine Train it was a very important part of our mission to help people purchase their train tickets easily and we improved the paying experience multiple times since the first release of the application.<br /><br />In this talk, we will see how to build a payment process from scratch: from the simplest payment form to the more evolved one, handling 3DSecure, how to use fingerprint to streamline even more the process, handling multiple payment methods.<br /><br />Type: Android development<br />Experience: intermediate</p>"

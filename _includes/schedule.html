@@ -2,27 +2,28 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+        <div class="schedule-table col-xs-10 col-xs-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Day {{ forloop.index }}</div>
-                <div class="timeslot-elements flexbox-wrapper">
-                    {% for track in day.tracks %}
-                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
-                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
-                        <h5 class="track-header-title">{{ track.title }}</h5>
-                    </div>
-                    {% endfor %}
-                    <div class="track-header-slot col-xs-12 visible-xs">
-                        <h5 class="slot-detail track-header-title"></h5>
+                <div class="no-padding col-xs-1">
+                    <div class="add-borders track-header-label">Day {{ forloop.index }}</div>
+                </div>
+                <div class="no-padding col-xs-11">
+                    <div class="timeslot-elements flexbox-wrapper">
+                        {% for track in day.tracks %}
+                        {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                        <div class="track-header-slot col-xs-{{ trackColWidth }} flexbox-item-height">
+                            <h5 class="track-header-title">{{ track.title }}</h5>
+                        </div>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
 
             <div class=" container-full">
-                <div class="no-padding col-md-1 col-xs-1">
+                <div class="no-padding col-xs-1">
                     {% for timeslot in day.timeslots %}
-                    <div class="timeslot height-1 col-md-12" itemtype="http://schema.org/subEvent">
+                    <div class="no-padding timeslot height-1 col-xs-12" itemtype="http://schema.org/subEvent">
                         <div class="timeslot-label">
                             <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot }}">
                                 {% assign startTime = timeslot | split: ":" %}
@@ -33,11 +34,11 @@
                     {% endfor %}
 
                 </div>
-                <div class="no-padding col-md-11 col-xs-11">
+                <div class="no-padding col-xs-11">
 
                     <div class=""> <!-- 8:00 - 22:00 -->
 
-                        <div class="no-padding height-1 col-md-12">
+                        <div class="no-padding height-1 col-xs-12">
                             <!-- Registration -->
                             {% assign slotIndex = 0 %}
                             {% assign slotSize = 1 %}
@@ -46,14 +47,14 @@
                         </div>
 
                         <!-- Keynote -->
-                        <div class="no-padding height-1 col-md-8">
+                        <div class="no-padding height-1 col-xs-8">
                             <!-- Keynote -->
                             {% assign slotIndex = 0 %}
                             {% assign slotSize = 1 %}
                             {% assign slot = 41 %}
                             {% include slot.html %}
                         </div>
-                        <div class="no-padding height-1 col-md-4">
+                        <div class="no-padding height-1 col-xs-4">
                             <!-- Nothing -->
                             {% assign slotIndex = 2 %}
                             {% assign slotSize = 1 %}
@@ -63,11 +64,11 @@
                         <!-- /Keynote -->
 
                         <!-- Tracks -->
-                        <div class="no-padding col-md-12"><!-- talk tracks 9 -->
+                        <div class="no-padding col-xs-12"><!-- talk tracks 9 -->
                             <div class=""><!-- 9:45 - 18:00 -->
-                                <div class="no-padding col-md-8"><!-- Track 1&2 8|4-->
+                                <div class="no-padding col-xs-8"><!-- Track 1&2 8|4-->
                                     <div class=""><!-- 9:45 - 13:35 -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             <!-- Break -->
                                             {% assign slotIndex = 0 %}
                                             {% assign slotSize = 1 %}
@@ -76,9 +77,9 @@
                                         </div>
                                     </div>
                                     <div class=""><!-- 10:15 - 13:35 -->
-                                        <div class="no-padding col-md-6"><!-- Track 1 6|6 -->
+                                        <div class="no-padding col-xs-6"><!-- Track 1 6|6 -->
                                             <div class=""> <!-- Deep Android Integrations -->
-                                                <div class="no-padding height-2 col-md-12">
+                                                <div class="no-padding height-2 col-xs-12">
                                                     {% assign slotIndex = 0 %}
                                                     {% assign slotSize = 2 %}
                                                     {% assign slot = 31 %}
@@ -86,7 +87,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Launch Screens -->
-                                                <div class="no-padding height-2 col-md-12">
+                                                <div class="no-padding height-2 col-xs-12">
                                                     {% assign slotIndex = 0 %}
                                                     {% assign slotSize = 2 %}
                                                     {% assign slot = 2 %}
@@ -94,7 +95,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- RxJava est mort -->
-                                                <div class="no-padding height-2 col-md-12">
+                                                <div class="no-padding height-2 col-xs-12">
                                                     {% assign slotIndex = 0 %}
                                                     {% assign slotSize = 2 %}
                                                     {% assign slot = 28 %}
@@ -102,7 +103,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Remote -->
-                                                <div class="no-padding height-2 col-md-12">
+                                                <div class="no-padding height-2 col-xs-12">
                                                     {% assign slotIndex = 0 %}
                                                     {% assign slotSize = 2 %}
                                                     {% assign slot = 39 %}
@@ -110,9 +111,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="no-padding col-md-6"><!-- Track 2 6|6 -->
+                                        <div class="no-padding col-xs-6"><!-- Track 2 6|6 -->
                                             <div class=""> <!-- LeBonCoin -->
-                                                <div class="no-padding height-1 col-md-12">
+                                                <div class="no-padding height-1 col-xs-12">
                                                     {% assign slotIndex = 1 %}
                                                     {% assign slotSize = 1 %}
                                                     {% assign slot = 57 %}
@@ -120,7 +121,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Industrialisation -->
-                                                <div class="no-padding height-1 col-md-12">
+                                                <div class="no-padding height-1 col-xs-12">
                                                     {% assign slotIndex = 1 %}
                                                     {% assign slotSize = 1 %}
                                                     {% assign slot = 42 %}
@@ -128,7 +129,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Let's Get Functional ? -->
-                                                <div class="no-padding height-1 col-md-12">
+                                                <div class="no-padding height-1 col-xs-12">
                                                     {% assign slotIndex = 1 %}
                                                     {% assign slotSize = 1 %}
                                                     {% assign slot = 43 %}
@@ -136,7 +137,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Pages Jaunes -->
-                                                <div class="no-padding height-1 col-md-12">
+                                                <div class="no-padding height-1 col-xs-12">
                                                     {% assign slotIndex = 1 %}
                                                     {% assign slotSize = 1 %}
                                                     {% assign slot = 58 %}
@@ -144,7 +145,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Merge like it's 2099 -->
-                                                <div class="no-padding height-1 col-md-12">
+                                                <div class="no-padding height-1 col-xs-12">
                                                     {% assign slotIndex = 1 %}
                                                     {% assign slotSize = 1 %}
                                                     {% assign slot = 44 %}
@@ -152,7 +153,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Mobile Print -->
-                                                <div class="no-padding height-1 col-md-12">
+                                                <div class="no-padding height-1 col-xs-12">
                                                     {% assign slotIndex = 1 %}
                                                     {% assign slotSize = 1 %}
                                                     {% assign slot = 56 %}
@@ -160,7 +161,7 @@
                                                 </div>
                                             </div>
                                             <div class=""> <!-- Android wear -->
-                                                <div class="no-padding height-2 col-md-12">
+                                                <div class="no-padding height-2 col-xs-12">
                                                     {% assign slotIndex = 1 %}
                                                     {% assign slotSize = 1 %}
                                                     {% assign slot = 54 %}
@@ -170,9 +171,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="no-padding col-md-4"><!-- Track 3 8|4-->
+                                <div class="no-padding col-xs-4"><!-- Track 3 8|4-->
                                     <div class=""> <!-- Météo Kotlin -->
-                                        <div class="no-padding height-7 col-md-12">
+                                        <div class="no-padding height-7 col-xs-12">
                                             {% assign slotIndex = 2 %}
                                             {% assign slotSize = 7 %}
                                             {% assign slot = 50 %}
@@ -180,7 +181,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Genius Scan et NDK -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 2 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 51 %}
@@ -188,7 +189,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Développer un jeu vidéo -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 2 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 7 %}
@@ -198,7 +199,7 @@
                                 </div>
                             </div>
                             <div class=""> <!-- Lunch -->
-                                <div class="no-padding height-1 col-md-12">
+                                <div class="no-padding height-1 col-xs-12">
                                     {% assign slotIndex = 0 %}
                                     {% assign slotSize = 1 %}
                                     {% assign slot = 103 %}
@@ -206,9 +207,9 @@
                                 </div>
                             </div>
                             <div class=""><!-- 13:50 - 18:00 -->
-                                <div class="no-padding col-md-4"><!-- Track 1 4|4|4-->
+                                <div class="no-padding col-xs-4"><!-- Track 1 4|4|4-->
                                     <div class=""> <!-- Android Things for IoT -->
-                                        <div class="no-padding height-2 col-md-12">
+                                        <div class="no-padding height-2 col-xs-12">
                                             {% assign slotIndex = 0 %}
                                             {% assign slotSize = 2 %}
                                             {% assign slot = 55 %}
@@ -216,7 +217,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- How to reactively load and cache data -->
-                                        <div class="no-padding height-2 col-md-12">
+                                        <div class="no-padding height-2 col-xs-12">
                                             {% assign slotIndex = 0 %}
                                             {% assign slotSize = 2 %}
                                             {% assign slot = 18 %}
@@ -224,7 +225,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Taking care of your UI tests -->
-                                        <div class="no-padding height-2 col-md-12">
+                                        <div class="no-padding height-2 col-xs-12">
                                             {% assign slotIndex = 0 %}
                                             {% assign slotSize = 2 %}
                                             {% assign slot = 10 %}
@@ -232,7 +233,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- The Fabulous Journey to Material Design Award -->
-                                        <div class="no-padding height-2 col-md-12">
+                                        <div class="no-padding height-2 col-xs-12">
                                             {% assign slotIndex = 0 %}
                                             {% assign slotSize = 2 %}
                                             {% assign slot = 1 %}
@@ -240,7 +241,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Build together, not the same -->
-                                        <div class="no-padding height-2 col-md-12">
+                                        <div class="no-padding height-2 col-xs-12">
                                             {% assign slotIndex = 0 %}
                                             {% assign slotSize = 2 %}
                                             {% assign slot = 21 %}
@@ -248,9 +249,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="no-padding col-md-4"><!-- Track 2 4|4|4-->
+                                <div class="no-padding col-xs-4"><!-- Track 2 4|4|4-->
                                     <div class=""> <!-- The ART of organizing resources -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 5 %}
@@ -258,7 +259,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Android Auto -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 6 %}
@@ -266,7 +267,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- ExoPlayer -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 45 %}
@@ -274,7 +275,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Mode offline -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 0 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 46 %}
@@ -282,7 +283,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Faites chauffer les neurones -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 8 %}
@@ -290,7 +291,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- One year of Clean Architecture -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 29 %}
@@ -298,7 +299,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Les modules Android -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 47 %}
@@ -306,7 +307,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Kotlin in the real world -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 48 %}
@@ -314,7 +315,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- OpenGL, a noob's guide -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 49 %}
@@ -322,7 +323,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Android and Pepper -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 1 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 11 %}
@@ -330,9 +331,9 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="no-padding col-md-4"><!-- Track 3 4|4|4-->
+                                <div class="no-padding col-xs-4"><!-- Track 3 4|4|4-->
                                     <div class=""> <!-- Automatiser avec Fastlane  -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 2 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 52 %}
@@ -340,7 +341,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Gomobile at Zenly -->
-                                        <div class="no-padding height-1 col-md-12">
+                                        <div class="no-padding height-1 col-xs-12">
                                             {% assign slotIndex = 2 %}
                                             {% assign slotSize = 1 %}
                                             {% assign slot = 53 %}
@@ -348,7 +349,7 @@
                                         </div>
                                     </div>
                                     <div class=""> <!-- Workshop on Android Things for IoT -->
-                                        <div class="no-padding height-8 col-md-12">
+                                        <div class="no-padding height-8 col-xs-12">
                                             {% assign slotIndex = 2 %}
                                             {% assign slotSize = 8 %}
                                             {% assign slot = 4 %}
@@ -361,7 +362,7 @@
                         <!-- /Tracks -->
 
                         <!-- Party -->
-                        <div class="no-padding height-1 col-md-12">
+                        <div class="no-padding height-1 col-xs-12">
                             {% assign slotIndex = 0 %}
                             {% assign slotSize = 1 %}
                             {% assign slot = 104 %}

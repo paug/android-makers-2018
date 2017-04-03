@@ -2,7 +2,7 @@
 {% if slot != 404 %}
 	{% for session in site.data.sessions %}
 		{% if slot == session.id and session.service == null %}
-		<div id="session-{{ session.id }}" class="slot col-md-12 col-xs-12 height-{{ slotSize }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+		<div id="session-{{ session.id }}" class="slot col-xs-12 height-{{ slotSize }}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
 			<div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
 			<div class="slot-content height-{{ slotSize }}" style="border-right-color: {{ day.tracks[slotIndex].color }}">
 				<h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
@@ -23,7 +23,7 @@
 			</div>
 		</div>
 		{% elsif slot == session.id and session.service != null %}
-		<div class="slot col-md-12 col-xs-12 service-slot height-{{ slotSize }}" data-slot-detail="{{ session.place }}">
+		<div class="slot col-xs-12 service-slot height-{{ slotSize }}" data-slot-detail="{{ session.place }}">
 			<div class="color-line"></div>
 			<div class="slot-content height-{{ slotSize }}">
 				<h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
@@ -35,6 +35,6 @@
 		{% endif %}
 	{% endfor %}
 {% else %}
-<div class="slot col-md-12 hidden-xs blank-col height-{{ slotSize }}"></div>
+<div class="slot col-xs-12 blank-col height-{{ slotSize }}"></div>
 {% endif %}
 <!-- End slot -->

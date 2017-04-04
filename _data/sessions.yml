@@ -13,19 +13,19 @@
   title: "Lunch"
   place: ""
   service: true
-  description: "The best time to talk with speakers and attendees."
+  description: "The best time to talk with speakers and attendees"
 -
   id: 104
   title: "Party"
   place: ""
   service: true
-  description: "Let's talk & drink."
+  description: "Let's talk and drink 🍻"
 -
   id: 105
   title: "Thank you!"
   place: ""
   service: true
-  description: "Thank you see you next year!"
+  description: "Thank you and see you next year!"
 -
   id: 1
   title: "The Fabulous Journey to Material Design Award"
@@ -52,7 +52,7 @@
   title: "Workshop on Android Things for IoT"
   description: "<p>Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android.<br />In this session, you will have the opportunity to develop your own IoT applications with the assistance of Developer Advocates from Google. We will be available for answering your questions, and also to give feedback to the engineering team.<br /> Come and try out the use of familiar tools such as Android Studio and the Android SDK to easily develop IoT software.<br /><br />Type: Android everywhere<br />Experience: intermediate</p>"
   subtype: presentation
-  speakers: [63]
+  speakers: [4,63]
   language: en
 -
   id: 5

@@ -30,3 +30,26 @@
     "17:25",
     "17:50"
   ]
+-
+  date: "2017-04-11"
+  dateReadable: "April 11th"
+  tracks:
+    - {title: "Grand causses", color: "#90be4e"}
+    - {title: "Aubrac", color: "#03a9f4"}
+    - {title: "Workshop", color: "#e91e63"}
+  timeslots: [
+    "08:45",
+    "09:35",
+    "10:25",
+    "11:15",
+    "12:05",
+    "12:20",
+    "13:10",
+    "14:00",
+    "14:25",
+    "14:50",
+    "15:40",
+    "16:30",
+    "17:20",
+    "17:45"
+  ]

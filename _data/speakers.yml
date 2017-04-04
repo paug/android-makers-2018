@@ -691,3 +691,13 @@
   social:
     - {name: 'twitter', link: 'https://twitter.com/YellowTeamAndro'}
     - {name: "site", link: "https://play.google.com/store/apps/details?id=com.pagesjaunes"}
+-
+  id: 67
+  name: "Dorian"
+  surname: "Lamande"
+  thumbnailUrl: dlamande.jpg
+  company: "OCTO"
+  bio: "Passionné par le monde du mobile depuis plusieurs années, j’ai d’abord commencé par l’éco-système Microsoft avec Windows Phone et les Universal Apps. Et oui, j’étais jeune et j’y croyais. J’ai quand même sorti de belles applications pour des clients comme Carrefour, Fnac ou encore Meetic. En rejoignant OCTO Technology, j’ai vu la lumière, et décidé de sortir du côté obscure de la force en switchant sur Android. Avec mon baluchon, et mon expérience du mobile, j’ai pu embarquer sur de très gros projets notamment pour le groupe BNP, en mettant en pratique toutes les bonnes choses d’Oncle BOB ! Bref, Je kiffe totalement la plateforme et suis maintenant impatient de vous transmettre mon savoir ainsi que mon retour d’expérience."
+  social:
+    - {name: 'twitter', link: 'https://twitter.com/dorianlamande'}
+    - {name: "site", link: "http://blog.octo.com/author/dlamandeocto-com/"}

@@ -70,7 +70,6 @@ typeoutTextValues: '"", "France", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
  - {link: "https://www.eventbrite.com/e/android-makers-1st-edition-tickets-29579435889", text: "Get your ticket"}
- - {link: "http://cfp.androidmakers.fr", text: "Become a speaker"}
  - {link: "mailto:jeremy@bemyapp.com", text: "Become a sponsor"}
 
 # About Block

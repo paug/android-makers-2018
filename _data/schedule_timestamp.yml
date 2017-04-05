@@ -34,18 +34,18 @@
   sessionId: 18
   roomId: 1
 -
-  startDate: "2017-04-10T15:45:00+0200"
-  endDate: "2017-04-10T16:35:00+0200"
+  startDate: "2017-04-10T15:30:00+0200"
+  endDate: "2017-04-10T16:20:00+0200"
   sessionId: 10
   roomId: 1
 -
-  startDate: "2017-04-10T16:35:00+0200"
-  endDate: "2017-04-10T17:00:00+0200"
-  sessionId: 5
+  startDate: "2017-04-10T16:20:00+0200"
+  endDate: "2017-04-10T17:10:00+0200"
+  sessionId: 29
   roomId: 1
 -
-  startDate: "2017-04-10T17:00:00+0200"
-  endDate: "2017-04-10T17:50:00+0200"
+  startDate: "2017-04-10T17:10:00+0200"
+  endDate: "2017-04-10T18:00:00+0200"
   sessionId: 1
   roomId: 1
 -
@@ -151,7 +151,7 @@
 -
   startDate: "2017-04-10T13:50:00+0200"
   endDate: "2017-04-10T14:15:00+0200"
-  sessionId: 6
+  sessionId: 47
   roomId: 2
 -
   startDate: "2017-04-10T14:15:00+0200"
@@ -161,37 +161,37 @@
 -
   startDate: "2017-04-10T14:40:00+0200"
   endDate: "2017-04-10T15:05:00+0200"
-  sessionId: 46
+  sessionId: 11
   roomId: 2
 -
   startDate: "2017-04-10T15:05:00+0200"
   endDate: "2017-04-10T15:30:00+0200"
-  sessionId: 29
-  roomId: 2
--
-  startDate: "2017-04-10T15:45:00+0200"
-  endDate: "2017-04-10T16:10:00+0200"
-  sessionId: 8
-  roomId: 2
--
-  startDate: "2017-04-10T16:10:00+0200"
-  endDate: "2017-04-10T16:35:00+0200"
-  sessionId: 47
-  roomId: 2
--
-  startDate: "2017-04-10T16:35:00+0200"
-  endDate: "2017-04-10T17:00:00+0200"
   sessionId: 48
   roomId: 2
 -
-  startDate: "2017-04-10T17:00:00+0200"
-  endDate: "2017-04-10T17:25:00+0200"
-  sessionId: 49
+  startDate: "2017-04-10T15:30:00+0200"
+  endDate: "2017-04-10T15:55:00+0200"
+  sessionId: 46
   roomId: 2
 -
-  startDate: "2017-04-10T17:25:00+0200"
-  endDate: "2017-04-10T17:50:00+0200"
-  sessionId: 11
+  startDate: "2017-04-10T15:55:00+0200"
+  endDate: "2017-04-10T16:20:00+0200"
+  sessionId: 8
+  roomId: 2
+-
+  startDate: "2017-04-10T16:20:00+0200"
+  endDate: "2017-04-10T16:45:00+0200"
+  sessionId: 5
+  roomId: 2
+-
+  startDate: "2017-04-10T16:45:00+0200"
+  endDate: "2017-04-10T17:10:00+0200"
+  sessionId: 6
+  roomId: 2
+-
+  startDate: "2017-04-10T17:10:00+0200"
+  endDate: "2017-04-10T17:35:00+0200"
+  sessionId: 49
   roomId: 2
 -
   startDate: "2017-04-11T09:35:00+0200"

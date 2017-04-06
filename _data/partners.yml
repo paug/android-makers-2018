@@ -28,6 +28,7 @@
     - {name: "Lunabee Studio", description: "Lunabee Studio", link: "http://www.lunabee.studio/", imageUrl: "lunabee.png"}
     - {name: "Infinum", description: "Infinum", link: "https://androidsweets.ongoodbits.com/", imageUrl: "infinum.png"}
     - {name: "Awesome Android", description: "Awesome Android", link: "https://android.libhunt.com/newsletter", imageUrl: "awesome-android.png"}
+    - {name: "Yubigeek", description: "Yubigeek", link: "https://www.yubigeek.com/", imageUrl: "yubigeek.png"}
 -
   group: "Location"
   elements:

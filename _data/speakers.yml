@@ -701,3 +701,10 @@
   social:
     - {name: 'twitter', link: 'https://twitter.com/dorianlamande'}
     - {name: "site", link: "http://blog.octo.com/author/dlamandeocto-com/"}
+-
+  id: 68
+  name: "Alexandre"
+  surname: "Badie"
+  thumbnailUrl: noone.png
+  company: "PagesJaunes"
+  bio: "Lead Developer Android chez PagesJaunes"

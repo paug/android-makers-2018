@@ -417,7 +417,7 @@
   title: "Scaling Android @PagesJaunes"
   description: "<p>Quand on veut faire plus, on entend souvent qu’il faut... 1 développeur de plus !<br /><br />Puis lorsque l’équipe grandit, on peut rapidement passer plus de temps à se coordonner qu’à développer. Un volume important de code est produit et il devient vite indispensable d’assurer la cohérence de l’architecture, des fonctionnalités, des composants… Alors, notre développeur de plus qui apparaissait à priori comme la solution n’augmente pas proportionnellement la vélocité de l’équipe. Dommage !<br /><br />Avec 13 développeurs Android, répartis sur 5 Feature Teams, développant tous sur la même application, notre quotidien peut ressembler à un défi humain et technique. Autant dire que nous avions intérêt à trouver les bonnes réponses à ces problématiques. Nous serons heureux de partager avec vous notre organisation et les solutions éprouvées de notre communauté de pratiques. Nous détaillerons en particulier notre manière d’aborder la relecture de code pour la transformer en un moment de partage et d’élévation du niveau collectif. Nous verrons également comment le Feature Flipping nous permet de fluidifier la production, alléger la maintenance de nos branches et garantir la qualité de l’application.<br /><br />Type: Android development<br />Experience: intermediate</p>"
   subtype: presentation
-  speakers: [66]
+  speakers: [66,68]
   language: fr
 -
   id: 59

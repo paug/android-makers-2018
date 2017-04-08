@@ -708,3 +708,10 @@
   thumbnailUrl: noone.png
   company: "PagesJaunes"
   bio: "Lead Developer Android chez PagesJaunes"
+-
+  id: 69
+  name: "Samuel"
+  surname: "Metias"
+  thumbnailUrl: smetias.jpg
+  company: "Microsoft"
+  bio: "Ancien consultant senior en architecture d’entreprise, Ancien Manager d’équipes agiles et d’auteurs de méthodes agiles adaptés au contexte des entreprises, actuellement responsable des offres Agile & DevOps chez Microsoft France, Product Marketing Manager Cloud Application Development.<br />Co-auteur du livre « Découvrir DevOps » paru chez Dunod et préfacé par Patrick Debois, père du terme « DevOps » et fondateur du mouvement DevOps. Ce livre présente et définit les démarches DevOps, les liens avec la transformation digitale et les clés de compréhension pour les Dev, les Ops, la Qualité et les Métiers. Enfin, ce livre revient sur des exemples d’expériences de grands acteurs du DevOps : Amazon, Netflix et Microsoft.<br />Découvrez l’impact et les bénéfices des applications et des services dans le Cloud, des démarches agiles et DevOps au sein de la transformation digitale. Découvrez des exemples au sein des groupes produits internes de Microsoft et les pratiques mises en œuvre pour transformer les produits de Microsoft vers un monde agile.<br />Cette session est une occasion rare et unique d’entrer dans les coulisses des produits Microsoft de Windows à Office en passant par Visual Studio, comprenez enfin pourquoi Windows 10 ne sera plus jamais Vista !"

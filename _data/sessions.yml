@@ -305,7 +305,7 @@
   title: "Industrialisation des développements mobile"
   description: "<p>L'industrialisation des développements n'est pas réservé aux applications web et serveur ! Il s'applique aussi au développement mobile. Dans cette session, vous découvrirez comment des outils Microsoft peuvent vous aider à industrialiser le développement de vos applications Android. Au programme : Xamarin Test Cloud, Hockey App et Visual Studio Mobile Center.<br /><br />Type: Android development<br />Experience: beginner</p>"
   subtype: presentation
-  speakers: [49]
+  speakers: [49,69]
   language: fr
 -
   id: 43

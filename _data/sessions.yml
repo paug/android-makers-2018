@@ -136,7 +136,7 @@
   id: 17
   title: "App Live Review by GDEs"
   description: "<p>You're favorite Google Developer Experts will open for the very first time a few applications, on stage.
-Please send your APK or PlayStore link at <a href=contact@androidmakers.fr>contact@androidmakers.fr</a><br /><br />Type: UX/UI<br />Experience: beginner</p>"
+Please send your APK or PlayStore link at <a href=mailto:contact@androidmakers.fr>contact@androidmakers.fr</a><br /><br />Type: UX/UI<br />Experience: beginner</p>"
   subtype: presentation
   speakers: [21,18,2,37,22,45]
   language: en

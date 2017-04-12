@@ -41,6 +41,7 @@
   subtype: presentation
   speakers: [2]
   language: en
+  presentation: "https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app"
 -
   id: 3
   title: "Android Leaks épisode live"
@@ -62,6 +63,7 @@
   subtype: presentation
   speakers: [5]
   language: en
+  presentation: "https://speakerdeck.com/jeroenmols/the-art-of-organizing-resources"
 -
   id: 6
   title: "Android Auto - live coding"
@@ -83,6 +85,7 @@
   subtype: presentation
   speakers: [8,9]
   language: fr
+  presentation: "https://speakerdeck.com/jinqian/heat-the-neurons-of-your-smartphone-with-deep-learning"
 -
   id: 9
   title: "Le design mobile, c'est pas facile !"
@@ -90,6 +93,7 @@
   subtype: presentation
   speakers: [10]
   language: fr
+  presentation: "https://www.slideshare.net/aerilys/le-design-mobile-cest-pas-facile-74910698"
 -
   id: 10
   title: "Taking care of your UI tests"
@@ -97,6 +101,7 @@
   subtype: presentation
   speakers: [11]
   language: en
+  presentation: "https://speakerdeck.com/florianmski/taking-care-of-your-ui-tests"
 -
   id: 11
   title: "Android and Pepper: a love story"
@@ -118,6 +123,7 @@
   subtype: presentation
   speakers: [16,17]
   language: en
+  presentation: "https://speakerdeck.com/elainedb/intro-to-google-assistant-and-actions-on-google"
 -
   id: 14
   title: "Actions on Google Workshop"
@@ -125,6 +131,7 @@
   subtype: presentation
   speakers: [16,17]
   language: en
+  presentation: "https://speakerdeck.com/elainedb/actions-on-google-workshop"
 -
   id: 15
   title: "Keynote: Android First"
@@ -154,6 +161,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [23]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1afPtkSb_BUtD6t61wV2eaVLVzbnYQ9D6quaFCG9D4LI"
 -
   id: 20
   title: "L’évolution des notifications - Tips & tricks"
@@ -161,6 +169,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [24]
   language: fr
+  presentation: "https://speakerdeck.com/jeremiemartinez/the-evolution-of-android-notification"
 -
   id: 22
   title: "Streamlining Payments on Mobile"
@@ -168,6 +177,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [27]
   language: fr
+  presentation: "https://speakerdeck.com/mathieu_calba/streamlining-payments-on-mobile"
 -
   id: 23
   title: "Toothpick: a fresh approach to Dependency Injection on Android"
@@ -175,6 +185,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [28,29]
   language: en
+  presentation: "https://speakerdeck.com/stephanenicolas/toothpick-a-fresh-approach-to-dependency-injection-di-on-android"
 -
   id: 24
   title: "Découvrir et maîtriser l'obfuscation sur Android"
@@ -182,6 +193,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [30,31]
   language: fr
+  presentation: "https://speakerdeck.com/renaudboulard/getting-the-most-of-android-obfuscation-tools"
 -
   id: 25
   title: "Le root : un inconnu chez soi ?"
@@ -189,6 +201,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [32]
   language: fr
+  presentation: "https://speakerdeck.com/perfectslayer/le-root-un-inconnu-chez-soi"
 -
   id: 26
   title: "Putting the “Pro” in “Proximity”: Interactive Demos of the Nearby API"
@@ -203,6 +216,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [34]
   language: en
+  presentation: "https://speakerdeck.com/smarkovik/make-or-break"
 -
   id: 28
   title: "RxJava est mort, vive RxJava 2 !"
@@ -210,6 +224,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [7]
   language: fr
+  presentation: "https://speakerdeck.com/dwursteisen/rxjava-est-mort-vive-rxjava-2"
 -
   id: 29
   title: "One year of Clean Architecture : the Good, the Bad and the Bob"
@@ -224,6 +239,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [36]
   language: fr
+  presentation: "https://www.slideshare.net/arnaudgiuliani"
 -
   id: 31
   title: "Deep Android Integrations"
@@ -231,6 +247,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [37]
   language: en
+  presentation: "https://speakerdeck.com/tysmith/deep-android-integrations"
 -
   id: 32
   title: "Améliorez vos compétences Android en réalisant des cadrans Android Wear"
@@ -245,6 +262,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [39]
   language: en
+  presentation: "https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed"
 -
   id: 34
   title: "Testable Android Architecture"
@@ -252,6 +270,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [40]
   language: en
+  presentation: "https://speakerdeck.com/ecgreb/testable-android-architecture-android-makers-france"
 -
   id: 35
   title: "Iot inception : Mesure de l'énergie d'Android Things sur Raspberry avec Arduino"
@@ -287,6 +306,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [45]
   language: en
+  presentation: "https://speakerdeck.com/malmstein/remote-and-lonely"
 -
   id: 40
   title: "Attacking Android Applications"
@@ -301,6 +321,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [47,48]
   language: en
+  video: "//www.youtube.com/embed/xOccHEgIvwY"
 -
   id: 42
   title: "Industrialisation des développements mobile"
@@ -322,6 +343,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [52]
   language: en
+  presentation: "https://speakerdeck.com/xgouchet/merge-like-its-2099-androidmakers-2017"
 -
   id: 45
   title: "ExoPlayer, player multimédia pour vos applications et la réalité virtuelle"
@@ -329,6 +351,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [53]
   language: fr
+  presentation: "https://speakerdeck.com/oleur/exoplayer-player-multimedia-pour-les-applications-et-la-realite-virtuelle"
 -
   id: 46
   title: "Mode offline : Notre application Android fonctionne au niveau -5 d’un parking"
@@ -364,6 +387,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [58,36]
   language: fr
+  presentation: "https://speakerdeck.com/baresse/develop-a-weather-app-with-kotlin-androidmakers-17"
 -
   id: 51
   title: "Genius Scan et NDK : performances et multiplateforme"

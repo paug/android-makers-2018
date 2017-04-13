@@ -232,6 +232,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [35, 67]
   language: fr
+  presentation: "https://www.slideshare.net/OCTOTechnology/one-year-of-clean-architecture-the-good-the-bad-and-the-bob"
 -
   id: 30
   title: "Développez votre prochaine application avec Kotlin"
@@ -292,6 +293,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [43]
   language: en
+  presentation: "https://docs.google.com/presentation/d/1Ehc6B78kWnX23W1SZvUtpP42LMsSJwdEvD0WIkgACmk/mobilepresent?slide=id.p"
 -
   id: 38
   title: "Android Design Tools : New features and tools for rapid UI development"
@@ -299,6 +301,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [44]
   language: en
+  presentation: "https://speakerdeck.com/camaelon/android-design-tools-new-features-and-tools-for-rapid-ui-development"
 -
   id: 39
   title: "Remote, lonely and productive"
@@ -373,6 +376,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [57]
   language: fr
+  presentation: "https://speakerdeck.com/rpradal/kotlin-in-the-real-world"
 -
   id: 49
   title: "OpenGL, a noob's guide for Android developers"

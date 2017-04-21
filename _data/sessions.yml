@@ -154,6 +154,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [22]
   language: en
+  presentation: "https://www.slideshare.net/nakhimovich/data-loading-made-easy-with-mike-nakhimovich-droidcon-italy-2017"
 -
   id: 19
   title: "Ivre, il commercialisa des apps Android tout seul"
@@ -209,6 +210,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [33]
   language: en
+  presentation: "https://docs.google.com/presentation/d/1Dblfk4lL2dh79EQFJ5AeT7Ur0nZJPz7dXkOwwrcMIXM/edit?usp=sharing"
 -
   id: 27
   title: "Make or brake… using Gradle."
@@ -256,6 +258,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [38]
   language: fr
+  presentation: "https://www.slideshare.net/Nilhcem/android-wear-essentials"
 -
   id: 33
   title: "Dependency Injection in Android - Best Practices"
@@ -279,6 +282,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [41]
   language: fr
+  presentation: "https://www.slideshare.net/ophilippot/iotception-energy-measurement-of-android-things-on-raspberry-pi-3-with-arduino-uno"
 -
   id: 36
   title: "About React Native inside your existing Android App"
@@ -362,6 +366,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [54,55]
   language: fr
+  presentation: "https://speakerdeck.com/mhausherr/mode-offline-notre-application-android-fonctionne-au-niveau-5-dun-parking"
 -
   id: 47
   title: "Les modules Android, une manière efficace de travailler avec du code legacy"
@@ -406,6 +411,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [60]
   language: fr
+  presentation: "https://speakerdeck.com/antdesc/fastlane-android-makers-paris-04-2017"
 -
   id: 53
   title: "GoMobile at Zenly: Go on Android"

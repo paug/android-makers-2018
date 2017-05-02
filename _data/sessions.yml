@@ -51,6 +51,7 @@
   subtype: presentation
   speakers: [3,20]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1SBgVb2Dw_h1VUU5Dg0Oe4nRe48zofTrM6L5Y7dlx3b0/edit?usp=sharing"
   video: "//www.youtube.com/embed/8n11IUI6n4o"
 -
   id: 4
@@ -75,6 +76,7 @@
   subtype: presentation
   speakers: [6]
   language: en
+  video: "//www.youtube.com/embed/u-799IyJ0TY"
 -
   id: 7
   title: "Développer un jeu vidéo (quand on n’y connait rien en développement de jeux vidéo)"
@@ -346,6 +348,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   speakers: [45]
   language: en
   presentation: "https://speakerdeck.com/malmstein/remote-and-lonely"
+  video: "//www.youtube.com/embed/Ai_8RuBWPYo"
 -
   id: 40
   title: "Attacking Android Applications"
@@ -377,6 +380,8 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [50,51]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1WsmcgeCiHrGBv9YE6yQSN2xtYbZVkhQH3eM-xNmO0ME/edit?usp=sharing"
+  video: "//www.youtube.com/embed/OE-bV8h3lvc"
 -
   id: 44
   title: "Merge like it's 2099"
@@ -411,6 +416,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [35,56]
   language: fr
+  presentation: "https://drive.google.com/open?id=0B_y7ZjHhS-4MM08tLTZoWDFESTQ"
   video: "//www.youtube.com/embed/FLzO96YoYWw"
 -
   id: 48
@@ -428,6 +434,8 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [3]
   language: en
+  presentation: "https://speakerdeck.com/bmonjoie/opengl-a-noobs-guide-for-android-developers"
+  video: "//www.youtube.com/embed/fnE8yOkNhv4"
 -
   id: 50
   title: "Développez une application de météo avec Kotlin"
@@ -500,6 +508,7 @@ Please send your APK or Play Store link at <a href='mailto:contact@androidmakers
   subtype: presentation
   speakers: [66,68]
   language: fr
+  video: "//www.youtube.com/embed/14sngW9WGFA"
 -
   id: 59
   title: "The Business of Technology Business Technology"

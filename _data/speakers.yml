@@ -540,14 +540,14 @@
   id: 50
   name: "Cédric"
   surname: "Creusot"
-  thumbnailUrl: noone.png
+  thumbnailUrl: ccreusot.png
   company: "Meetic"
   bio: "Fan de développement mobile, j'ai plusieurs années d'expérience dans le développement d'application sur Android. J'ai tenté l'expérience du freelance pour produire des jeux vidéo indépendant. Puis, j'ai rejoint les rangs de Meetic en 2014. Depuis, je suis convaincu que travailler en équipe est plus efficace et fun que seul.<br /><br />J'ai participé à la Droidcon 2014 de Paris en tant que conférencier avec la présentation “Green Ligth for the Apps with Calabash“."
 -
   id: 51
   name: "Geoffrey"
   surname: "TAN"
-  thumbnailUrl: noone.png
+  thumbnailUrl: gtan.png
   company: "Meetic"
   bio: "Durant mon cursus à l'école, j'ai eu la chance de pouvoir développer sur iOS et Android. Cette expérience m'a fortement séduite et faite découvrir les problématiques mobiles. Depuis, je suis un passionné de développement mobile. J'ai gardé cette double compétence dans le but d'avoir une vision plus large sur le mobile : regarder comment résoudre une même problématique, mais avec des approches différentes."
 -
@@ -705,7 +705,7 @@
   id: 68
   name: "Alexandre"
   surname: "Badie"
-  thumbnailUrl: noone.png
+  thumbnailUrl: abadie.png
   company: "PagesJaunes"
   bio: "Lead Developer Android chez PagesJaunes"
 -

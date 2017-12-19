@@ -51,6 +51,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
 rightNavigationButtons:
+ - {link: "https://paug.github.io/android-makers-2017/", text: "Android Makers 2017"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -65,6 +66,7 @@ eventDate: "23rd & 24th april, 2018"
 typeoutTextValues: '"", "France", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
+ - {link: "https://paug.github.io/android-makers-2017/", text: "Android Makers 2017"}
 
 # About Block
 aboutTitle: "Much more than a conference"

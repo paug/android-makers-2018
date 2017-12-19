@@ -14,8 +14,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Android Makers Paris 2017"
 email: "contact@androidmakers.fr"
 description: "Android Makers Paris, the biggest Android event in France, 10-11th april, 2017."
-baseurl: ""
-url: "http://androidmakers.fr"
+baseurl: "/"
+url: "http://paug.github.io/android-makers-2018/"
 permalink: "/blog/:title"
 googleMapApiKey: AIzaSyDoDM9sRSk2C3JeopyW7UqGRA31QLi77tw
 twitter:

@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Android Makers Paris 2017"
+title: "Android Makers Paris 2018"
 email: "contact@androidmakers.fr"
-description: "Android Makers Paris, the biggest Android event in France, 10-11th april, 2017."
+description: "Android Makers Paris, the biggest Android event in France, 23-24th april, 2018."
 baseurl: "/"
 url: "http://paug.github.io/android-makers-2018/"
 permalink: "/blog/:title"
@@ -31,7 +31,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://paug.fr/"
 
 # Head
-metaKeywords: "event, gdg, droidcon, google, programming, android, wear, iot, glass, tv, developers, paris, makers"
+metaKeywords: "event, gdg, droidcon, google, programming, android, wear, iot, glass, tv, developers, paris, makers, androidmakers"
 twitterAccount: "@AndroidMakersFR"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -45,10 +45,10 @@ c4sponsorsUrl: "mailto:jeremy@bemyapp.com"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Speakers & Talks"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/schedule/", text: "Agenda"}
+# - {permalink: "/speakers/", text: "Speakers & Talks"}
+# - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
 rightNavigationButtons:
 
@@ -60,15 +60,15 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Android Makers <typeout> 2017"
-eventDate: "10th & 11th april, 2017"
+heroTitle: "Android Makers <typeout> 2018"
+eventDate: "23rd & 24th april, 2018"
 typeoutTextValues: '"", "France", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
 
 # About Block
 aboutTitle: "Much more than a conference"
-aboutDetails: "Join us in tackling the future of Android with the hottest experts of the domain.<br />There'll be technical sessions, workshops, debates, networking, plus a chance to demo your project in the Makers Area.<br />The 1st edition of Android Makers gathers 4 events in 1."
+aboutDetails: "Join us in tackling the future of Android with the hottest experts of the domain.<br />There'll be technical sessions, workshops, debates, networking, plus a chance to demo your project in the Makers Area.<br />The 2nd edition of Android Makers gathers 4 events in 1."
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "40min Tech Talks by awesome speakers and 20min Lightning Talks on the future of Android." }
  - {title: "Workshop", image: "barcamp.jpg", text: "Get trained on new methods, discover and build your app during the workshops." }
@@ -114,7 +114,7 @@ venueFeatures: ["1300m<sup>2</sup> of modulable spaces", "an 800 attendees keyno
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterFeed: "http://cmoatoto.fr/tweetledee/favoritesjson.php?c=100&cache_interval=90&user=AndroidMakersFR"
+twitterFeed: "https://cmoatoto.fr/tweetledee/favoritesjson.php?c=100&cache_interval=90&user=AndroidMakersFR"
 twitterHashTag: "AndroidMakersFR"
 
 # Partners Block
@@ -122,53 +122,11 @@ organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "€"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "€"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "€"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
-
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/+DroidconParis", icon: "google-plus"}
  - {link: "https://twitter.com/AndroidMakersFR", icon: "twitter"}
- - {link: "https://www.facebook.com/events/700985966748191/", icon: "facebook"}
+# - {link: "https://www.facebook.com/events/700985966748191/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -176,7 +134,7 @@ footerBlocks:
   links:
    - {link: "http://www.paug.fr/", text: "PAUG.fr"}
    - {link: "http://bemyapp.com", text: "bemyapp.com"}
-   - {link: "https://drive.google.com/drive/folders/0B6SH_S_lcnHEcFhqTzMtZGdzdjA", text: "Press"}
+#   - {link: "https://drive.google.com/drive/folders/0B6SH_S_lcnHEcFhqTzMtZGdzdjA", text: "Press"}
  -
   title: "Contacts"
   links:
@@ -193,7 +151,7 @@ discusShortName: "androidmakersfr"
 
 # Thanks for Register
 thanksForRegisterTitle: "Congratulations!"
-thanksForRegisterDescription: "Your registration to Android Makers, April 10th-11th has been confirmed.<br /><br />For any other information, shoot us an email at <a href=mailto:contact@androidmakers.fr>contact@androidmakers.fr</a><br /><br />See you soon!"
+thanksForRegisterDescription: "Your registration to Android Makers, April 23rd-24th has been confirmed.<br /><br />For any other information, shoot us an email at <a href=mailto:contact@androidmakers.fr>contact@androidmakers.fr</a><br /><br />See you soon!"
 
 # Analytics
 googleAnalyticsTrackingId: "UA-75184420-32"

@@ -45,7 +45,7 @@ c4sponsorsUrl: "mailto:jeremy@bemyapp.com"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/schedule/", text: "Agenda"}
 # - {permalink: "/speakers/", text: "Speakers & Talks"}
 # - {permalink: "/blog/", text: "Blog"}

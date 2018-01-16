@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://cfp.androidmakers.fr"
-c4sponsorsUrl: "mailto:jeremy@bemyapp.com"
+c4sponsorsUrl: "mailto:contact@androidmakers.fr"
 
 
 # Navigation
@@ -51,9 +51,11 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {link: "https://paug.github.io/android-makers-2017/", text: "2017 Edition"}
 bottomNavigationLinks:
+ - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.co.uk/e/android-makers-2018-tickets-41416689433", text: "Get Tickets"}
  - {link: "https://cfp.androidmakers.fr/", text: "Call For Papers"}
+ - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -70,6 +72,7 @@ typeoutFallback: "Paris"
 heroButtons:
  - {link: "https://www.eventbrite.co.uk/e/android-makers-2018-tickets-41416689433", text: "Get Tickets"}
  - {link: "https://cfp.androidmakers.fr/", text: "Call For Papers"}
+ - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "Much more than a conference"

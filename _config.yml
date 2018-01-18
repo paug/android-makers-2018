@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/schedule/", text: "Agenda"}
-# - {permalink: "/speakers/", text: "Speakers & Talks"}
+ - {permalink: "/speakers/", text: "Speakers & Talks"}
 # - {permalink: "/blog/", text: "Blog"}
  - {link: "https://paug.github.io/android-makers-2017/", text: "2017 Edition"}
 bottomNavigationLinks:

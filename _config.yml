@@ -134,7 +134,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 socialLinks:
  - {link: "https://plus.google.com/+DroidconParis", icon: "google-plus"}
  - {link: "https://twitter.com/AndroidMakersFR", icon: "twitter"}
-# - {link: "https://www.facebook.com/events/700985966748191/", icon: "facebook"}
+ - {link: "https://www.facebook.com/events/392002394567921", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

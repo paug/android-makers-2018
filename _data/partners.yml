@@ -4,3 +4,8 @@
     - {name: "Xebia mobile", description: "Xebia is an international consulting firm specialized in Big Data, Cloud, Web, Java architectures and mobile technologies within an agile approach.", link: "https://xebia.fr/", imageUrl: "xebia.png"}
     - {name: "Vente privée", description: "Vente privée. Réveillez votre quotidien.", link: "https://tech.vente-privee.com/", imageUrl: "venteprivee.png"}
     - {name: "Geronimo", description: "Geronimo. Agence digitale mobile.", link: "http://www.geronimo-agency.com/", imageUrl: "geronimo.png"}
+-
+  group: "Virtual sponsor"
+  elements:
+    - {name: "Deezer", description: "Deezer. Just hack it!", link: "https://www.deezerjobs.com/en/this-is-deezer/", imageUrl: "deezer.png"}
+    - {name: "Trainline", description: "Trainline. Europe's leading independent rail and coach platform.", link: "https://www.thetrainline.com/about-us", imageUrl: "trainline.png"}

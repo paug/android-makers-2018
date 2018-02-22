@@ -54,7 +54,7 @@ bottomNavigationLinks:
  - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.co.uk/e/android-makers-2018-tickets-41416689433", text: "Get Tickets"}
- - {link: "https://cfp.androidmakers.fr/", text: "Call For Papers"}
+ - {link: "https://cfp.androidmakers.fr/", text: "Call For Makers"}
  - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
 
 # Rockstar Speakers Block
@@ -71,7 +71,7 @@ typeoutTextValues: '"", "France", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
  - {link: "https://www.eventbrite.co.uk/e/android-makers-2018-tickets-41416689433", text: "Get Tickets"}
- - {link: "https://cfp.androidmakers.fr/", text: "Call For Papers"}
+ - {link: "https://cfp.androidmakers.fr/", text: "Call For Makers"}
  - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
 
 # About Block

@@ -1,35 +1,6 @@
 -
-  group: "Gold+ sponsor"
-  elements:
-  - {name: "Google", description: "Google", link: "https://d.android.com", imageUrl: "google.png"}
--
   group: "Silver sponsor"
   elements:
-    - {name: "Xebia mobile", description: "Xebia mobile", link: "http://mobile.xebia.fr/", imageUrl: "xebia.png"}
-    - {name: "Deezer", description: "Deezer - Encore plus de musique à découvrir", link: "http://deezer.com", imageUrl: "deezer.png"}
-    - {name: "Octo Techno", description: "Octo Technology : There is a better way", link: "http://www.octo.com/en", imageUrl: "octo.png"}
-    - {name: "Le bon coin", description: "Le bon coin", link: "https://www.leboncoin.fr", imageUrl: "leboncoin.jpg"}
-    - {name: "iD.apps", description: "iD.apps", link: "http://www.id-apps.fr/", imageUrl: "idapps.png"}
-    - {name: "SoLocal", description: "SoLocal Group", link: "https://www.solocalgroup.com/", imageUrl: "solocal.png"}
--
-  group: "Other sponsor"
-  elements:
-    - {name: "Uber", description: "Uber", link: "https://www.uber.com", imageUrl: "uber.png"}
--
-  group: "Media"
-  elements:
-    - {name: "FrAndroid", description: "FrAndroid - Tout ce qu'il faut savoir sur Android, et pas seulement", link: "http://www.frandroid.com/", imageUrl: "frandroid.png"}
-    - {name: "Programmez!", description: "Programmez! Le magazine des développeurs", link: "http://www.programmez.com/", imageUrl: "programmez.png"}
-    - {name: "Begeek", description: "Begeek", link: "http://www.begeek.fr/", imageUrl: "begeek.png"}
-    - {name: "MeilleurMobile", description: "Acheter les meilleurs téléphones pas chers avec Meilleurmobile", link: "http://www.meilleurmobile.com/", imageUrl: "meilleur-mobile.png"}    
-    - {name: "Droidsoft", description: "Droidsoft, Tout sur Android", link: "http://droidsoft.fr/", imageUrl: "droidsoft.png"}
-    - {name: "Startup Village", description: "StartupVillage : le village des Startups et des Entrepreneurs", link: "http://www.startupvillage.fr/", imageUrl: "startup-village.png"}
-    - {name: "F6S", description: "F6S", link: "https://www.f6s.com/", imageUrl: "f6s.png"}
-    - {name: "Lunabee Studio", description: "Lunabee Studio", link: "http://www.lunabee.studio/", imageUrl: "lunabee.png"}
-    - {name: "Infinum", description: "Infinum", link: "https://androidsweets.ongoodbits.com/", imageUrl: "infinum.png"}
-    - {name: "Awesome Android", description: "Awesome Android", link: "https://android.libhunt.com/newsletter", imageUrl: "awesome-android.png"}
-    - {name: "Yubigeek", description: "Yubigeek", link: "https://www.yubigeek.com/", imageUrl: "yubigeek.png"}
--
-  group: "Location"
-  elements:
-    - {name: "Salons de l'Aveyron", description: "Salons de l'Aveyron", link: "http://www.salonsdelaveyron.fr/", imageUrl: "salondelaveyron.png"}
+    - {name: "Xebia mobile", description: "Xebia is an international consulting firm specialized in Big Data, Cloud, Web, Java architectures and mobile technologies within an agile approach.", link: "https://xebia.fr/", imageUrl: "xebia.png"}
+    - {name: "Vente privée", description: "Vente privée. Réveillez votre quotidien.", link: "https://tech.vente-privee.com/", imageUrl: "venteprivee.png"}
+    - {name: "Geronimo", description: "Geronimo. Agence digitale mobile.", link: "http://www.geronimo-agency.com/", imageUrl: "geronimo.png"}

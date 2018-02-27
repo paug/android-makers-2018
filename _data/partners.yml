@@ -5,6 +5,7 @@
     - {name: "Vente privée", description: "Vente privée. Réveillez votre quotidien.", link: "https://tech.vente-privee.com/", imageUrl: "venteprivee.png"}
     - {name: "Geronimo", description: "Geronimo. Agence digitale mobile.", link: "http://www.geronimo-agency.com/", imageUrl: "geronimo.png"}
     - {name: "Leboncoin", description: "leboncoin, leader français de la petite annonce", link: "https://www.leboncoin.fr", imageUrl: "leboncoin.jpg"}
+    - {name: "iD.apps", description: "iD.apps, move Forward innovation!", link: "http://www.id-apps.fr/", imageUrl: "idapps.png"}
 -
   group: "Virtual sponsor"
   elements:

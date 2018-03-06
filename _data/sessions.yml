@@ -27,3 +27,185 @@
   place: ""
   service: true
   description: "Thank you and see you next year!"
+-
+  id: 1
+  title: "Lifecycle, LiveData, ViewModels - The inner wiring"
+  description: "<p>Android Architecture Components is a set of libraries for designing great apps. It contains APIs for implementing concepts like Lifecycle and ViewModel.<br />Whilst these APIs are great, they do come with some questions:<ul><li>How do Lifecycle, LiveData and ViewModels work under the hood? How and where should each of them be used?</li><li>What is the difference between a ViewModel from Architecture Components and the one from the MVVM pattern?</li><li>Lifecycle components exist for Activities, Fragments and Application. Why don’t we have the same for Views?</li><li>Can we have ViewModels for Views also?</li><li>Is LiveData a replacement for RxJava? Can they live side by side?</li><li>How does LiveData work with DataBinding?</li><li>How should view state be handled and what goes into a Bundle versus a ViewModel?</li></ul>To answer all of these questions and more we’ll do a deep dive in the internals of Lifecycle, LiveData and ViewModels.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [5]
+  language: en
+-
+  id: 2
+  title: "Storing and displaying data with Room and Paging"
+  description: "<p>Did you know that deleting a “?” can make your app crash? Making a nullable object non-null in a Room Entity class leads to a change in the database schema that consequently requires you to implement a migration. This answer only leads to more questions:<ul><li>How does Room create tables?</li><li>How does it check the validity of the schema and knows which migrations to trigger?</li><li>How are transactions handled?</li><li>Is @Relation actually creating a relation between two tables?</li></ul>To answer all of these questions we’ll do a deep dive into Room’s API. By understanding how it works under the hood, you’ll get a better grasp of Room’s capabilities and limitations.<br /><br />Now that you have data stored in Room, you probably need to display a list based on the database content. The Paging Library can help with this but it also brings a series of new questions:<ul><li>How does Paging work with Room?</li><li>Can Paging be used with data coming from the network or from a database backed by network?</li><li>Who handles the threading of the operations, and how?</li></ul>You’ll first get to know the Paging API and then I’ll show you the inner wiring and how it connects everything together.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [5]
+  language: en
+-
+  id: 3
+  title: "Check your app's vitals"
+  description: "<p>There are four primary vital signs: body temperature, blood pressure, pulse (heart rate), and breathing rate (respiratory rate).<br /><br />Can we identify basic signals that would show us the health of an Android app? How about checking for common problems, such as battery drain, jank, crash rate and excessive network usage?<br /><br />Of course, no amount of local testing under laboratory conditions can identify these problems reliably, not with a limited number of devices and users. That's why it's better to check vitals on a living organism, or in this case, an app that is released to users. Open Android Vitals on the Google Play Console to find out about real issues that real users are encountering in the wild.<br /><br />Requiring no special instrumentation from your side, you will get detailed alerts about stuck wakelocks, wrong wakeup and network usage patterns and many more known bad behaviors.<br /><br />But diagnosing the problems is just half of the solution. During this session I will show tools and techniques on how to deal with the issues using tools that we have at our disposal, such as Android Profilers, Systrace, Strict mode, Battery Historian and more.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [6]
+  language: en
+-
+  id: 4
+  title: "ConstraintLayout 2.0"
+  description: "<p>ConstraintLayout 1.0, announced at Google IO'16, is now widely used by application developers to create user interfaces. We have been working on the next version of the library, which adds more advanced concepts to create and organize your UI.<br /><br />This talk will include examples and demonstrations on how best to take advantage of those new capabilities and concepts, how to fine tune layouts to get the best performance, as well as presenting some of the new ConstraintLayout tooling available in Android Studio 3.2.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [4]
+  language: fr
+-
+  id: 5
+  title: "Creating Layouts doesn’t have to be painful"
+  description: "<p>Nowadays, Android app design needs are more and more complex: shadows, animations, illustrations, dynamic content. Building layouts that incorporate all those features can be time consuming and, made the wrong way, they will have a significant negative impact on the overall app performance.<br /><br />In this talk we are going to go through building a layout from scratch in Android Studio, demonstrating how developers can take advantage of the latest features to make the whole process as efficient as possible.<br />Along the way we will highlight some of the best practices and show how to avoid common pitfalls in order to create complex yet lightweight layouts.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [7,8]
+  language: en
+-
+  id: 6
+  title: "Ghost in the Machine - Bridging VR and IoT"
+  description: "<p>In this session, we'll bridge the real and the virtual. We'll first see how to build a simple Android Things powered robot with off-the-shelf parts. Then we'll build a VR remote control app, using Google's Daydream SDK.<br /><br />Samples shown in this session are written in Kotlin. Some familiarity with OpenGL is helpful, but not required.<br /><br />Type: Android Everywhere<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [9]
+  language: en
+-
+  id: 7
+  title: "The bytecode gobbledygook"
+  description: "<p>We know one of the main characteristics of Java is portability, and that usually means it is not as efficient as it should be. That might be the reason Java has never been associated with high performance, but nowadays there are a lot of Java powered devices in the world and lots of people are building applications for them.<br /><br />Compilers that produce native machine code do a great optimization job because they know where the code is going to be executed. But because of the portability feature, the Java Compiler could not assume anything about where our program is going to run and leaves all the optimizations to be done by the JVM while loading or, even, running our code. This has been the case until Google introduced Jack and Jill compilers, but now that has already deprecated them in favour of Java 8 tooling and introducing the new D8 compiler, will this assumption still be true? Also, with the recent addition of Kotlin, there is another language that generates bytecode. How will it perform compared with plain Java code?<br /><br />In this session, you will not only learn what to avoid when looking for critical performance, you’ll also get a bigger understanding of how the java compiler works<br /><br />Type: Android Development<br />Experience: Expert and senior</p>"
+  subtype: presentation
+  speakers: [10]
+  language: en
+-
+  id: 8
+  title: "Resources internals"
+  description: "<p>Has R.java ever made you wonder what exactly those strange number IDs mean? Do you want to know what powers the theming engines on your favorite devices and mods? In this talk you will learn from the creators of Runtime resource overlays exactly how resources are implemented in Android, how to use them most efficiently and further more how to replace them, split them and do just about anything with them using tools of OEMs and modders.<br /><br />Type: Android Development<br />Experience: Expert and senior</p>"
+  subtype: presentation
+  speakers: [11,12]
+  language: en
+-
+  id: 9
+  title: "Gradle in Android Studio 3.2 and beyond"
+  description: "<p>Android Studio is a build system-centric IDE, where Gradle is the source of truth. This decision was made when we started Android Studio back in 2013, with the following benefits in mind:<ul><li>1. IDE configuration files (IML files) are generated when syncing a project with Gradle. Developers no longer have to manually edit IML files.</li><li>2. By delegating builds to Gradle, build output will be the same regardless of where the build is executed: IDE, command line or CI server.</li></ul>Even though we delivered on these promises, there is still friction between the IDE and Gradle, making the user experience not awesome:<ul><li>1. Syncing a project (with Gradle) is slow</li><li>2. Project synchronization has to be manually started.</li><li>3. Editing build.gradle files is not trivial</li><li>4. There is no way to visualize the structure of a project: a full dependency graph, how build variants are composed, etc.</li><li>5. Importing big projects (100+ modules) makes the IDE crawl</li></ul>I'll cover each problem and what my team is doing to solve these issues. I'd love to gather feedback from the audience, to have a better understanding of their pain points and how our strategy aligns with their priorities.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [13]
+  language: en
+-
+  id: 10
+  title: "Reduce, reuse, recycle ♻"
+  description: "<p>RecyclerView is one of the most powerful and versatile components in your toolkit for building complex apps. But are you getting the most out of it? This talk will cover best practices for performance and efficiency. You’ll also learn advanced customizations to layout, animation and gestures.<br /><br />Type: UX/UI<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [14]
+  language: en
+-
+  id: 11
+  title: "Portable Material: Flutter physical models"
+  description: "<p>One of the most interesting new technologies to reach the mainstream eye in 2017 is undoubtedly Flutter, a novel cross-platform framework from Google that targets Android, iOS and the oh-so-elusive Fuchsia OS.<br /><br />Whether you’ve <a href='https://www.youtube.com/watch?v=0ijVuVtu6a4'>heard of Flutter</a> or not, you will be fascinated by the intriguing design that lurks under the Surface. We’ll dive in to how exactly your Flutter widgets get drawn on screen, from your code all the way down to Skia. Did you know that the UI toolkit in Flutter is based on physical models, and that Material is just one of those? Or that in Flutter the Material and Cupertino (iOS) toolkits share a common heritage in their roots?<br /><br />Type: Android Development<br />Experience: Expert and senior</p>"
+  subtype: presentation
+  speakers: [15]
+  language: en
+-
+  id: 12
+  title: "The JPEG of 3D: Bringing 3D scenes and objects into your 2D Android app with glTF"
+  description: "<p>Learn how we brought another new media type to Facebook with interactive 3D posts. glTF is a new standard transmission format for 3D from the Khronos group. It has a ton of momentum behind it with lots of industry support. In this talk, we'll discuss why we chose glTF for our 3D format and cover the technical details of how we made it possible to share and view your VR art from Oculus Medium and Facebook Spaces in Facebook for Android.<br /><br />3D posts were brought to you by the Social VR and 360 Media teams at Facebook.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [16]
+  language: en
+-
+  id: 13
+  title: "Vectorial Victories"
+  description: "<p>Vous en avez assez de devoir dupliquer tous les assets afin de gérer toutes les densités d'Android ? Les Vector Drawables sont là pour résoudre ce problème !<br /><br />Sauf que... ce n'est malheureusement pas si facile, dans la pratique il y a quelques pièges qu'il faut connaître afin de vraiment pouvoir tirer pleinement parti de ce format.<br /><br />Nous allons donc voir comment le dessin vectoriel fonctionne, comment il a été adapté à Android, et finalement un de ses gros avantages : les animations !<br /><hr />Tired of having to duplicate all your assets in order to manage Android's densities? Vector Drawables are here to save the day!<br /><br />Except... it is not that easy. There are some nasty traps you need to know in order to really take advantage of this format.<br /><br />We will see how vectorial drawing works, how it has been adapted to Android and finally one of its biggest strengths: animations!<br /><br />Type: UX/UI<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [17]
+  language: fr
+-
+  id: 14
+  title: "Better asynchronous programming with Kotlin Coroutines"
+  description: "<p>Android application development is inherently asynchronous. Even the simplest Android application requires the developer to track asynchronous callbacks of the activity, often leading to the infamous callback hell. In this talk, we will have a look at the latest addition to the solutions for dealing with asynchronous programming on Android; Kotlin Coroutines. We'll learn about what coroutines are, how they differ from other models and how to use it with Kotlin on Android.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [18]
+  language: en
+-
+  id: 15
+  title: "Tips for Library Development (from a Startup Developer)"
+  description: "<p>Are you ready to take a long shot and invest… in your code? As a veteran of both Google and two startups and counting, Lisa will share with you how to chase the dream of open source, fame, and fortune, no matter the size of your company.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [19]
+  language: en
+-
+  id: 16
+  title: "The State of Representing State"
+  description: "<p>A core part of any app is the ability to know at any given time the set of conditions that make up its current operations. As developers, we need to know this for a variety of reasons, including because knowing this tells us whether we should be queuing any changes and gives us the ability to return the user to their current experience should the application display be interrupted. But despite it’s crucial nature, codifying the state of an application at any given point in time can often be messy and error prone work. In this talk, we’ll look at the reasons representing state can be problematic, and some practical ways to make it better.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [20]
+  language: en
+-
+  id: 17
+  title: "Who’s afraid of Machine Learning? First steps with TensorFlow for Android."
+  description: "<p>Although it is buzzing nowadays, machine learning is still a mystery to many of us. However, worry not! Making your app smarter has just become easier with the new TensorFlow for Android. On this talk, we’ll get to know some basic ML concepts to clear the air around the topic, and learn how to create our first machine learning Android app with TensorFlow!<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [21]
+  language: en
+-
+  id: 18
+  title: "Design Tools and Handoffs*"
+  description: "<p>The talk is about all the tooling used by the speaker in designing UI and Interactions at Fabulous and how the handover happened between design and dev team to ensure best quality app implementation. It also talks about some of the common obstacles in efficient communication between designer and developer and how to address them for better communication.<br />This is mainly aimed as a sharing to the developers on what/how a usual designer used for designing, and what are some of the tools that can help in better communication between designer and developer.<br /><br />Type: UX/UI<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [22]
+  language: en
+-
+  id: 19
+  title: "Styles and themes from scratch"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 20
+  title: "The big rewrite"
+  description: "<p>Are you living the dream? An architecture so SOLID you could literally build your house on? Tests so fast you can't even sip your coffee before they finish? Code so clean it literally hurts your eyes?<br /><br />No? Then why don't you convince management to start over? Things will be different, you'll do things right.<br /><br />Truth be told, app rewrites seldom work out: estimates turn out to be overly optimistic, functionality a lot more complex and crucial details have been deeply buried in the legacy code. Result: pressure to ship increases and technical debt again piles up.<br /><br />Join this keynote to get a better understanding of the unique challenge of today's ever-growing, more and more complex apps. Learn how we can efficiently tackle legacy code bases and how to get back your developer happiness.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [23]
+  language: fr
+-
+  id: 21
+  title: "Migrating from installed to instant app, a retrospective"
+  description: "<p>Abstract Android Instant Apps has been available to developers since Google I/O 2017. A lot has happened in the meantime. The amount of devices ready for Android Instant Apps is growing steadily, currently at more than 800 million activated devices, as is amount of available instant apps. Code samples have been published and conference sessions were held. Questions on forums were asked and answered. Bugs were raised and triaged.<br /><br />This session doesn’t cover anything of the above, but will show my approach when migrating the Topeka sample to an instant app with multiple, independent feature modules and what I learned. Topeka is a non-trivial sample application with custom sign in, animations, transitions and several Activities and Fragments.<br /><br />I’ll talk about the steps I took and explain the rationale behind them. This will enable you to experiment with Android Instant Apps until you feel your instant app is ready for deployment to production. If you're experimenting with instant apps, you'll have enough to get started and to make a demo for your team. If you're committed to making an instant app, you'll learn how to reduce friction during the refactoring while still maintaining a cod<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [24]
+  language: en
+-
+  id: 22
+  title: "Les mauvaises surcouches constructeurs sont-elles du passé ?"
+  description: "<p>Malgré tout mes conseils éclairés mes utilisateurs n'ont pas tous acheté un Pixel ou un Nexus. Certains ont encore une version modifiée d'Android qui pose des problèmes pour utiliser mon application.<br />Même des choses qui nous semblent pourtant acquises peuvent poser problème. Saviez vous que la classe StringUtils est absente de certains téléphones 'pour des raison d'optimisation' ? Saviez vous que certains téléphone refusent de serialiser des enums en JSON ?<br /><br />Chez Virtuo, nous essayons de satisfaire même l'utilisateur qui a importé un téléphone chinois noté 1/10 sur FRAndroid à 10€ malgré tous les conseils de ses amis. Comment ? En trois étapes :<ul><li>1) Détecter et qualifier le problème en production</li><li>2) Corriger et tester même sans acheter le-dit téléphone chinois</li><li>3) Recontacter l'utilisateur pour le faire revenir, et consommer dans l'application</li></ul><br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [25]
+  language: fr
+-
+  id: 23
+  title: "Accessibilité sur Android : comprendre les aveugles pour répondre à leur besoin"
+  description: "<p>Si vous suivez un peu l'actualité, on se rend compte que le nombre de smartphones à touches physiques sur le marché se compte sur les doigts de la main.<br /><br /><i>'En quoi est-ce problématique ?'</i><br /><br />Depuis les écrans tactiles, on ne s'est jamais autant appuyé sur notre vue pour naviguer sur notre smartphone. Avec des touches physiques, on peut taper son prénom sur un clavier sans regarder. Sur un smartphone... c'est plus compliqué n'est-ce pas ?<br /><br /><i>'Hmm... et donc ?'</i> me direz-vous<br /><br />La nécessité d'avoir un smartphone de nos jours pousse la population non-voyante à investir sur un appareil, quitte à ce qu'il soit uniquement tactile.<br /><br /><i>'Mais alors... comment font-ils ?!'</i><br /><br />Ils utilisent des outils d'accessibilité mis à disposition sur Android, je vous propose d'y jeter un œil durant ce talk.<br /><br /><i>'Quel rapport avec le développement ?'</i><br /><br />Les outils c'est bien, mais c'est pas magique : un lecteur de code-barres sur une feuille blanche, ça fait rien. Pour vos applications c'est pareil, il faudra présenter des code-barres aux outils d'accessibilité... façon de parler. Je vais vous montrer comment, ainsi que quelques tips.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [26]
+  language: fr
+-
+  id: 24
+  title: "Traitement d'image simple et rapide avec Renderscript"
+  description: "<p>Vous avez toujours voulu faire du traitement d'image sur Android ? Blur sur les images, filtres à la snapchat, édition à la instagram... Les performances sont un frein pour vous ? Grâce à ma méthode, vous allez apprendre comment simplement utiliser le calcul parallèle pour enfin éditer des images à la vitesse de l'éclair. En m'appuyant sur des exemples concrets, comme l'ajout du blur sur une image compromettante, ou l'amélioration de la luminosité d'une image en analysant son contenu, je vous montrerai la simplicité de cet outil.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [27]
+  language: fr
+-
+  id: 25
+  title: "OK Google, déploie mon App en prod !"
+  description: "<p>Toi aussi tu as utilisé Google Home une journée pour qu’elle te raconte une blague ou imite les ch'tis. Et si elle pouvait en faire plus ?<br /><br />A Meetic, l'assistant vocal est un membre productif au sein de l'équipe. Et si les tâches répétitives d’une équipe de développement Android pouvait être effectuées par notre assistant ?<br /><ul><li>OK Google, lance un build de mon application pour mes 4 marques toutes langues</li><li>Hey Google, lance les tests de la branche develop</li></ul>Mieux encore, si on arrêtait de lui donner des ordres mais qu’elle devenait proactive, comme une vraie personne en se réveillant pour dire :<ul><li>Vous avez reçu un nouveau commentaire 5 étoiles sur votre application Meetic</li><li>Votre couverture de test vient de dépasser les 20% de la codebase, good job!</li><li>Le taux d’erreur 400 sur Meetic est anormalement haut</li><li>Vous avez 6 MR en cours, mergez les avant de commencer de nouvelles tâches</li></ul>Dans cette présentation vous apprendrez :<ul><li>Comment customiser vos propres actions de l'assistant vocal pour les brancher à vos services de développement habituels : Jenkins / Gitlab ...</li><li>Envoyer des pushs directement sur l'assistant vocal à l’aide de Google Assistant pour la rendre proactive<br /><br />Type: Android Everywhere<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [28,29]
+  language: fr
+-
+  id: 26
+  title: "From ProGuard to R8: Take care of your bytecode"
+  description: "<p>En tant que développeur Android, vous avez probablement une relation amour-haine avec ProGuard. Il réduit, optimise et obscurcit le code, ce qui rend l'APK généré plus léger et plus difficile à la rétro-ingénierie ; Mais il peut également casser votre build si les règles ne sont pas appliquées correctement.<br /><br />Google travaille actuellement sur un remplaçant expérimental du ProGuard - R8, qui fonctionnera de manière transparente avec les règles ProGuard existantes.<br /><br />Activer ProGuard peut être une expérience obscure au début. Cette présentation vise à démystifier ProGuard et montrer les avantages de prendre soin de votre bytecode avec tels outils.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [30]
+  language: fr

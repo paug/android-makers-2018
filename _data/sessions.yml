@@ -209,3 +209,45 @@
   subtype: presentation
   speakers: [30]
   language: fr
+-
+  id: 27
+  title: "Android all the things!"
+  description: "<p>Want to build your own DIY smart house stuff but cannot handle a soldering iron without turning everything into a smoldering pile of ash?<br /<br />I've got you covered! All you need is a Raspberry Pi, a bunch of off-the-shelf sensors and some Kotlin code (and a bit of Javascript). I'll show you how I made my smart house system using Android Things, Firebase, an Android App and Actions for Google without setting anything on fire unintentionally.<br /><br />Type: Android Everywhere<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [31]
+  language: en
+-
+  id: 28
+  title: "Recette d’un sdk (presque) parfait"
+  description: "<p>De plus en plus de développeurs mettent à disposition des bibliothèques Android, voire même des SDKs.<br /><br />Dans cette présentation nous évoqueront les point clés de la création d'un SDK, de sa genèse jusqu'à sa livraison et sa maintenance.<br /><br />Ayant travaillé bientôt 4 ans sur le SDK pour drones Parrot, je vous ferais un retour d'experience complet et évoquerait les actions que nous prenons pour l'améliorer.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [32]
+  language: fr
+-
+  id: 29
+  title: "Android ou l'ART d'optimiser le code Java"
+  description: "<p>Android utilise depuis longtemps le langage Java pour ces applications. Cependant ce langage a mauvaise réputation concernant son temps d'execution.<br /><br />Regardons ensemble comment Google, à travers les versions d'Android, a essayé de rendre l'execution du code Java la plus optimisée possible.<br /><br />Nous ferons le point sur l'introduction du JIT, puis au passage de Dalvik à ART qui à complètement changé la donne en matière d'execution de Bytecode sur Android.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [33]
+  language: fr
+-
+  id: 30
+  title: "Gérer vos tests d'UI de manière simple et efficace"
+  description: "<p>Les test d'UI sont une étape importante dans le processus de création d'une application robuste et stable sur le long terme. Pourtant, une grande majorité des développeurs android sautent cette étape soit par manque de temps soit parce que les tests d'UI sont compliqués et laborieux à écrire. Depuis que nous sommes organisés en feature team au Boncoin et que nos livraisons se font toutes les 3 semaines, nous avons besoin de faciliter et d'automatiser au maximum l'écriture et l'exécution des tests d'UI. C'est pour cela que nous avons mis en place une solution composée de Barista, une surcouche d'espresso, de Swarmer, permettant de gérer et d’exécuter une batterie d’émulateurs et enfin Composer pour orchestrer le tout et générer les rapports de tests. C'est cette solution que nous allons vous présenter outils par outils puis au sein de notre CI avec une démo en situation réelle.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [34]
+  language: fr
+-
+  id: 31
+  title: "Remote control your application"
+  description: "<p>How can you change something on your application without publishing an app update?<br />Copy, feature activation, A/B test, screen style… Be ready to live-update your applications on demand<br /><br />This talk is about:<ul><li>show all the area that can be remote-controlled, and the one you cannot</li><li>explore few 3rd party services</li><li>hints on how to build your own solution</li></ul>Including high-level vision and technical tips, everyone has something to learn from this presentation<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [35]
+  language: en
+-
+  id: 32
+  title: "Application monolithique, c'est pas automatique"
+  description: "<p>Comment gérer l'accumulation de fonctionnalités dans une seule application ? Pourquoi continuer à maintenir une codebase monstrueuse de ouatmille fonctionnalités ? Et si vous découpiez votre grosse application en plusieurs petites applications ?<br /><br />Un besoin client nous a poussé à expérimenter des solutions techniques pour s'affranchir à terme de la mono-application à 200 000 lignes de code. L'expérimentation a passé l'étape de la mise en production avec succès. Il est désormais temps de partager notre retour d'expérience à ce sujet :<ul><li>Dans quel contexte un écosystème multi-applications peut s'avérer être le meilleur choix technique</li><li>Comment partager des informations entre applications de manière sécurisée</li><li>Cas d'usage : se loguer dans une application mère et être automatiquement authentifié dans une application fille</li><li>Cas d'usage : naviguer d'une application mère à une application fille avec mise à jour des données en toute transparence pour l'utilisateur</li><li>Cas d'usage : intégrer ce fonctionnement avec une codebase reactive</li></ul>Entrez dans le monde merveilleux des <code>ContentProvider</code>, <code>ContentResolver</code> et des <code>Intent</code>.<br /><br />Deux app valent mieux que un tu l'auras.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [36]
+  language: fr

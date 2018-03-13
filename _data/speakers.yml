@@ -367,3 +367,73 @@
     - {name: "github", link: "https://github.com/jinqian"}
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/qian-jin"}
+-
+  id: 31
+  name: "Marc"
+  surname: "Poppleton"
+  thumbnailUrl: mpoppleton.jpg
+  company: "Orange Labs"
+  bio: "I'm a Software Engineer at Orange Labs and tinker with code for Android since version 1.0 Apple Pie. I'm also the leader of the GDG Code d'Armor. The rest of the time, I'm Robopop, cyber-father and husband, half flesh and bones, half carbonfiber and steel."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/MarcPoppleton+"}
+    - {name: "twitter", link: "https://twitter.com/marcpoppleton"}
+    - {name: "site", link: "http://www.marc-poppleton.com/"}
+    - {name: "github", link: "https://github.com/marcpoppleton"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/fr-FR/GDG-Code-dArmor"}
+-
+  id: 32
+  name: "Djavan"
+  surname: "Bertrand"
+  thumbnailUrl: dbertrand.jpg
+  company: "Parrot"
+  bio: "Développeur mobile (iOS & Android) depuis plus de 6 ans, je travaille à Parrot depuis 4 ans sur le SDK pour drones. Je fais aussi parti du Paris Android User Group."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Djava7"}
+    - {name: "github", link: "https://github.com/djavan-bertrand"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
+-
+  id: 33
+  name: "Adrien"
+  surname: "Grassein"
+  thumbnailUrl: "anonymous.jpg"
+  company: "Smile - ECS"
+  bio: "Expert Android bas niveau depuis maintenant plus de 7 ans. J'ai dans ma carrière été amené à porter Android sur un nouveau SoC, aider à le porter sur un hyperviseur et à répondre à de multiples demandes clients."
+  rockstar: false
+-
+  id: 34
+  name: "Yann"
+  surname: "Popo"
+  thumbnailUrl: ypopo.jpg
+  company: "Leboncoin"
+  bio: "Manager tech de l'équipe Android"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/yannpopo"}
+-
+  id: 35
+  name: "Stan"
+  surname: "Kocken"
+  thumbnailUrl: skocken.jpg
+  company: "Dashlane"
+  bio: "Android Lead dev @Dashlane"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/stan_kocken"}
+    - {name: "site", link: "http://www.stankocken.com/"}
+    - {name: "github", link: "https://github.com/stankocken"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://paug.fr"}
+-
+  id: 36
+  name: "Antoine"
+  surname: "Descamps"
+  thumbnailUrl: adescamps.jpg
+  company: "Amiltone"
+  bio: "Responsable d'un pôle d'expertise en développement mobile natif.<br /><br />J'interviens dans l'automatisation des chaines de production sur mobile. Je suis sollicité sur des projets mobiles complexes afin d'apporter une solution adaptée. Je mets en place des architectures techniques évolutives et je m'assure que les bonnes pratiques de programmation sont respectées. J'interviens à la fois sur Android et iOS et j'ai appris à autant aimer que détester chacun des deux.<br /><br />Je bidouille des projets DIY à base de raspi et j'aime courir sous la neige."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/@_antdesc"}

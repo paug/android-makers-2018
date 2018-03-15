@@ -437,3 +437,108 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/@_antdesc"}
+-
+  id: 37
+  name: "Yannick"
+  surname: "Badoual"
+  thumbnailUrl: ybadoual.jpg
+  company: "Deezer"
+  bio: "I started developing on Android in 2012 while in college, and got addicted to it. I'm currently focusing only on Android development.<br /><br />Also a huge fan of Kotlin since I started it in a certain day of summer 2015 and can't stop ever since.<br /><br />I'm driven by my passion for the Japanese culture/history and language. Most of my personal projects are focused on that passion."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/badoualy"}
+    - {name: "site", link: "	http://badoualy.com"}
+    - {name: "github", link: "http://github.com/badoualy"}
+-
+  id: 38
+  name: "Gautier"
+  surname: "Mechling"
+  thumbnailUrl: gmechling.jpg
+  company: "Nilhcem"
+  bio: "Android Developer and Google Developer Expert for IoT"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Nilhcem"}
+    - {name: "site", link: "http://nilhcem.com"}
+    - {name: "github", link: "https://github.com/Nilhcem"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/gautier-mechling"}
+-
+  id: 39
+  name: "Marc"
+  surname: "Daniel"
+  thumbnailUrl: mdaniel.jpg
+  company: "Nokia Digital Health"
+  bio: "Extremely passionate android dev. I am part of Nokia Digital Health team, working on subjects as Bluetooth interactions with Health devices, Webrtc communications, GoogleFit integration and many UI components."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Marc_daniel_twi"}
+-
+  id: 40
+  name: "Pierre"
+  surname: "Crépieux"
+  thumbnailUrl: pcrepieux.jpg
+  company: "Orange"
+  bio: "Passionné par les télécoms, cela fait une quinzaine d'années que j'évolue dans ce domaine au sein d'Orange. Après m'être concentré sur le développement de serveurs avec des technos comme H.323, IMS, Réseau Intelligent, je suis passé de l'autre coté du réseau pour faire du développement Android. Aujourd'hui, je cultive et m'appuie sur cette double expérience pour investiguer les problèmes qui se posent à la frontière entre les deux."
+  rockstar: false
+-
+  id: 41
+  name: "Xavier"
+  surname: "F. Gouchet"
+  thumbnailUrl: xgouchet.jpg
+  company: "Workwell"
+  bio: "Xavier F. Gouchet is the lead Android engineer at Workwell. There, he focuses on the core architecture of the app, tools for all the Android developers, unit tests, and administrate the CI systems. He has been dabbling in Android since the Cupcake days and has been working as a professional Android engineer since 2012."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "http://plus.google.com/104726529130632323310/"}
+    - {name: "twitter", link: "https://twitter.com/xgouchet"}
+    - {name: "site", link: "https://about.me/XavierGouchet"}
+    - {name: "github", link: "https://github.com/xgouchet"}
+-
+  id: 42
+  name: "Jonathan"
+  surname: "Maltz"
+  thumbnailUrl: jmaltz.jpg
+  company: "Yelp Inc."
+  bio: "Jonathan is a full-stack engineer working for Yelp in San Francisco on their next generation A/B Testing infrastructure. Jonathan enjoys geeking out about data engineering and building fun teams that create great software together. When he's not building software, you can find Jonathan at the closest swing dance near you."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/maltzj"}
+    - {name: "site", link: "http://maltzj.com"}
+    - {name: "github", link: "https://github.com/https://github.com/maltzj"}
+-
+  id: 43
+  name: "Nicolas"
+  surname: "Corti"
+  thumbnailUrl: ncorti.jpg
+  company: "Yelp Inc."
+  bio: "Nicola Corti is Android Software Engineer since 2.2, Free and Open Source lover since he remembers. Currently working as an Android Engineer @ Yelp Inc, connecting millions of users with great local businesses worldwide.<br /><br />He usually calls himself a 'community addicted', can't survive without learning every day, sharing knowledge and having fun with other developers. He also funded and he's currently managing the GDG chapter in Pisa.<br /><br />In his free time, he also loves photography, hiking, and cake design."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+NicolaCorti/"}
+    - {name: "twitter", link: "https://twitter.com/cortinico"}
+    - {name: "site", link: "https://ncorti.it/"}
+    - {name: "github", link: "https://github.com/cortinico"}
+-
+  id: 44
+  name: "Ana"
+  surname: "Baotić"
+  thumbnailUrl: abaotic.jpg
+  company: "Asseco SEE"
+  bio: "Ana is a software engineer with over 6 years experience in Android.<br /><br />During college she focused on various e-learning projects and plagiarism detection. After getting her Masters degree in CS, she started developing for Android at an Zagreb-based agency, working on various projects in the telecommunication, medical and travel industry. After switching to mobile banking and security, in 2016 she took the role of Technical Manager of Mobile banking. In addition to coding, she loves organising workshops and working directly with clients, helping to close the gap between the technical and practical in the mobile industry.<br /><br />Apart from coding and public speaking, she enjoys spending time with her family and traveling."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/abaotic"}
+-
+  id: 45
+  name: "Zan"
+  surname: "Marker"
+  thumbnailUrl: zmarkan.jpg
+  company: "Pusher"
+  bio: "Zan is a Developer turned Evangelist at Pusher with over 8 years of experience in software development. He spends the days educating developers across the world about the wonders of realtime technologies and good API design, and nights fighting crime. Before DevRel he used to dabble in mobile and SDK development, especially on Android. Currently he fancies Kotlin, Node, TypeScript, and the UX of APIs in general. Other hobbies include speaking at conferences and yelling at computers."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/zmarkan"}
+    - {name: "site", link: "https://markan.me/"}
+    - {name: "site", link: "https://medium.com/@zmarkan"}
+    - {name: "github", link: "https://github.com/zmarkan"}

@@ -251,3 +251,66 @@
   subtype: presentation
   speakers: [36]
   language: fr
+-
+  id: 33
+  title: "Dagger-android, under the hood"
+  description: "<p>Dagger is the most popular dependency injection framework for Android development. Recently Google released version 2.10 and 2.11 to simplify a lot the usage, but do you really understand how the magic works when using <code>AndroidInjection.inject(this)?</code><br /><br />From <code>AndroidInjectionModule</code> to <code>ContributesAndroidInjector</code>, we'll see how to use the new versions and what is really happening under the hood when calling this code.<br /><br />A basic understanding of how to use Dagger 2 is strongly recommended to fully understand this talk.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [37]
+  language: fr
+-
+  id: 34
+  title: "De la domotique faite-maison avec Android Things et le Google Assistant"
+  description: "<p>La domotique, c'est aussi cool que c'est reuch. Mais l'avantage à être pauvre, c'est qu'on peut apprendre plein de choses en les faisant nous même.<br /><br />Comme si on allait dépenser plus de 100€ pour des ampoules compatibles Google Home alors que pour 10 fois moins cher on peut tout faire nous-même en achetant des objets sur des sites chinois pour les retro-engineerer et écrire du code Android Things et Actions on Google afin de pouvoir les contrôler à la voix.<br /><br />Tiens ben d'ailleurs c'est ce qu'on va faire, ça va nous permettre de découvrir Android Things, le Google Assistant, voir comment on peut hacker des objets made-in-china, et surtout, ça nous permettra d'économiser des billets violets.<br /><br />Type: Android Everywhere<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [38]
+  language: fr
+-
+  id: 35
+  title: "Place de Gitlab au sein des process d'une équipe mobile"
+  description: "<p>De nombreux développeurs connaissent déjà les avantages de Gitlab pour l'intégration continue et la relecture des merges requests. Mais du point de vue d'un product manager, d'un designer ou même d'un client, l'utilisation de Gitlab peut aussi permettre la génération de changeLog, la mise à disposition d'un store de Review Apps pour valider une feature, un comportement, une animation ou encore sa validation par l'équipe SQA.<br /><br />Il s'agit donc d'une présentation des possibilités de l'API Gitlab et de Gitlab CI au travers du code d'une application client.<br /><br />Type: Android Everywhere<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [39]
+  language: fr
+-
+  id: 36
+  title: "Par delà le MediaRouter, fabriquons notre FooBarCast !"
+  description: "<p>Dans cette session, nous allons explorer les APIs disponibles sur Android pour détecter et contrôler un RaspberryPi que l'on intégrera avec le <code>MediaRouter</code>. En jouant avec le <code>NsdManager</code>, le <code>MediaRouteProvider</code>, ainsi qu'un SDK open source (<a href='http://www.ocast.org/'>OCast</a>), nous nous familiariserons avec mDNS, DIAL et verrons comment articuler tout ce petit monde pour diffuser du contenu sur une TV depuis son appli Android.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [40]
+  language: fr
+-
+  id: 37
+  title: "Rock the Gradle, rule the world"
+  description: "<p>More often than none, Android build.gradle file grow larger and more complex to adapt to specific build constraints and scenarios which are not supported by default. Custom tasks, advanced usages, … the use cases are infinite.<br /><br />Gradle offers the possibility to integrate custom plugins directly in your project, without the need to make a separate project and publish the artifact in a maven repository. This presentation will walk you through this concept, with a couple of concrete example of plugins you can write yourself.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [41]
+  language: fr
+-
+  id: 38
+  title: "Want to make a change? Stop talking and start listening"
+  description: "<p>As Android developers, we’re constantly trying to improve our teams by convincing others to move in a new direction. Whether it’s convincing other engineers to adopt Kotlin or convince your design team to create Android mocks, almost any improvement you want to make requires convincing others to make a change.<br /><br />In this talk, we’ll discuss how to effectively create the change you want by focusing on the incentives of others. We’ll start by discussing how to understand what other parties want so that you can make it clear how your initiative helps all stakeholders. Next, we’ll talk about how to identify areas of risk that may prevent your idea from moving forward, as well as how to mitigate that risk. Finally, we’ll discuss the critical role of trust in creating change, and how to use every interaction as a chance to build the trust you need to help you succeed.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [42]
+  language: en
+-
+  id: 39
+  title: "The Curious Case of Android Button"
+  description: "<p>We interact with buttons every day to get coffee, order pizza, or start a new Gradle build. They may look simple and straightforward, but they have a fundamental role in our environment: create a sense of power.<br /><br />We all love to feel empowered and we all hate being frustrated by bad design. Your users know this as well, they want to feel immediately rewarded when they interact with your UI, and they will quickly drop your app if they get annoyed.<br /><br />At Yelp, we get tens of millions button clicks a day. At that kind of scale, every pixel matters. We tune every single aspect of our buttons to make them simple and powerful, but adjusting every single shadow cast, click animation, or color layer can be tricky. In this talk, we will provide a deep dive into the Android framework and the Support Library to understand how buttons are rendered.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [43]
+  language: en
+-
+  id: 40
+  title: "Sign here please!"
+  description: "<p>An application ID might define your app among all others, but its signature is what proves and confirms its identity and integrity. From working in distributed teams to fending off fraudulent clones of your application, you eventually come to understand the importance of signatures.<br /><br />In this talk we'll take a deep dive into the Android keystore system, certificates and signatures, and go over key points necessary for any application's long and productive life. Also, we will cover some security tips and tricks that will help ensure your app is safe to use, even if the users are faced with its evil twin.<br /><br />At the end you should walk away with a deeper insight into everyday mechanisms that are often taken for granted, and the impact that they have on your users' security.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [44]
+  language: en
+-
+  id: 41
+  title: "Push Notifications that Don’t Suck"
+  description: "<p>In the age where apps in every category battle it out against each other for conversion rates and session times, push notifications have become the de-facto way to generate repeat visits and therefore hitting those all-important KPIs. The end result? Billions of people annoyed by irrelevant notifications which are generally ignored. I believe we can do better.<br /><br />This talk will cover tips and tricks for better user targeting, showing relevant content, as well as styling them using the latest and greatest of Oreo’s APIs and best practices.<br /><br />Type: UX/UI<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [45]
+  language: en

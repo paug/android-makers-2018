@@ -314,3 +314,45 @@
   subtype: presentation
   speakers: [45]
   language: en
+-
+  id: 42
+  title: "Reusable Cross-Platform Frameworks with Kotlin/Native"
+  description: "<p>While building entire cross-platform apps might often turn out to be a bad idea, mission-critical client-specific logic can greatly benefit from an unique codebase, allowing code to be written - and tested - once. Since end 2016, Kotlin/Native can compile Kotlin code to a binary form, which can be embedded into a native app. In this talk you will learn why it makes sense, and how, to leverage these experimental features and build a cross-platform module reusable on both Android and iOS.<br /><br />Type: Android Everywhere<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [46]
+  language: en
+-
+  id: 43
+  title: "Tools of the Trade"
+  description: "<p>With all the great resources and libraries available, building a new mobile app is easier than it’s ever been! But when your users come to expect your product to be as reliable as running water at a global scale, you’ll need to go above and beyond what’s currently available.<br /><br />Join Ty as he walks down memory lane to cover the history of the Uber app development process. He’ll cover how it grew, the pain points discovered and lessons learned, and the tooling developed and open-sourced to scale to millions of users served by hundreds of contributors across many apps.<br /><br />Topics covered will include: Buck, Uber’s architecture solution, RIBs, Proper Experimentation, Continuous integration, Code Verification and Static Analysis, and the company processes needed to facilitate a large app.<br /><br />Type: Android Development<br />Experience: Expert and senior</p>"
+  subtype: presentation
+  speakers: [47]
+  language: en
+-
+  id: 44
+  title: "Modules in 7 steps"
+  description: "<p>Modular application approach is becoming more and more popular. Apart from obvious benefits like build speed and modules re-usability it gives better encapsulation, configurability, and testability.<br /><br />This talk is about Trainline application evolution from single module to 20+ modules. It describes problems we faced during this journey and shows a few not-so-obvious solutions to those problems.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [48]
+  language: en
+-
+  id: 45
+  title: "Kotlinify your Gradle"
+  description: "<p>The Gradle build tool is based on the JVM, so where does Kotlin fit in that ecosystem? We will see how Kotlin finds its place in that world, would it be by extending Gradle or by using Gradle Plugins with Kotlin.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [49]
+  language: en
+-
+  id: 46
+  title: "Commonly Overlooked Areas of Security"
+  description: "<p>Imagine the following. You're happily coding along when you suddenly realize that there is a serious security flaw with your app. At first you may be in disbelief. You might turn to your co-worker and ask, 'Does this sound right to you?' Then the realization of the magnitude of the problem slowly dawns on you. You might swear, walk outside for fresh air, or even laugh out loud, not knowing how else to respond.<br /><br />Maybe you haven't experienced anything like that. In Clive's talk, you will explore some commonly overlooked areas of Android programming that may pose serious security concerns, so that this doesn't happen to you in the future.<br /><br />Why overlooked? Because most of the issues Clive brings up may seem like it has nothing to do with security, even to an experienced Android developer. Addressing these issues may seem like busy work that someone on the team should do, but no one ends up doing because no time is allotted for it. These issues include, for example, logging, obfuscation, NDK, library dependencies, recent app menu, keystore, etc. Clive's hope for this talk is that we recognize the security implications of these overlooked areas and thus prioritize addressing these issues<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [50]
+  language: en
+-
+  id: 47
+  title: "Adding conversational features to your mobile app"
+  description: "<p>The Google Assistant - your own Google, always ready to help - and its developer platform have been out for more than a year.<br /><br />Besides controlling your music, lights and asking about the weather, Assistant apps have been struggling to get into the users' daily routine. It is time for you to be on the forefront of the revolution by adding some conversational features in your mobile app.<br /><br />In this talk, we're going to explain how you can implement a custom conversational feature in your existing Android or iOS app. Today, mobile apps are the medium people use to get their information and get things done, and is the perfect way of getting them used to this new world of conversational apps.<br /><br />Google is really pushing this new platform forward by adding a plethora of new features to the Google Assistant such as support for more languages, family-friendly apps, an improved app directory and making it available on a lot of devices, from your phone to cars and smart speakers.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [51,52]
+  language: en

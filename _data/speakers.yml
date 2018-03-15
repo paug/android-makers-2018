@@ -542,3 +542,82 @@
     - {name: "site", link: "https://markan.me/"}
     - {name: "site", link: "https://medium.com/@zmarkan"}
     - {name: "github", link: "https://github.com/zmarkan"}
+-
+  id: 46
+  name: "Simone"
+  surname: "Civetta"
+  thumbnailUrl: scivetta.jpg
+  company: "Xebia IT Architects"
+  bio: "Simone is a developer currently working in France and making iOS apps since 2010. He is currently working with great people at Xebia IT Architects in Paris, where he helps teams craft a wide range of mobile software. He devotes his spare time to organising the FrenchKit conference and flying across the World for visiting and conferencing"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/viteinfinite"}
+    - {name: "site", link: "https://viteinfinite.com"}
+-
+  id: 47
+  name: "Ty"
+  surname: "Smith"
+  thumbnailUrl: tsmith.jpg
+  company: "Uber"
+  bio: "Ty has been working on Android since 2009. He is a tech lead at Uber, focusing on the external developer. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/tsmith"}
+    - {name: "site", link: "http://tysmith.me/"}
+    - {name: "github", link: "https://github.com/tyvsmith"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/tyler-smith"}
+-
+  id: 48
+  name: "Oleg"
+  surname: "Petshjonkin"
+  thumbnailUrl: opetshjonkin.jpg
+  company: "Trainline"
+  bio: "Android team lead at Trainline with more than 8 years of mobile development experience from UI to API. Before joining Trainline he was creating applications for different industries including banking, trading and gaming."
+  rockstar: false
+-
+  id: 49
+  name: "Alexander"
+  surname: "Gherschon"
+  thumbnailUrl: agherschon.jpg
+  company: "MyHeritage"
+  bio: "Software developer (mainly Android those last years), creator of @KotlinTLV"
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+"}
+    - {name: "twitter", link: "https://twitter.com/galex"}
+    - {name: "site", link: "http://galex.co.il/"}
+    - {name: "github", link: "https://github.com/galex"}
+-
+  id: 50
+  name: "Clive"
+  surname: "HG Lee"
+  thumbnailUrl: chglee.jpg
+  company: "Ovia Health"
+  bio: "Clive is a Android Developer at Ovia Health, a women's health mobile app company. He has a BS in Computer Science from CU Boulder, and a MS in Computer Science from Stanford University. (He also has a law degree, just for fun). He's been in the software development industry for over six years, including few years developing games at Electronic Arts.<br /><br />Outside of work, he tries to keep his personal apps updated, listen to podcasts (including Android podcasts), and read books. He lives in Boston, MA, with his wonderful wife and two sweet cats."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/CliveHyunGuLee"}
+    - {name: "site", link: "https://medium.com/@hyungulee"}
+-
+  id: 51
+  name: "Jade"
+  surname: "Chabaro"
+  thumbnailUrl: jchabaro.jpg
+  company: "SFEIR"
+  bio: "Technical leader and Scrum Master on mobile and IoT projects (Android Wear), I have a background as a mobile developer. I am passionate by mobile innovation and user experience. I help clients to express there needs and transform their ideas into reality. Since a year, I am interested in voice interface, with the help of the Google Assistant platform."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/jadechabaro"}
+-
+  id: 52
+  name: "Elaine"
+  surname: "Dias Batista"
+  thumbnailUrl: ediasbatista.jpg
+  company: "SFEIR"
+  bio: "Elaine has been working on the mobile development world for the past 5 years as an Android and occasionally iOS developer. She's passionate about mobile development and UI/UX but has become more and more interested about new kinds of computing such as Voice Assistants and IoT. She's a Google Developer Expert for the Google Assistant."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/elainedbatista"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/elaine-dias-batista"}

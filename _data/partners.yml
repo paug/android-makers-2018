@@ -6,6 +6,7 @@
     - {name: "Geronimo", description: "Geronimo. Agence digitale mobile.", link: "http://www.geronimo-agency.com/", imageUrl: "geronimo.png"}
     - {name: "Leboncoin", description: "leboncoin, leader français de la petite annonce", link: "https://www.leboncoin.fr", imageUrl: "leboncoin.jpg"}
     - {name: "iD.apps", description: "iD.apps, move Forward innovation!", link: "http://www.id-apps.fr/", imageUrl: "idapps.png"}
+    - {name: "BlaBlaCar", description: "BlaBlaCar, global leader in long-distance carpooling", link: "http://www.blablacar.fr/", imageUrl: "blablacar.png"}
 -
   group: "Virtual sponsor"
   elements:

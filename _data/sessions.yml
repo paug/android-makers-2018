@@ -231,13 +231,6 @@
   speakers: [33]
   language: fr
 -
-  id: 30
-  title: "Gérer vos tests d'UI de manière simple et efficace"
-  description: "<p>Les test d'UI sont une étape importante dans le processus de création d'une application robuste et stable sur le long terme. Pourtant, une grande majorité des développeurs android sautent cette étape soit par manque de temps soit parce que les tests d'UI sont compliqués et laborieux à écrire. Depuis que nous sommes organisés en feature team au Boncoin et que nos livraisons se font toutes les 3 semaines, nous avons besoin de faciliter et d'automatiser au maximum l'écriture et l'exécution des tests d'UI. C'est pour cela que nous avons mis en place une solution composée de Barista, une surcouche d'espresso, de Swarmer, permettant de gérer et d’exécuter une batterie d’émulateurs et enfin Composer pour orchestrer le tout et générer les rapports de tests. C'est cette solution que nous allons vous présenter outils par outils puis au sein de notre CI avec une démo en situation réelle.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
-  subtype: presentation
-  speakers: [34]
-  language: fr
--
   id: 31
   title: "Remote control your application"
   description: "<p>How can you change something on your application without publishing an app update?<br />Copy, feature activation, A/B test, screen style… Be ready to live-update your applications on demand<br /><br />This talk is about:<ul><li>show all the area that can be remote-controlled, and the one you cannot</li><li>explore few 3rd party services</li><li>hints on how to build your own solution</li></ul>Including high-level vision and technical tips, everyone has something to learn from this presentation<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
@@ -329,13 +322,6 @@
   speakers: [47]
   language: en
 -
-  id: 44
-  title: "Modules in 7 steps"
-  description: "<p>Modular application approach is becoming more and more popular. Apart from obvious benefits like build speed and modules re-usability it gives better encapsulation, configurability, and testability.<br /><br />This talk is about Trainline application evolution from single module to 20+ modules. It describes problems we faced during this journey and shows a few not-so-obvious solutions to those problems.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
-  subtype: presentation
-  speakers: [48]
-  language: en
--
   id: 45
   title: "Kotlinify your Gradle"
   description: "<p>The Gradle build tool is based on the JVM, so where does Kotlin fit in that ecosystem? We will see how Kotlin finds its place in that world, would it be by extending Gradle or by using Gradle Plugins with Kotlin.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
@@ -355,4 +341,95 @@
   description: "<p>The Google Assistant - your own Google, always ready to help - and its developer platform have been out for more than a year.<br /><br />Besides controlling your music, lights and asking about the weather, Assistant apps have been struggling to get into the users' daily routine. It is time for you to be on the forefront of the revolution by adding some conversational features in your mobile app.<br /><br />In this talk, we're going to explain how you can implement a custom conversational feature in your existing Android or iOS app. Today, mobile apps are the medium people use to get their information and get things done, and is the perfect way of getting them used to this new world of conversational apps.<br /><br />Google is really pushing this new platform forward by adding a plethora of new features to the Google Assistant such as support for more languages, family-friendly apps, an improved app directory and making it available on a lot of devices, from your phone to cars and smart speakers.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
   subtype: presentation
   speakers: [51,52]
+  language: en
+-
+  id: 48
+  title: "Add some reality to your app with ArCore"
+  description: "<p>AR and VR are buzzwords that we hear everywhere. Project Tango was the first big step in bringing AR experience to many platforms. But it requires special hardware. ARCore is a fast, performant, Android-scale SDK that enables high-quality augmented reality across millions of qualified mobile devices. During the talk we discuss AR main principles, 3D modeling, object rendering and I will provide some practical tips on how to build AR focused apps.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [53]
+  language: en
+-
+  id: 49
+  title: "Better, Faster Code Reviews in an Agile World"
+  description: "<p>Everyone knows you need to do code reviews, but with more than 2-3 developers, and in a sprint with 10+ tasks in the backlog, this is becoming an issue. This presentation will be about how we have managed to overcome this challenge and how we have made code reviews fast, efficient, and a part of our daily routine (without adding them to the list of tasks). We will emphasize on the Git approach and the methodologies around this and similar tools. We will share all our trials, fails and wins and discuss how we can make this work for you too.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [54,55]
+  language: en
+-
+  id: 50
+  title: "Quickly build your app alone with Firebase."
+  description: "<p>Creating a personal Android app requires us to solve a lot of common challenges. Sometimes some of these challenges require so much time that we start to forget about the product we are building. Firebase can act as a toolbox to give functionality like analytics, databases, messaging and crash reporting so we can move quickly and focus on our users.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [56]
+  language: en
+-
+  id: 51
+  title: "Up close and personal with Nearby"
+  description: "<p>Nearby is a set of APIs that allow you to add features based on proximity in your app. Using these APIs you can share messages, create real-time connections between other devices, and receive messages associated with Bluetooth beacons in the real world.<br /><br />In this talk we'll go over the three components of Nearby: Notifications, Messages and Connections, their characteristics and related tools. We’ll of course take a look at the recently updated APIs that make Nearby tick. You'll learn what the different Nearby features are and how you can use them in your apps. There will be plenty of code samples and taunting of the demo gods to show you what Nearby has to offer.<br /><br />Type: Android Everywhere<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [57]
+  language: en
+-
+  id: 52
+  title: "Hands on with ConstraintLayout"
+  description: "<p>The ConstraintLayout and the UI Editor in Android Studio can seem quite intimidating at first. Both the tool and the view itself are very powerful and provides a lot of options for designing your UI. In this workshop you will be guided through a number of challenges. You will learn how to convert existing LinearLayout and RelativeLayout to create more complicated UI that is only possible to do with ConstraintLayout. You will also get to try out advanced topics such as barriers, animations and chains. After this workshop you will hopefully feel much more prepared to start using ConstraintLayout in your own projects.<br /><br />Type: UX/UI<br />Experience: Beginner and novice</p>"
+  subtype: workshop
+  speakers: [18]
+  language: en
+-
+  id: 53
+  title: "Hands-on Android Architecture & Architecture Components"
+  description: "<p>Android developers, we propose you to come experiment the MVP & MVVM Android architectures! From a simple Android app, we will work on why and how to implement architectures principles. We will see how to go from MVP to MVVM with Android Architecture Components.<br /><br />At the agenda: Kotlin, RxJava, Refactoring, Unit Tests and Android architecture components.<br /><br />Warm up your AndroidStudio!!!<br /><br />Requirements:AndroidStudio 3.0, and Kotlin plugin 1.1.x or + Knowledge: RxJava, Kotlin<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: workshop
+  speakers: [58,59,5]
+  language: en
+-
+  id: 54
+  title: "Let's make some noise with Android"
+  description: "<p>Sound on Android is a topic that is rarely covered, which is why I wanted to shed some lights in my experience with the sound management APIs on Android.<br /><br />So in this talk, we'll touch on how sounds actually work programmatically, and we'll talk about how to play a sound on Android in the most simple way. We will also cover the principle of sound focus, what it is, how and when to use it. We'll see what we can do with MIDI as well. And finally, we'll go deeper in the rabbit hole and get introduced to the lower levels of sounds processing with the help of OpenSL ES and the SuperPowered library.<br /><br />Let's bring the noise.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [60]
+  language: en
+-
+  id: 55
+  title: "Android Auto, vos médias dans votre voiture."
+  description: "<p>Android Auto, une plateforme en forte croissance grâce aux constructeurs automobiles qui l’intègrent dans leurs voitures et soutenu par énormément d’entreprise de l’Open Automotive Alliance. Aujourd'hui, on peut être de plus en plus en contact avec nos médias favoris, y compris dans notre voiture, même en roulant à 250km/h sur le périph.<br /><br />Chez Canal+, nous avons sauté le pas et mis en production une application Android Auto. Le but de cette présentation sera de vous introduire au joyeux monde du développement d’application pour les voitures connectées.<br /><br />Au programme, une introduction à Android Auto, comment tester l'application (sans voiture, ma boite n'a pas voulu installer de Renault Espace dans l'open space). Mais aussi, comment intégrer Exoplayer, les MediaSession, ainsi qu'une explication des contraintes très présentes, notamment au niveau de la sécurité bien évidemment, mais rien d'insurmontable vous pouvez me faire confiance.<br /><br />Type: Android Everywhere<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [61]
+  language: fr
+-
+  id: 56
+  title: "Explore Kotlin.Collections API"
+  description: "<p>Kotlin is out here for a while now but many developers don’t use full power of it and write Java-style of Kotlin. <code>let</code> and <code>apply</code> are the only language features get adopted. This talk is aimed to overcome a small learning curve in one very common thing developers work every day with: collections. Backed by familiar Java collection API but supplemented by a set of handy functions, Kotlin collection API becomes a versatile tool that helps to develop faster and makes code clearer and nicer.<br /><br/>In this talk we’ll look into most common functions and how to mix and apply them into practice.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [62]
+  language: en
+-
+  id: 57
+  title: "Using Support Library for Android Oreo : Fonts, Emoji and Text"
+  description: "<p>Android Oreo introduced exciting text changes that make it easier to use custom fonts, communicate with emojis, reduce APK size, and expand or contract textviews dynamically. Luckily, the Support Libraries from v26 onwards allow us to implement these new features with backwards compatibility.<br /><br />In this talk, you will learn how to implement these text changes with the help of the Support Libraries, and their limitations. You will also learn about how they are natively implemented in Android Oreo versus the Support Libraries.<br /><br />At the end of this talk, you will have an increased understanding of the inner workings of Fonts in XML, Downloadable Fonts, EmojiCompat and autosizing of TextViews, as well as be ready to update your apps with them without the fear of the unknown!<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [63]
+  language: en
+-
+  id: 58
+  title: "Travelling across Asia - Our journey from Java to Kotlin"
+  description: "<p>Kotlin brought new excitement to Android development, but the thought of converting a Java codebase to Kotlin can be quite daunting. Where do you start? What problems will you run into? How long will it take?<br /><br />Deliveroo’s journey to Kotlin started over a year ago. This session will take you through their journey, the issues they’ve faced and how Kotlin can improve your codebase, your app and your sanity.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [64]
+  language: en
+-
+  id: 59
+  title: "Android DevOps: Espresso on Genymotion in AWS"
+  description: "<p>How do you create a mobile-only bank account that customers trust enough to deposit money in? The mobile application needs to be high quality. After evaluating and comparing what other companies, small and big, do to test their android applications and the available technologies (device farms, hypervisors...), we picked Genymotion on Demand and built a continuous integration system in the AWS cloud. The cost and coverage of running tens of thousands of Espresso tests every day are tracked. We have fragmentation of OS versions and screen sizes. Tests are sharded to reduce build time. Videos of tests are recorded. JUnit test reports are generated. We had to adapt to open source libraries breaking because of new versions of the Android toolchain. This is a multi-technology stack using Android, Bash, Gradle, Cloud Formation, Teamcity, Slack, C++, Python, Groovy, Artifactory... This is about sharing the journey and what we learned along the way, from building internal buy-in to providing feedback to Genymotion itself and the many technical things that broke along the way. We are using this system and plan to expand it with Appium tests for application upgrade and stress testing.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [65]
+  language: en
+-
+  id: 60
+  title: "Party like it's 1970: Conversational interfaces are back (into your Android app)"
+  description: "<p>Behold the promise land of AI. Machine learning has brought natural language processing right into our backyards and with it, the possibilities of different ways of interaction, such as conversations. But the challenges have evolved, as recognizing the input can be done via an API (like DialogFlow), we also need to consider the interface and how to give an experience so natural that it seem like a human conversation. 'Oh hi, how are you holding up? because I'm a potato' it's not longer enough, we need conversationally-enabled Android apps built with a different set of design concepts. In this talk we'll review examples of conversational interfaces, benefits of having one on your app, and the core principles for the design process of conversational experiences.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [66,67]
   language: en

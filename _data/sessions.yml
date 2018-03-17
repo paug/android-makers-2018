@@ -177,7 +177,7 @@
 -
   id: 22
   title: "Les mauvaises surcouches constructeurs sont-elles du passé ?"
-  description: "<p>Malgré tout mes conseils éclairés mes utilisateurs n'ont pas tous acheté un Pixel ou un Nexus. Certains ont encore une version modifiée d'Android qui pose des problèmes pour utiliser mon application.<br />Même des choses qui nous semblent pourtant acquises peuvent poser problème. Saviez vous que la classe StringUtils est absente de certains téléphones 'pour des raison d'optimisation' ? Saviez vous que certains téléphone refusent de serialiser des enums en JSON ?<br /><br />Chez Virtuo, nous essayons de satisfaire même l'utilisateur qui a importé un téléphone chinois noté 1/10 sur FRAndroid à 10€ malgré tous les conseils de ses amis. Comment ? En trois étapes :<ul><li>1) Détecter et qualifier le problème en production</li><li>2) Corriger et tester même sans acheter le-dit téléphone chinois</li><li>3) Recontacter l'utilisateur pour le faire revenir, et consommer dans l'application</li></ul><br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  description: "<p>Malgré tout mes conseils éclairés mes utilisateurs n'ont pas tous acheté un Pixel ou un Nexus. Certains ont encore une version modifiée d'Android qui pose des problèmes pour utiliser mon application.<br />Même des choses qui nous semblent pourtant acquises peuvent poser problème. Saviez vous que la classe StringUtils est absente de certains téléphones “pour des raison d'optimisation” ? Saviez vous que certains téléphone refusent de serialiser des enums en JSON ?<br /><br />Chez Virtuo, nous essayons de satisfaire même l'utilisateur qui a importé un téléphone chinois noté 1/10 sur FRAndroid à 10€ malgré tous les conseils de ses amis. Comment ? En trois étapes :<ul><li>1) Détecter et qualifier le problème en production</li><li>2) Corriger et tester même sans acheter le-dit téléphone chinois</li><li>3) Recontacter l'utilisateur pour le faire revenir, et consommer dans l'application</li></ul><br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
   subtype: presentation
   speakers: [25]
   language: fr
@@ -331,7 +331,7 @@
 -
   id: 46
   title: "Commonly Overlooked Areas of Security"
-  description: "<p>Imagine the following. You're happily coding along when you suddenly realize that there is a serious security flaw with your app. At first you may be in disbelief. You might turn to your co-worker and ask, 'Does this sound right to you?' Then the realization of the magnitude of the problem slowly dawns on you. You might swear, walk outside for fresh air, or even laugh out loud, not knowing how else to respond.<br /><br />Maybe you haven't experienced anything like that. In Clive's talk, you will explore some commonly overlooked areas of Android programming that may pose serious security concerns, so that this doesn't happen to you in the future.<br /><br />Why overlooked? Because most of the issues Clive brings up may seem like it has nothing to do with security, even to an experienced Android developer. Addressing these issues may seem like busy work that someone on the team should do, but no one ends up doing because no time is allotted for it. These issues include, for example, logging, obfuscation, NDK, library dependencies, recent app menu, keystore, etc. Clive's hope for this talk is that we recognize the security implications of these overlooked areas and thus prioritize addressing these issues<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  description: "<p>Imagine the following. You're happily coding along when you suddenly realize that there is a serious security flaw with your app. At first you may be in disbelief. You might turn to your co-worker and ask, “Does this sound right to you?” Then the realization of the magnitude of the problem slowly dawns on you. You might swear, walk outside for fresh air, or even laugh out loud, not knowing how else to respond.<br /><br />Maybe you haven't experienced anything like that. In Clive's talk, you will explore some commonly overlooked areas of Android programming that may pose serious security concerns, so that this doesn't happen to you in the future.<br /><br />Why overlooked? Because most of the issues Clive brings up may seem like it has nothing to do with security, even to an experienced Android developer. Addressing these issues may seem like busy work that someone on the team should do, but no one ends up doing because no time is allotted for it. These issues include, for example, logging, obfuscation, NDK, library dependencies, recent app menu, keystore, etc. Clive's hope for this talk is that we recognize the security implications of these overlooked areas and thus prioritize addressing these issues<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
   subtype: presentation
   speakers: [50]
   language: en
@@ -429,7 +429,56 @@
 -
   id: 60
   title: "Party like it's 1970: Conversational interfaces are back (into your Android app)"
-  description: "<p>Behold the promise land of AI. Machine learning has brought natural language processing right into our backyards and with it, the possibilities of different ways of interaction, such as conversations. But the challenges have evolved, as recognizing the input can be done via an API (like DialogFlow), we also need to consider the interface and how to give an experience so natural that it seem like a human conversation. 'Oh hi, how are you holding up? because I'm a potato' it's not longer enough, we need conversationally-enabled Android apps built with a different set of design concepts. In this talk we'll review examples of conversational interfaces, benefits of having one on your app, and the core principles for the design process of conversational experiences.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  description: "<p>Behold the promise land of AI. Machine learning has brought natural language processing right into our backyards and with it, the possibilities of different ways of interaction, such as conversations. But the challenges have evolved, as recognizing the input can be done via an API (like DialogFlow), we also need to consider the interface and how to give an experience so natural that it seem like a human conversation. “Oh hi, how are you holding up? because I'm a potato” it's not longer enough, we need conversationally-enabled Android apps built with a different set of design concepts. In this talk we'll review examples of conversational interfaces, benefits of having one on your app, and the core principles for the design process of conversational experiences.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
   subtype: presentation
   speakers: [66,67]
+  language: en
+-
+  id: 61
+  title: "Kotlin Backstage"
+  description: "<p>Kotlin offers a modern language design in contrast to Java, while at the same time maintaining full Java interoperably: Data classes, properties, delegation, inline functions, string interpolation and much more. But, if Java can't offer these features how come Kotlin can? What does Kotlin do to make it possible to use this Syntactic sugar?<br /><br />In this talk, we will go backstage and dig into the Bytecode that Kotlin generates to make all the features we love work on a runtime that technically does not support them. We will look at the impact kotlin code generations has on method count. Get a deeper understanding of how Object and companion object work and see the implications of the use of either under different circumstances. Finally look at common patterns that can help reduce the size of both the bytecode and method count.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [68]
+  language: en
+-
+  id: 62
+  title: "ADB, Break On Through To the Other Side"
+  description: "<p>ADB is maybe one of the most used tools by the Android developers. But it is for sure the less known. If you ever wondered how ADB is working? Why is it faster now? How Android Studio is using it under the hood? Why my ADB server is killed sometimes? And by the way, what this server is about? This talk is made for you.<br /><br />I spent several weeks diving into the ADB source code and I learned interesting things about this project, its history, the internals, the interaction with the developers tools, ... It's time for me to share this with you.<br /><br />Here is an outline of the presentation:<ul><li>How ADB works (the big picture)</li><li>Some ADB commands you maybe never heard about</li><li>The history of the project</li><li>The ADB Internals (the ADB protocols, the structure of the software)</li><li>How development tools are using ADB?</li></ul><br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [69]
+  language: en
+-
+  id: 63
+  title: "Frustration-free orientation changes"
+  description: "<p>Many apps do unexpected things when a user rotates the device. A message that has been painfully composed using the on-screen keyboard is just gone. Dialogs are disappearing. Data that took a while to load and display is gone and now the app is making the user wait again.<br /><br />All of this is very frustrating to users. But if you know that an Activity is destroyed and then recreated on orientation change, this is not too surprising to you. Still, many beginners don’t know what is going on behind the scenes and consequently come up with flawed or incomplete ways to deal with the lifetime of an Activity.<br /><br />If you have ever “fixed” a bug by changing your app’s manifest to manually handle orientation changes or by locking the device orientation, this talk is for you. It aims to give attendees a better understanding of the Activity lifetime/lifecycle. And we will look at the fundamental ways to deal with this situation. So you can write better apps.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [70]
+  language: en
+-
+  id: 64
+  title: "Bootstrapping multiplatform development and Android Wear"
+  description: "<p>We will kick off with an update from the Android Wear team post Baselworld (the watch world's leading trade show) and talk about some of the practical challenges (and solutions!) to bootstrap multiplatform development.<br /><br />Type: Android Everywhere<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [71]
+  language: en
+-
+  id: 65
+  title: "Android Leaks at Android Makers take 2"
+  description: "<p>Android Leaks en live, ils reviennent, vous serez toujours aussi déçu ... ou pas ... ou peut-être bien que si !<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [72,60]
+  language: en
+-
+  id: 66
+  title: "Kotlin DSLs"
+  description: "<p>Kotlin is not just about null safety or data classes. Kotlin has much more to offer. One of the nice things is the ability to use Kotlin's features to create domain specific languages (DSLs).<br /><br />In this talk you will see samples of DSLs you can use in your Android projects and learn how they work.<br /><br />Kotlin DSLs are actually made of many simple Kotlin features - some of which you surely already use, some of which are a bit more obscure. But combined together they give us a powerful way to create nice DSLs.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [73]
+  language: en
+-
+  id: 67
+  title: "Pragmatic Testing"
+  description: "<p>You open a pull request only to find that some tests are now failing. What goes through your mind?<br /><br />Did I break something? Do I need to update the tests? Just what is that test testing anyway?<br /><br />Ideally, #2 would almost never be the case, as rewriting a test usually means it's lost the regression testing value of its original form. How can we get there though? There’s no one right way to write tests, and it’s surprisingly easy to fall into the trap of writing change tests. There are good patterns you can leverage to scale them and maximize their long term value. This talk will detail simple patterns you can follow for healthy, pragmatic testing with a focus on test design, correctness, and how these values can translate into better overall API design of your code.<br /><br />Type: Android Development<br />Experience: Beginner and novice</p>"
+  subtype: presentation
+  speakers: [74]
   language: en

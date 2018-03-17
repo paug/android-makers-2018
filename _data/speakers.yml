@@ -786,3 +786,101 @@
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/adrian-catalan"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/es/GDG-Guatemala/"}
+-
+  id: 68
+  name: "Mitchell"
+  surname: "Tilbrook"
+  thumbnailUrl: mtilbrook.jpg
+  company: "Moneytree"
+  bio: "Mitchell Tilbrook is a Mobile Developer based in Sydney, Australia, and works remotely for a Japanese company in Tokyo. Mitchell's primary focus is mobile development for Android, with some iOS development. Mitchell is also a functional enthusiast using F#, Reason, and Elixir. When not coding you can find Mitchell at most of the tech meetups in Sydney recording the talks, editing, and publish all the tech talks on the ANZCoders Youtube channel."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/sir_tilbrook"}
+    - {name: "site", link: "http://marukami.github.io/"}
+    - {name: "github", link: "https://github.com/marukami"}
+-
+  id: 69
+  name: "Eyal"
+  surname: "Lezmy"
+  thumbnailUrl: elezmy.jpg
+  company: "Qonto"
+  bio: "<ul><li>Treasurer at the Paris Android User Group</li><li>Co-organizer of Android Makers in Paris</li><li>Google Developer Expert Android and IoT</li></ul>I've been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, and I finally worked several years on Genymotion, an Android emulator. I recently joined Qonto a bank for freelancers, startups and SMBs."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY"}
+    - {name: "twitter", link: "https://twitter.com/Eyal_Lezmy"}
+    - {name: "site", link: "http://eyal.fr"}
+    - {name: "github", link: "https://github.com/eyal-lezmy"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/eyal-lezmy"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
+-
+  id: 70
+  name: ""
+  surname: "Cketti"
+  thumbnailUrl: cketti.jpg
+  company: ""
+  bio: "Cketti is a freelancing Android developer living in Berlin. He has been developing for Android since Cupcake and is co-organizing the monthly Android developer Berlindroid. He’s also the maintainer of the open source email app K-9 Mail and author of some small libraries."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/cketti"}
+    - {name: "site", link: "http://cketti.de/"}
+    - {name: "github", link: "https://github.com/cketti"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.meetup.com/GDG-Berlin-Android/"}
+-
+  id: 71
+  name: "Hoi"
+  surname: "Lam"
+  thumbnailUrl: hlam.jpg
+  company: "Google"
+  bio: "Hoi is the Lead Developer Advocate for Android Wear and is an IoT panel expert for the Institute of Engineering and Technology. He worked on the launch of Google Cast / Chromecast in Europe, Android Wear, Google Glass and the Google beacon platform.<br /><br />Before Google, he founded Exahive disrupting the mobile commerce market with new tech and business models. Hoi was an Equity Research VP at Deutsche Bank and Citigroup advising technology executives.<br /><br />Hoi holds a Master and Bachelors in Space Engineering from the University of Cambridge."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+HoiLam"}
+    - {name: "twitter", link: "https://twitter.com/hoitab"}
+-
+  id: 72
+  name: "Benjamin"
+  surname: "Monjoie"
+  thumbnailUrl: bmonjoie.jpg
+  company: "Appkers"
+  bio: "Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina as lead Android developer. Since July 2016, he started his carrer as a freelancer. Through his work, he does his best to share his passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. He stays closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BenjaminMonjoieXzan"}
+    - {name: "twitter", link: "https://twitter.com/Xzan"}
+    - {name: "site", link: "https://medium.com/@xzan"}
+    - {name: "site", link: "http://appkers.com/"}
+    - {name: "github", link: "https://github.com/bmonjoie"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Namur-Android/"}
+-
+  id: 73
+  name: "Wolfram"
+  surname: "Rittmeyer"
+  thumbnailUrl: writtmeyer.jpg
+  company: "OpenMinds"
+  bio: "Wolfram is an Android developer since 2012 and has been blogging about it ever since. He’s very active in the Android community, likes to speak at devfests and conferences and is co-organizer of the GDG, Düsseldorf. He's an Google Developer Expert for Android.<br /><br />Of course not everything is tech. As a family guy Wolfram is a proud father of his two sons Linus and Niklas. Funnily they are also a nice source of inspiration when it comes to new ideas for tech use."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+WolframRittmeyer"}
+    - {name: "twitter", link: "https://twitter.com/RittmeyerW"}
+    - {name: "site", link: "https://www.grokkingandroid.com/"}
+    - {name: "site", link: "http://www.wolfram-rittmeyer.de/"}
+    - {name: "github", link: "https://github.com/writtmeyer"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/wolfram-rittmeyer"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.gdg-dus.de/"}
+-
+  id: 74
+  name: "Zac"
+  surname: "Sweers"
+  thumbnailUrl: zsweers.jpg
+  company: "Uber"
+  bio: "Zac is a mobile engineer at Uber with primary focus areas in Android, code gen, Kotlin, OSS, and avoiding sniffly APIs. He’s the creator of a few open source libraries like AutoDispose and Barber, and active contributor to several more."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/pandanomic"}
+    - {name: "site", link: "http://hzsweers.github.io/"}
+    - {name: "github", link: "https://github.com/hzsweers"}

@@ -315,14 +315,14 @@
   name: "Cyril"
   surname: "Mottier"
   thumbnailUrl: cmottier.jpg
-  company: "Zen.ly"
+  company: "Zenly"
   bio: "Cyril Mottier is Product Engineering Lead at Zenly/Snapchat. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source libraries and giving talks. His motto: “Do less, but do it insanely great”."
   rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
     - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
     - {name: "github", link: "https://github.com/cyrilmottier"}
-    - {name: "site", link: "http://cyrilmottier.com"}
+    - {name: "site", link: "https://cyrilmottier.com"}
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/cyril-mottier"}
 -

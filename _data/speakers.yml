@@ -9,6 +9,8 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+RomainGuy"}
     - {name: "twitter", link: "https://twitter.com/romainguy"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
   id: 2
   name: "Chet"
@@ -21,21 +23,8 @@
     - {name: "google-plus", link: "https://plus.google.com/+ChetHaase"}
     - {name: "twitter", link: "https://twitter.com/chethaase"}
     - {name: "site", link: "https://medium.com/@chethaase"}
--
-  id: 3
-  name: "Cyril"
-  surname: "Mottier"
-  thumbnailUrl: cmottier.jpg
-  company: "Zen.ly"
-  bio: "Cyril Mottier is Product Engineering Lead at Zenly/Snapchat. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source libraries and giving talks. His motto: “Do less, but do it insanely great”."
-  rockstar: false
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
-    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
-    - {name: "github", link: "https://github.com/cyrilmottier"}
-    - {name: "site", link: "http://cyrilmottier.com"}
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
   id: 4
   name: "Nicolas"
@@ -47,6 +36,8 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+NicolasRoard"}
     - {name: "twitter", link: "https://twitter.com/camaelon"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
   id: 5
   name: "Florina"
@@ -59,6 +50,8 @@
     - {name: "twitter", link: "https://twitter.com/FMuntenescu"}
     - {name: "site", link: "https://medium.com/@florina.muntenescu"}
     - {name: "github", link: "https://github.com/florina-muntenescu"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
   id: 6
   name: "Wojtek"
@@ -72,6 +65,8 @@
     - {name: "twitter", link: "https://twitter.com/wkalic"}
     - {name: "site", link: "https://medium.com/@wkalicinski"}
     - {name: "github", link: "https://github.com/wojtek-kalicinski"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
   id: 7
   name: "Vadim"
@@ -86,6 +81,8 @@
     - {name: "site", link: "http://stackoverflow.com/users/3022177/vadim-caen"}
     - {name: "site", link: "http://about.vcaen.com/"}
     - {name: "github", link: "https://github.com/vcaen"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
   id: 8
   name: "Jerome"
@@ -94,6 +91,240 @@
   company: "Google"
   bio: "After a stint as a theoretical physicist, I chose to become a software engineer and for the past three years I have worked at Google on the Android Studio team. I have mostly contributed to developing visual tools, most recently focusing on our layout editor."
   rockstar: false
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
+  id: 73
+  name: "Wolfram"
+  surname: "Rittmeyer"
+  thumbnailUrl: writtmeyer.jpg
+  company: "OpenMinds"
+  bio: "Wolfram is an Android developer since 2012 and has been blogging about it ever since. He’s very active in the Android community, likes to speak at devfests and conferences and is co-organizer of the GDG, Düsseldorf. He's an Google Developer Expert for Android.<br /><br />Of course not everything is tech. As a family guy Wolfram is a proud father of his two sons Linus and Niklas. Funnily they are also a nice source of inspiration when it comes to new ideas for tech use."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+WolframRittmeyer"}
+    - {name: "twitter", link: "https://twitter.com/RittmeyerW"}
+    - {name: "site", link: "https://www.grokkingandroid.com/"}
+    - {name: "site", link: "http://www.wolfram-rittmeyer.de/"}
+    - {name: "github", link: "https://github.com/writtmeyer"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/wolfram-rittmeyer"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.gdg-dus.de/"}
+-
+  id: 13
+  name: "Alex"
+  surname: "Ruiz"
+  thumbnailUrl: aruiz.jpg
+  company: "Google"
+  bio: "Software Engineer working on Android Studio at Google."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/alexruiz"}
+    - {name: "github", link: "https://github.com/alexruiz"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
+  id: 14
+  name: "Nick"
+  surname: "Butcher"
+  thumbnailUrl: nbutcher.jpg
+  company: "Google"
+  bio: "Nick is an Android designer & developer who helps other designers and developers to understand and create beautiful material design apps."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+NickButcher"}
+    - {name: "twitter", link: "https://twitter.com/crafty"}
+    - {name: "site", link: "https://medium.com/@crafty"}
+    - {name: "github", link: "https://github.com/nickbutcher"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
+  id: 24
+  name: "Ben"
+  surname: "Weiss"
+  thumbnailUrl: bweiss.jpg
+  company: "Google"
+  bio: "Ben is a Developer Programs Engineer at the Android Developer Relations team at Google. He’s been working with Android since the first public release. Recently his focus was on Animations, Transitions, Android Instant Apps and Kotlin."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BenjaminWeiss"}
+    - {name: "twitter", link: "https://twitter.com/keyboardsurfer"}
+    - {name: "github", link: "https://github.com/keyboardsurfer"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
+  id: 71
+  name: "Hoi"
+  surname: "Lam"
+  thumbnailUrl: hlam.jpg
+  company: "Google"
+  bio: "Hoi is the Lead Developer Advocate for Android Wear and is an IoT panel expert for the Institute of Engineering and Technology. He worked on the launch of Google Cast / Chromecast in Europe, Android Wear, Google Glass and the Google beacon platform.<br /><br />Before Google, he founded Exahive disrupting the mobile commerce market with new tech and business models. Hoi was an Equity Research VP at Deutsche Bank and Citigroup advising technology executives.<br /><br />Hoi holds a Master and Bachelors in Space Engineering from the University of Cambridge."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+HoiLam"}
+    - {name: "twitter", link: "https://twitter.com/hoitab"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
+  id: 21
+  name: "Britt"
+  surname: "Barak"
+  thumbnailUrl: bbarak.jpg
+  company: ""
+  bio: "Britt is a Google Developer Expert for Android, born and raised in Israel, the “Startup Nation”, where she has started and lead the mobile teams on various startup companies.<br /><br />Passionate about Android, she co-lead Android Academy TLV which is one of the largest and most active Android communities out there. She is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development. Britt is also Women Techmakers Israel community lead and act to promote diversity in the tech industry."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/brittbarak"}
+    - {name: "site", link: "www.facebook.com/britt.barak"}
+    - {name: "site", link: "https://medium.com/@britt.barak"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/britt-barak"}
+    - {abbr: "WT", title: "Women TechMakers", url: "https://www.meetup.com/Women-Techmakers-Israel/"}
+-
+  id: 69
+  name: "Eyal"
+  surname: "Lezmy"
+  thumbnailUrl: elezmy.jpg
+  company: "Qonto"
+  bio: "<ul><li>Treasurer at the Paris Android User Group</li><li>Co-organizer of Android Makers in Paris</li><li>Google Developer Expert Android and IoT</li></ul>I've been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, and I finally worked several years on Genymotion, an Android emulator. I recently joined Qonto a bank for freelancers, startups and SMBs."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY"}
+    - {name: "twitter", link: "https://twitter.com/Eyal_Lezmy"}
+    - {name: "site", link: "http://eyal.fr"}
+    - {name: "github", link: "https://github.com/eyal-lezmy"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/eyal-lezmy"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
+-
+  id: 67
+  name: "Adrián"
+  surname: "Catalan"
+  thumbnailUrl: acatalan.jpg
+  company: "Bit&lk'"
+  bio: "Adrián has been involved in software industry for 15+ years, working both in web and mobile apps. Facebook Developers Circle Guatemala organizer, GDG Guatemala, GuatemalaJS and Nodebots former co-organizer. Currently he leads the Innovation Lab at Galileo University and is a Google Developer Expert(GDE) for Android, IoT and Firebase."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+AdrianCatalan"}
+    - {name: "twitter", link: "https://twitter.com/ykro"}
+    - {name: "github", link: "https://github.com/ykro"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/adrian-catalan"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/es/GDG-Guatemala/"}
+-
+  id: 47
+  name: "Ty"
+  surname: "Smith"
+  thumbnailUrl: tsmith.jpg
+  company: "Uber"
+  bio: "Ty has been working on Android since 2009. He is a tech lead at Uber, focusing on the external developer. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/tsmith"}
+    - {name: "site", link: "http://tysmith.me/"}
+    - {name: "github", link: "https://github.com/tyvsmith"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/tyler-smith"}
+-
+  id: 52
+  name: "Elaine"
+  surname: "Dias Batista"
+  thumbnailUrl: ediasbatista.jpg
+  company: "SFEIR"
+  bio: "Elaine has been working on the mobile development world for the past 5 years as an Android and occasionally iOS developer. She's passionate about mobile development and UI/UX but has become more and more interested about new kinds of computing such as Voice Assistants and IoT. She's a Google Developer Expert for the Google Assistant."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/elainedbatista"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/elaine-dias-batista"}
+-
+  id: 57
+  name: "Hugo"
+  surname: "Visser"
+  thumbnailUrl: hvisser.jpg
+  company: "Little Robots"
+  bio: "Hugo is a software engineer who has worked on enterprise, desktop and mobile software products. Since the introduction of Android he has been steadily focussing on developing for Android only, resulting in his first app “Rainy Days” in 2009. He’s a Google Developer Expert for Android and international speaker at Android events around the world. With his company Little Robots, he focuses on smart use of Android in every possible way."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://google.com/+hugovisser"}
+    - {name: "twitter", link: "https://twitter.com/botteaap"}
+    - {name: "site", link: "https://www.littlerobots.nl/"}
+    - {name: "github", link: "https://github.com/hvisser"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/hugo-visser"}
+-
+  id: 23
+  name: "Jeroen"
+  surname: "Mols"
+  thumbnailUrl: jmols.jpg
+  company: "Philips Hue"
+  bio: "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process, he refocussed his master in Electrical engineering to become an Android developer. Starting off with highly technical prototypes for Wi-Fi connected products, he has built his own file-sharing platform (Wi-FileTransfer). Currently, he is an Android GDE and the lead Android developer at Philips Hue.<br /><br />One of a kind, never-been-done-before apps are what he enjoys most. So far Jeroen helped realize four huge connected products, various high profile apps, actively contributes to open source and loves interacting with the Android community. He is a passionate blogger and enjoys speaking at conferences."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/molsjeroen"}
+    - {name: "site", link: "https://jeroenmols.com/"}
+    - {name: "github", link: "https://github.com/JeroenMols"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/jeroen-mols"}
+-
+  id: 22
+  name: "Taylor"
+  surname: "Ling"
+  thumbnailUrl: tling.jpg
+  company: "Fabulous"
+  bio: "Taylor is a Digital Product Designer and is always passionate about great user experience. Previously he worked at a 3D printing company on their life-saving medical software before joining Snappymob, a startup in Kuala Lumpur, which allows him to make a difference in the local mobile app development scene by creating high-quality apps that users love. He is also the design co-founder of Fabulous, a habit-forming companion that received Material Design Award from Google Design team."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+TaylorLing"}
+    - {name: "twitter", link: "https://twitter.com/taylorling"}
+    - {name: "site", link: "https://dribbble.com/taylorling"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/taylor-ling"}
+-
+  id: 18
+  name: "Erik"
+  surname: "Hellman"
+  thumbnailUrl: ehellman.jpg
+  company: "Hellsoft"
+  bio: "Software developer with 20 years of professional experience. Erik has worked with Android since the earliest day."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ErikHellman"}
+    - {name: "twitter", link: "https://twitter.com/ErikHellman"}
+    - {name: "site", link: "https://hellsoft.se/@erikhellman"}
+    - {name: "github", link: "https://github.com/ErikHellman"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/erik-hellman"}
+-
+  id: 19
+  name: "Lisa"
+  surname: "Wray"
+  thumbnailUrl: lwray.jpg
+  company: "Present"
+  bio: "Lisa Wray is an Android developer, speaker, and advocate specializing in user interfaces. She has a B.S. from M.I.T. in music and computer science, and is an Android Google Developer Expert. She previously worked at Google on the Developer Relations team on Android, Google Glass, and Android Wear, at the New York Times, and at Genius, a Brooklyn-based music startup. She currently works at Present, a social network for women, and lives in Seattle."
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+LisaWrayZeitouni"}
+    - {name: "twitter", link: "https://twitter.com/lrwray"}
+    - {name: "site", link: "http://www.xwray.com/"}
+    - {name: "github", link: "https://github.com/lisawray"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/lisa-wray"}
+-
+  id: 3
+  name: "Cyril"
+  surname: "Mottier"
+  thumbnailUrl: cmottier.jpg
+  company: "Zen.ly"
+  bio: "Cyril Mottier is Product Engineering Lead at Zenly/Snapchat. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source libraries and giving talks. His motto: “Do less, but do it insanely great”."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+CyrilMottier"}
+    - {name: "twitter", link: "https://twitter.com/cyrilmottier"}
+    - {name: "github", link: "https://github.com/cyrilmottier"}
+    - {name: "site", link: "http://cyrilmottier.com"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/cyril-mottier"}
 -
   id: 9
   name: "Etienne"
@@ -106,7 +337,95 @@
     - {name: "twitter", link: "https://twitter.com/kanawish"}
     - {name: "github", link: "https://github.com/kanawish"}
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/etienne-caron"}
+-
+  id: 15
+  name: "Sebastiano"
+  surname: "Poggi"
+  thumbnailUrl: spoggi.jpg
+  company: "Novoda"
+  bio: "Emerging from the foggy plains of northern Italy after working at a smartwatch startup, Sebastiano moved with his curls to London to do great things.<br /><br />Regularly speaking at conferences and brain-dumping on the 'net got him into the Google Developer Expert programme in 2014. Nowadays he's obsessing over UI and UX and coding some rather cool apps at Novoda."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/seebrock3r"}
+    - {name: "site", link: "https://tips.seebrock3r.me"}
+    - {name: "github", link: "https://github.com/rock3r"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/sebastiano-poggi
+"}
+-
+  id: 30
+  name: "Qian"
+  surname: "Jin"
+  thumbnailUrl: qjin.jpg
+  company: "Xebia"
+  bio: "Android developer, IoT maker, Deep Learning newbie, GDE IoT"
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+QianJIN_HZ"}
+    - {name: "twitter", link: "https://twitter.com/bonbonking"}
+    - {name: "site", link: "http://potatobon.com/"}
+    - {name: "github", link: "https://github.com/jinqian"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/qian-jin"}
+-
+  id: 31
+  name: "Marc"
+  surname: "Poppleton"
+  thumbnailUrl: mpoppleton.jpg
+  company: "Orange Labs"
+  bio: "I'm a Software Engineer at Orange Labs and tinker with code for Android since version 1.0 Apple Pie. I'm also the leader of the GDG Code d'Armor. The rest of the time, I'm Robopop, cyber-father and husband, half flesh and bones, half carbonfiber and steel."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/MarcPoppleton+"}
+    - {name: "twitter", link: "https://twitter.com/marcpoppleton"}
+    - {name: "site", link: "http://www.marc-poppleton.com/"}
+    - {name: "github", link: "https://github.com/marcpoppleton"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/fr-FR/GDG-Code-dArmor"}
+-
+  id: 70
+  name: ""
+  surname: "Cketti"
+  thumbnailUrl: cketti.jpg
+  company: ""
+  bio: "Cketti is a freelancing Android developer living in Berlin. He has been developing for Android since Cupcake and is co-organizing the monthly Android developer Berlindroid. He’s also the maintainer of the open source email app K-9 Mail and author of some small libraries."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/cketti"}
+    - {name: "site", link: "http://cketti.de/"}
+    - {name: "github", link: "https://github.com/cketti"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.meetup.com/GDG-Berlin-Android/"}
+-
+  id: 72
+  name: "Benjamin"
+  surname: "Monjoie"
+  thumbnailUrl: bmonjoie.jpg
+  company: "Appkers"
+  bio: "Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina as lead Android developer. Since July 2016, he started his carrer as a freelancer. Through his work, he does his best to share his passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. He stays closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application."
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BenjaminMonjoieXzan"}
+    - {name: "twitter", link: "https://twitter.com/Xzan"}
+    - {name: "site", link: "https://medium.com/@xzan"}
+    - {name: "site", link: "http://appkers.com/"}
+    - {name: "github", link: "https://github.com/bmonjoie"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Namur-Android/"}
+-
+  id: 32
+  name: "Djavan"
+  surname: "Bertrand"
+  thumbnailUrl: dbertrand.jpg
+  company: "Parrot"
+  bio: "Développeur mobile (iOS & Android) depuis plus de 6 ans, je travaille à Parrot depuis 4 ans sur le SDK pour drones. Je fais aussi parti du Paris Android User Group."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Djava7"}
+    - {name: "github", link: "https://github.com/djavan-bertrand"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
 -
   id: 10
   name: "Raimon"
@@ -143,44 +462,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/jovzoran"}
 -
-  id: 13
-  name: "Alex"
-  surname: "Ruiz"
-  thumbnailUrl: aruiz.jpg
-  company: "Google"
-  bio: "Software Engineer working on Android Studio at Google."
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/alexruiz"}
-    - {name: "github", link: "https://github.com/alexruiz"}
--
-  id: 14
-  name: "Nick"
-  surname: "Butcher"
-  thumbnailUrl: nbutcher.jpg
-  company: "Google"
-  bio: "Nick is an Android designer & developer who helps other designers and developers to understand and create beautiful material design apps."
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+NickButcher"}
-    - {name: "twitter", link: "https://twitter.com/crafty"}
-    - {name: "site", link: "https://medium.com/@crafty"}
-    - {name: "github", link: "https://github.com/nickbutcher"}
--
-  id: 15
-  name: "Sebastiano"
-  surname: "Poggi"
-  thumbnailUrl: spoggi.jpg
-  company: "Novoda"
-  bio: "Emerging from the foggy plains of northern Italy after working at a smartwatch startup, Sebastiano moved with his curls to London to do great things.<br /><br />Regularly speaking at conferences and brain-dumping on the 'net got him into the Google Developer Expert programme in 2014. Nowadays he's obsessing over UI and UX and coding some rather cool apps at Novoda."
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/seebrock3r"}
-    - {name: "site", link: "https://tips.seebrock3r.me"}
-    - {name: "github", link: "https://github.com/rock3r"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
--
   id: 16
   name: "Pierre-Antoine"
   surname: "LaFayette"
@@ -204,36 +485,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/francoisblavoet"}
 -
-  id: 18
-  name: "Erik"
-  surname: "Hellman"
-  thumbnailUrl: ehellman.jpg
-  company: "Hellsoft"
-  bio: "Software developer with 20 years of professional experience. Erik has worked with Android since the earliest day."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+ErikHellman"}
-    - {name: "twitter", link: "https://twitter.com/ErikHellman"}
-    - {name: "site", link: "https://hellsoft.se/@erikhellman"}
-    - {name: "github", link: "https://github.com/ErikHellman"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/erik-hellman"}
--
-  id: 19
-  name: "Lisa"
-  surname: "Wray"
-  thumbnailUrl: lwray.jpg
-  company: "Present"
-  bio: "Lisa Wray is an Android developer, speaker, and advocate specializing in user interfaces. She has a B.S. from M.I.T. in music and computer science, and is an Android Google Developer Expert. She previously worked at Google on the Developer Relations team on Android, Google Glass, and Android Wear, at the New York Times, and at Genius, a Brooklyn-based music startup. She currently works at Present, a social network for women, and lives in Seattle."
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+LisaWrayZeitouni"}
-    - {name: "twitter", link: "https://twitter.com/lrwray"}
-    - {name: "site", link: "http://www.xwray.com/"}
-    - {name: "github", link: "https://github.com/lisawray"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
--
   id: 20
   name: "Christina"
   surname: "Lee"
@@ -244,61 +495,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
     - {name: "github", link: "https://github.com/christinalee"}
--
-  id: 21
-  name: "Britt"
-  surname: "Barak"
-  thumbnailUrl: bbarak.jpg
-  company: ""
-  bio: "Britt is a Google Developer Expert for Android, born and raised in Israel, the “Startup Nation”, where she has started and lead the mobile teams on various startup companies.<br /><br />Passionate about Android, she co-lead Android Academy TLV which is one of the largest and most active Android communities out there. She is a public speaker, a mentor at Google Campus TLV, and a blogger about Android development. Britt is also Women Techmakers Israel community lead and act to promote diversity in the tech industry."
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/brittbarak"}
-    - {name: "site", link: "www.facebook.com/britt.barak"}
-    - {name: "site", link: "https://medium.com/@britt.barak"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/britt-barak"}
-    - {abbr: "WTM", title: "Women TechMakers", url: "https://www.meetup.com/Women-Techmakers-Israel/"}
--
-  id: 22
-  name: "Taylor"
-  surname: "Ling"
-  thumbnailUrl: tling.jpg
-  company: "Fabulous"
-  bio: "Taylor is a Digital Product Designer and is always passionate about great user experience. Previously he worked at a 3D printing company on their life-saving medical software before joining Snappymob, a startup in Kuala Lumpur, which allows him to make a difference in the local mobile app development scene by creating high-quality apps that users love. He is also the design co-founder of Fabulous, a habit-forming companion that received Material Design Award from Google Design team."
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+TaylorLing"}
-    - {name: "twitter", link: "https://twitter.com/taylorling"}
-    - {name: "site", link: "https://dribbble.com/taylorling"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
--
-  id: 23
-  name: "Jeroen"
-  surname: "Mols"
-  thumbnailUrl: jmols.jpg
-  company: "Philips Hue"
-  bio: "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process, he refocussed his master in Electrical engineering to become an Android developer. Starting off with highly technical prototypes for Wi-Fi connected products, he has built his own file-sharing platform (Wi-FileTransfer). Currently, he is an Android GDE and the lead Android developer at Philips Hue.<br /><br />One of a kind, never-been-done-before apps are what he enjoys most. So far Jeroen helped realize four huge connected products, various high profile apps, actively contributes to open source and loves interacting with the Android community. He is a passionate blogger and enjoys speaking at conferences."
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/molsjeroen"}
-    - {name: "site", link: "https://jeroenmols.com/"}
-    - {name: "github", link: "https://github.com/JeroenMols"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/jeroen-mols"}
--
-  id: 24
-  name: "Ben"
-  surname: "Weiss"
-  thumbnailUrl: bweiss.jpg
-  company: "Google"
-  bio: "Ben is a Developer Programs Engineer at the Android Developer Relations team at Google. He’s been working with Android since the first public release. Recently his focus was on Animations, Transitions, Android Instant Apps and Kotlin."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+BenjaminWeiss"}
-    - {name: "twitter", link: "https://twitter.com/keyboardsurfer"}
-    - {name: "github", link: "https://github.com/keyboardsurfer"}
 -
   id: 25
   name: "Mathieu"
@@ -352,49 +548,6 @@
   company: "Meetic"
   bio: "Android developpeur @Meetic"
   rockstar: false
--
-  id: 30
-  name: "Qian"
-  surname: "Jin"
-  thumbnailUrl: qjin.jpg
-  company: "Xebia"
-  bio: "Android developer, IoT maker, Deep Learning newbie, GDE IoT"
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+QianJIN_HZ"}
-    - {name: "twitter", link: "https://twitter.com/bonbonking"}
-    - {name: "site", link: "http://potatobon.com/"}
-    - {name: "github", link: "https://github.com/jinqian"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/qian-jin"}
--
-  id: 31
-  name: "Marc"
-  surname: "Poppleton"
-  thumbnailUrl: mpoppleton.jpg
-  company: "Orange Labs"
-  bio: "I'm a Software Engineer at Orange Labs and tinker with code for Android since version 1.0 Apple Pie. I'm also the leader of the GDG Code d'Armor. The rest of the time, I'm Robopop, cyber-father and husband, half flesh and bones, half carbonfiber and steel."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/MarcPoppleton+"}
-    - {name: "twitter", link: "https://twitter.com/marcpoppleton"}
-    - {name: "site", link: "http://www.marc-poppleton.com/"}
-    - {name: "github", link: "https://github.com/marcpoppleton"}
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/fr-FR/GDG-Code-dArmor"}
--
-  id: 32
-  name: "Djavan"
-  surname: "Bertrand"
-  thumbnailUrl: dbertrand.jpg
-  company: "Parrot"
-  bio: "Développeur mobile (iOS & Android) depuis plus de 6 ans, je travaille à Parrot depuis 4 ans sur le SDK pour drones. Je fais aussi parti du Paris Android User Group."
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/Djava7"}
-    - {name: "github", link: "https://github.com/djavan-bertrand"}
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
 -
   id: 33
   name: "Adrien"
@@ -544,20 +697,6 @@
     - {name: "twitter", link: "https://twitter.com/viteinfinite"}
     - {name: "site", link: "https://viteinfinite.com"}
 -
-  id: 47
-  name: "Ty"
-  surname: "Smith"
-  thumbnailUrl: tsmith.jpg
-  company: "Uber"
-  bio: "Ty has been working on Android since 2009. He is a tech lead at Uber, focusing on the external developer. He is a member of the Google Developer Expert program and regularly speaks at international conferences on Android. He organizes the SF Android Meetup group and Droidcon SF. He is a member of the technical advisory and investment group, Specialized Types. Prior to Uber, Ty worked on the Fabric tools at Twitter, the Evernote Android App and SDK, a messaging platform for Sprint, and Zagat for Android."
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/tsmith"}
-    - {name: "site", link: "http://tysmith.me/"}
-    - {name: "github", link: "https://github.com/tyvsmith"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/tyler-smith"}
--
   id: 49
   name: "Alexander"
   surname: "Gherschon"
@@ -591,18 +730,6 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/jadechabaro"}
--
-  id: 52
-  name: "Elaine"
-  surname: "Dias Batista"
-  thumbnailUrl: ediasbatista.jpg
-  company: "SFEIR"
-  bio: "Elaine has been working on the mobile development world for the past 5 years as an Android and occasionally iOS developer. She's passionate about mobile development and UI/UX but has become more and more interested about new kinds of computing such as Voice Assistants and IoT. She's a Google Developer Expert for the Google Assistant."
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/elainedbatista"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/elaine-dias-batista"}
 -
   id: 53
   name: "Yuliya"
@@ -650,21 +777,6 @@
     - {name: "twitter", link: "https://twitter.com/renaud_mathieu"}
     - {name: "site", link: "http://renaudmathieu.fr/"}
     - {name: "github", link: "https://github.com/renaudmathieu"}
--
-  id: 57
-  name: "Hugo"
-  surname: "Visser"
-  thumbnailUrl: hvisser.jpg
-  company: "Little Robots"
-  bio: "Hugo is a software engineer who has worked on enterprise, desktop and mobile software products. Since the introduction of Android he has been steadily focussing on developing for Android only, resulting in his first app “Rainy Days” in 2009. He’s a Google Developer Expert for Android and international speaker at Android events around the world. With his company Little Robots, he focuses on smart use of Android in every possible way."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://google.com/+hugovisser"}
-    - {name: "twitter", link: "https://twitter.com/botteaap"}
-    - {name: "site", link: "https://www.littlerobots.nl/"}
-    - {name: "github", link: "https://github.com/hvisser"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/hugo-visser"}
 -
   id: 58
   name: "Arnaud"
@@ -772,21 +884,6 @@
     - {name: "twitter", link: "https://twitter.com/caluuuux"}
     - {name: "site", link: "https://about.me/carmenlucia"}
 -
-  id: 67
-  name: "Adrián"
-  surname: "Catalan"
-  thumbnailUrl: acatalan.jpg
-  company: "Bit&lk'"
-  bio: "Adrián has been involved in software industry for 15+ years, working both in web and mobile apps. Facebook Developers Circle Guatemala organizer, GDG Guatemala, GuatemalaJS and Nodebots former co-organizer. Currently he leads the Innovation Lab at Galileo University and is a Google Developer Expert(GDE) for Android, IoT and Firebase."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+AdrianCatalan"}
-    - {name: "twitter", link: "https://twitter.com/ykro"}
-    - {name: "github", link: "https://github.com/ykro"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/adrian-catalan"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/es/GDG-Guatemala/"}
--
   id: 68
   name: "Mitchell"
   surname: "Tilbrook"
@@ -798,80 +895,6 @@
     - {name: "twitter", link: "https://twitter.com/sir_tilbrook"}
     - {name: "site", link: "http://marukami.github.io/"}
     - {name: "github", link: "https://github.com/marukami"}
--
-  id: 69
-  name: "Eyal"
-  surname: "Lezmy"
-  thumbnailUrl: elezmy.jpg
-  company: "Qonto"
-  bio: "<ul><li>Treasurer at the Paris Android User Group</li><li>Co-organizer of Android Makers in Paris</li><li>Google Developer Expert Android and IoT</li></ul>I've been working with Android since 2009. I took part of several R&D projects at french internet providers, then at Samsung in the Android B2B team, I also built an Android set-top box for a hotel chain, and I finally worked several years on Genymotion, an Android emulator. I recently joined Qonto a bank for freelancers, startups and SMBs."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY"}
-    - {name: "twitter", link: "https://twitter.com/Eyal_Lezmy"}
-    - {name: "site", link: "http://eyal.fr"}
-    - {name: "github", link: "https://github.com/eyal-lezmy"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/eyal-lezmy"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
--
-  id: 70
-  name: ""
-  surname: "Cketti"
-  thumbnailUrl: cketti.jpg
-  company: ""
-  bio: "Cketti is a freelancing Android developer living in Berlin. He has been developing for Android since Cupcake and is co-organizing the monthly Android developer Berlindroid. He’s also the maintainer of the open source email app K-9 Mail and author of some small libraries."
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/cketti"}
-    - {name: "site", link: "http://cketti.de/"}
-    - {name: "github", link: "https://github.com/cketti"}
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.meetup.com/GDG-Berlin-Android/"}
--
-  id: 71
-  name: "Hoi"
-  surname: "Lam"
-  thumbnailUrl: hlam.jpg
-  company: "Google"
-  bio: "Hoi is the Lead Developer Advocate for Android Wear and is an IoT panel expert for the Institute of Engineering and Technology. He worked on the launch of Google Cast / Chromecast in Europe, Android Wear, Google Glass and the Google beacon platform.<br /><br />Before Google, he founded Exahive disrupting the mobile commerce market with new tech and business models. Hoi was an Equity Research VP at Deutsche Bank and Citigroup advising technology executives.<br /><br />Hoi holds a Master and Bachelors in Space Engineering from the University of Cambridge."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+HoiLam"}
-    - {name: "twitter", link: "https://twitter.com/hoitab"}
--
-  id: 72
-  name: "Benjamin"
-  surname: "Monjoie"
-  thumbnailUrl: bmonjoie.jpg
-  company: "Appkers"
-  bio: "Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina as lead Android developer. Since July 2016, he started his carrer as a freelancer. Through his work, he does his best to share his passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. He stays closely up-to-date with Google's guidelines and innovations to advise and take decisions that would fit best in an Android application."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+BenjaminMonjoieXzan"}
-    - {name: "twitter", link: "https://twitter.com/Xzan"}
-    - {name: "site", link: "https://medium.com/@xzan"}
-    - {name: "site", link: "http://appkers.com/"}
-    - {name: "github", link: "https://github.com/bmonjoie"}
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/GDG-Namur-Android/"}
--
-  id: 73
-  name: "Wolfram"
-  surname: "Rittmeyer"
-  thumbnailUrl: writtmeyer.jpg
-  company: "OpenMinds"
-  bio: "Wolfram is an Android developer since 2012 and has been blogging about it ever since. He’s very active in the Android community, likes to speak at devfests and conferences and is co-organizer of the GDG, Düsseldorf. He's an Google Developer Expert for Android.<br /><br />Of course not everything is tech. As a family guy Wolfram is a proud father of his two sons Linus and Niklas. Funnily they are also a nice source of inspiration when it comes to new ideas for tech use."
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+WolframRittmeyer"}
-    - {name: "twitter", link: "https://twitter.com/RittmeyerW"}
-    - {name: "site", link: "https://www.grokkingandroid.com/"}
-    - {name: "site", link: "http://www.wolfram-rittmeyer.de/"}
-    - {name: "github", link: "https://github.com/writtmeyer"}
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/wolfram-rittmeyer"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "http://www.gdg-dus.de/"}
 -
   id: 74
   name: "Zac"

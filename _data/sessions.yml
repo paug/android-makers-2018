@@ -489,3 +489,24 @@
   subtype: presentation
   speakers: [1,2]
   language: en
+-
+  id: 69
+  title: "Android Gradle Plugin internals"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 30
+  title: "Gérer vos tests d'UI de manière simple et efficace [Leboncoin] -- pending"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: []
+  language: fr
+-
+  id: 44
+  title: "Modules in 7 steps [Trainline] -- pending"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: []
+  language: en

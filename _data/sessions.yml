@@ -482,3 +482,10 @@
   subtype: presentation
   speakers: [74]
   language: en
+-
+  id: 68
+  title: "Keynote"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [1,2]
+  language: en

@@ -455,6 +455,18 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "http://www.paug.fr/"}
 -
+  id: 75
+  name: "Snow"
+  surname: "Zhao"
+  thumbnailUrl: szhao.jpg
+  company: ""
+  bio: ""
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/zhaosiruo"}
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://www.meetup.com/gdg-silicon-valley/"}
+-
   id: 10
   name: "Raimon"
   surname: "Ràfols"
@@ -823,10 +835,8 @@
   bio: "Etudiant en alternance en M2 à Supdeweb. Actuellement développeur Android chez CANAL+, je travaille principalement sur myCANAL."
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+YannickLemin"}
     - {name: "twitter", link: "https://twitter.com/@antoinedroid"}
     - {name: "site", link: "http://antoine-danois.fr/"}
-    - {name: "github", link: "https://github.com/theyann"}
 -
   id: 62
   name: "Kirill"
@@ -907,3 +917,15 @@
     - {name: "twitter", link: "https://twitter.com/pandanomic"}
     - {name: "site", link: "http://hzsweers.github.io/"}
     - {name: "github", link: "https://github.com/hzsweers"}
+-
+  id: 76
+  name: "Ryan"
+  surname: "Cooke"
+  thumbnailUrl: rcooke.jpg
+  company: "Pinterest"
+  bio: "I've jumped between a few exciting startups and these days I work on making the core of Pinterest better."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/the__Ryanator"}
+    - {name: "site", link: "https://medium.com/@ryancooke"}
+    - {name: "github", link: "https://github.com/ryanzor"}

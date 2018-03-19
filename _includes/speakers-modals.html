@@ -17,11 +17,14 @@
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
 										<h4>{{ session.title }}</h4>
-										{% if session.language != null %}
-										<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+										{% if session.type != null %}
+										<span class="theme-metadata"><span class="caption">Type: </span>{{ session.type }}</span><br />
 										{% endif %}
-										{% if session.complexity != null %}
-										<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
+										{% if session.experience != null %}
+										<span class="theme-metadata"><span class="caption">Experience: </span>{{ session.experience }}</span><br />
+										{% endif %}
+										{% if session.language != null %}
+										<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span><br />
 										{% endif %}
 										{% if session.video %}
 										<div class="theme-video embed-responsive embed-responsive-16by9">

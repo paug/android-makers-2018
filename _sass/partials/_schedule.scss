@@ -171,7 +171,7 @@ $label-width: 100%;
     transform: translateY(0);
     transition: $base-transition;
     @media (max-width: 767px) {
-        padding: 5px 5px 5px;
+        padding: 20px 5px 5px;
         &:hover {
             transform: translateY(0);
         }
@@ -180,11 +180,35 @@ $label-width: 100%;
         transform: translateY(5px);
     }
 }
+.slot-type {
+    position: absolute;
+    font-size: 11px;
+    left: 15px;
+    top: 5px;
+    @media (max-width: 767px) {
+        font-size: 8px;
+        left: 5px;
+    }
+}
+.slot-experience {
+    position: absolute;
+    font-size: 11px;
+    left: 15px;
+    top: 20px;
+    @media (max-width: 767px) {
+        font-size: 8px;
+        left: 5px;
+        top: 15px;
+    }
+}
 .slot-language {
     position: absolute;
     font-size: 11px;
     right: 15px;
     top: 5px;
+    @media (max-width: 767px) {
+        right: 5px;
+    }
 }
 .service-description {
     margin-top: 15px;

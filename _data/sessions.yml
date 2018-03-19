@@ -28,6 +28,12 @@
   service: true
   description: "Thank you and see you next year!"
 -
+  id: 106
+  title: "Opening"
+  place: ""
+  service: true
+  description: "Come early and choose the best seat"
+-
   id: 1
   title: "Lifecycle, LiveData, ViewModels - The inner wiring"
   description: "<p>Android Architecture Components is a set of libraries for designing great apps. It contains APIs for implementing concepts like Lifecycle and ViewModel.<br />Whilst these APIs are great, they do come with some questions:<ul><li>How do Lifecycle, LiveData and ViewModels work under the hood? How and where should each of them be used?</li><li>What is the difference between a ViewModel from Architecture Components and the one from the MVVM pattern?</li><li>Lifecycle components exist for Activities, Fragments and Application. Why don’t we have the same for Views?</li><li>Can we have ViewModels for Views also?</li><li>Is LiveData a replacement for RxJava? Can they live side by side?</li><li>How does LiveData work with DataBinding?</li><li>How should view state be handled and what goes into a Bundle versus a ViewModel?</li></ul>To answer all of these questions and more we’ll do a deep dive in the internals of Lifecycle, LiveData and ViewModels.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
@@ -523,4 +529,32 @@
   description: "<p>We are now operating in a data-driven world. If your company isn't using metrics to determine what their next step is, then your company is likely moving blindly. That is fairly universally accepted, but what's worse is when what your metrics tell you isn't true. It is very easy for a metric logging error to complete invalidate your conclusion. This talk discusses what we at Pinterest do to avoid this.<br /><br />Type: Android Development<br />Experience: Intermediate</p>"
   subtype: presentation
   speakers: [76]
+  language: en
+-
+  id: 72
+  title: "Autre conf Romain et Chet"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [1,2]
+  language: en
+-
+  id: 73
+  title: "Parrot Auto -- pending"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 74
+  title: "APP CLINIC -- pending"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: []
+  language: en
+-
+  id: 75
+  title: "Closing conf by Romain and Chet"
+  description: "<p><br /><br />Type: Android Development<br />Experience: Intermediate</p>"
+  subtype: presentation
+  speakers: [1,2]
   language: en

@@ -25,6 +25,11 @@ $label-width: 100%;
     .speaker-name {
         line-height: $speaker-image-size - 12;
         margin-left: $speaker-image-size + 8;
+        @media (max-width: 767px) {
+            line-height: 1;
+            margin-left: $speaker-image-size;
+            font-size: 12px;
+        }
     }
     .speaker-position {
         color: #555;
@@ -32,6 +37,10 @@ $label-width: 100%;
         line-height: 1;
         font-size: 12px;
         margin-top: -5px;
+        @media (max-width: 767px) {
+            font-size: 10px;
+            margin-top: 0px;
+        }
     }
 }
 .schedule-table {
@@ -111,16 +120,17 @@ $label-width: 100%;
     transition: $base-transition;
 }
 .slot-title {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: $regular;
     margin: 0;
+    margin-top: 15px;
     padding-left: 20px;
     @media (min-width:768px) and (max-width: 900px) {
-        font-size: 16px;
+        font-size: 14px;
         padding-left: 10px;
     }
     @media (max-width: 767px) {
-        font-size: 14px;
+        font-size: 12px;
         padding-left: 5px;
     }
 }
@@ -161,6 +171,7 @@ $label-width: 100%;
     transform: translateY(0);
     transition: $base-transition;
     @media (max-width: 767px) {
+        padding: 5px 5px 5px;
         &:hover {
             transform: translateY(0);
         }
@@ -173,7 +184,7 @@ $label-width: 100%;
     position: absolute;
     font-size: 11px;
     right: 15px;
-    top: 20px;
+    top: 5px;
 }
 .service-description {
     margin-top: 15px;

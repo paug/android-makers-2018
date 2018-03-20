@@ -383,6 +383,20 @@
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/qian-jin"}
 -
+  id: 79
+  name: "Eugenio"
+  surname: "Marletti"
+  thumbnailUrl: emarletti.jpg
+  company: "Clue"
+  bio: "Eugenio is a passionate developer who takes every “it can’t be done” as a personal challenge – and is not afraid to find creative solutions while doing so.<br /><br />He’s been stuck in a love/hate relationship with the green droid since 2011, culminating in him moving to Berlin in 2014 to join Clue as Lead Android Engineer.<br /><br />Lately, he’s been allegedly reported to do be abusing the Kotlin language, when he’s not too busy preaching about how Flutter is “the solution to every problem in life”."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/workingkills"}
+    - {name: "site", link: "https://medium.com/@workingkills"}
+    - {name: "github", link: "https://github.com/Takhion"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/eugenio-marletti"}
+-
   id: 31
   name: "Marc"
   surname: "Poppleton"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Call For Paper: Type of talk explained EN'
-date:   2016-12-12 19:00:00
+date:   2017-12-12 19:00:00
 isStaticPost: false
 ---
 Want to submit a talk to Android Makers France? Need help understanding the various submission types? You’re on the right page.
@@ -28,7 +28,7 @@ Workshops must last between 1 hour 30 minutes and 3 hours. A workshop is the rig
 Workshops about development, design, IoT, agility, etc. are all really encouraged.
 
 **Makers Area**<br />
-For half a day (morning or afternoon), you will be invited to showcase your project on a booth. We will let you setup your stand the way you want and do the demo you want. The both should be about 2 square meters. Don’t forget! If you're ready to do a demo of your work, chance is that you have something interesting to share in a 20 or 40 minutes talk or a workshop. So go submit a subject, we’re waiting for you :).
+For half a day (morning or afternoon), or more, you will be invited to showcase your project on a booth. We will let you setup your stand the way you want and do the demo you want. The booth should be about 2 square meters. Don’t forget! If you're ready to do a demo of your work, chance is that you have something interesting to share in a 20 or 40 minutes talk or a workshop. So go submit a subject, we’re waiting for you :).
 
 Android Makers is an event organized for you devs and makers. It's the perfect opportunity to seize your chance to jump onstage and become a speaker. We really hope to see lots of talks, propositions and new names.
 

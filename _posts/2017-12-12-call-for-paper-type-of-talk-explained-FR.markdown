@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Call For Paper: Type of talk explained FR'
-date:   2016-12-12 19:00:00
+date:   2017-12-12 19:00:00
 isStaticPost: false
 ---
 Vous voulez soumettre une présentation à Android Makers France? Besoin d'aide pour comprendre les différents types de soumission? Vous êtes au bon endroit !
@@ -29,7 +29,7 @@ Les workshops à propos du design, de l’UI/UX, de l’agilité, de l’IoT, et
 
 
 **Makers Area**<br />
-Un espace entier sera réservé aux makers et à leurs projets. Pendant une demie-journée (matin ou soir) vous aurez la chance de pouvoir montrer votre projet sur un stand. Vous serez entièrement libre sur la forme de votre présence sur votre espace. Vous aurez environ 2 mètres carrés à disposition. 
+Un espace entier sera réservé aux makers et à leurs projets. Pendant une demie-journée (matin ou soir), ou plus, vous aurez la chance de pouvoir montrer votre projet sur un stand. Vous serez entièrement libre sur la forme de votre présence sur votre espace. Vous aurez environ 2 mètres carrés à disposition. 
 Si vous êtes prêt à réaliser une démonstration de votre travail, il y a fort à parier que vous avez dû relever des défis qui en intéresseront plus d’un. Nous vous invitons donc à soumettre un talk de 20 ou 40 minutes, ou même proposer un workshop. On compte sur vous :)
 
 

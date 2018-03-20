@@ -638,12 +638,12 @@
   language: en
 -
   id: 30
-  title: "Gérer vos tests d'UI de manière simple et efficace [Leboncoin] -- pending"
+  title: "Gérer vos tests d'UI de manière simple et efficace"
   description: "<p></p>"
   type: "Android Development"
   experience: "Intermediate"
   subtype: presentation
-  speakers: []
+  speakers: [77,78]
   language: fr
 -
   id: 44

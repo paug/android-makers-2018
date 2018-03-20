@@ -929,3 +929,25 @@
     - {name: "twitter", link: "https://twitter.com/the__Ryanator"}
     - {name: "site", link: "https://medium.com/@ryancooke"}
     - {name: "github", link: "https://github.com/ryanzor"}
+-
+  id: 77
+  name: "Jean-Philippe"
+  surname: "Barbaud"
+  thumbnailUrl: jpbarbaud.jpg
+  company: "Leboncoin"
+  bio: "Arrivé au bon coin il y a un an, développeur Android de la feature team Search 🔎"
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/jpbarbaud"}
+    - {name: "site", link: "http://jipe.barbaud.me/"}
+    - {name: "github", link: "https://github.com/jipeprojects"}
+-
+  id: 78
+  name: "Sylvain"
+  surname: "Gourdaut"
+  thumbnailUrl: sgourdaut.jpg
+  company: "Leboncoin"
+  bio: "Arrivé au bon coin il y a 4 ans, il occupe depuis bientôt 1 an le poste de lead développeur de l'application Android."
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/sylvaingourdaut"}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'What is Leboncoin?'
+title:  'Barista @ leboncoin'
 date:   2018-03-20 12:00:00
 isStaticPost: false
 ---

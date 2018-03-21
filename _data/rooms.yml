@@ -1,12 +1,15 @@
 -
   id: 1
-  name: "Grands Causses"
+  name: "Amphi"
 -
   id: 2
-  name: "Aubrac"
+  name: "Grand Salon"
 -
   id: 3
-  name: "Carlades"
+  name: "Room 100"
 -
   id: 4
+  name: "Room 50"
+-
+  id: 5
   name: "Makers"

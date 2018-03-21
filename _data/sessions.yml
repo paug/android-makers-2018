@@ -1,36 +1,31 @@
 -
   id: 101
   title: "Registration"
-  place: ""
   service: true
   description: "Registration of participants will begin on Monday April 23rd, from 8:00 a.m. in the entrance hall. For registration it is mandatory to carry the eventbrite ticket."
 -
   id: 102
   title: "Break"
-  place: ""
   service: true
 -
   id: 103
   title: "Lunch"
-  place: ""
   service: true
   description: "The best time to talk with speakers and attendees"
 -
   id: 104
   title: "Party"
-  place: ""
   service: true
   description: "Let's talk and drink!\n\nFrom 18:00, come at <a href='https://goo.gl/maps/CXaFaLJyNLR2'>The Frog at Bercy Village</a> for chat, networking, drinks and food! Located less than three minutes walk from the Salons of Aveyron, you should have no trouble finding this bar :)"
 -
   id: 105
   title: "Thank you!"
-  place: ""
   service: true
   description: "Thank you and see you next year!"
+  subtype: presentation
 -
   id: 106
   title: "Opening"
-  place: ""
   service: true
   description: "Come early and choose the best seat"
 -

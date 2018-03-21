@@ -59,12 +59,12 @@
   roomId: 1
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:55:00+0200"
+  endDate: "2018-04-23T10:55:00+0200"
   sessionId: 43
   roomId: 1
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:30:00+0200"
+  endDate: "2018-04-23T10:30:00+0200"
   sessionId: 
   roomId: 1
 -
@@ -230,348 +230,348 @@
   startDate: "2018-04-23T09:00:00+0200"
   endDate: "2018-04-23T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:55:00+0200"
-  sessionId: 
-  roomId: 1
+  endDate: "2018-04-23T10:55:00+0200"
+  sessionId: 38
+  roomId: 2
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:30:00+0200"
+  endDate: "2018-04-23T10:30:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-10:30:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-10:55:00+0200"
   endDate: "2018-04-23T11:45:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 8
+  roomId: 2
 -
   startDate: "2018-04-10:55:00+0200"
   endDate: "2018-04-23T11:20:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-23T11:20:00+0200"
   endDate: "2018-04-23T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-11:45:00+0200"
   endDate: "2018-04-23T12:35:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 28
+  roomId: 2
 -
   startDate: "2018-04-23T13:35:00+0200"
   endDate: "2018-04-23T14:25:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 69
+  roomId: 2
 -
   startDate: "2018-04-23T13:35:00+0200"
   endDate: "2018-04-23T14:00:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-23T14:00:00+0200"
   endDate: "2018-04-23T14:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-23T14:25:00+0200"
   endDate: "2018-04-23T15:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-23T14:25:00+0200"
   endDate: "2018-04-23T14:50:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 30
+  roomId: 2
 -
   startDate: "2018-04-23T14:50:00+0200"
   endDate: "2018-04-23T15:15:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 35
+  roomId: 2
 -
   startDate: "2018-04-23T15:15:00+0200"
   endDate: "2018-04-23T16:05:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 29
+  roomId: 2
 -
   startDate: "2018-04-23T16:25:00+0200"
   endDate: "2018-04-23T17:15:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 31
+  roomId: 2
 -
   startDate: "2018-04-23T17:15:00+0200"
   endDate: "2018-04-23T18:05:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 32
+  roomId: 2
 -
   startDate: "2018-04-23T18:05:00+0200"
   endDate: "2018-04-23T18:55:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 42
+  roomId: 2
 
 
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 70
+  roomId: 2
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-24T09:25:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-24T09:55:00+0200"
   endDate: "2018-04-24T10:45:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 48
+  roomId: 2
 -
   startDate: "2018-04-24T10:55:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 39
+  roomId: 2
 -
   startDate: "2018-04-24T10:55:00+0200"
   endDate: "2018-04-24T11:20:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-24T11:20:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-24T11:45:00+0200"
   endDate: "2018-04-24T12:35:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 37
+  roomId: 2
 -
   startDate: "2018-04-24T13:35:00+0200"
   endDate: "2018-04-24T14:25:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 11
+  roomId: 2
 -
   startDate: "2018-04-24T14:25:00+0200"
   endDate: "2018-04-24T15:15:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 34
+  roomId: 2
 -
   startDate: "2018-04-24T15:15:00+0200"
   endDate: "2018-04-24T16:05:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 33
+  roomId: 2
 -
   startDate: "2018-04-24T16:25:00+0200"
   endDate: "2018-04-24T17:15:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 44
+  roomId: 2
 -
   startDate: "2018-04-24T16:25:00+0200"
   endDate: "2018-04-24T16:50:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-24T16:50:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 -
   startDate: "2018-04-24T17:15:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
-  sessionId: 
-  roomId: 1
+  sessionId: 41
+  roomId: 2
 -
   startDate: "2018-04-24T18:05:00+0200"
   endDate: "2018-04-24T18:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 2
 
 # ROOM 3
 -
   startDate: "2018-04-23T09:00:00+0200"
   endDate: "2018-04-23T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:55:00+0200"
+  endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:30:00+0200"
+  endDate: "2018-04-23T10:30:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-10:30:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-10:55:00+0200"
   endDate: "2018-04-23T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-10:55:00+0200"
   endDate: "2018-04-23T11:20:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T11:20:00+0200"
   endDate: "2018-04-23T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-11:45:00+0200"
   endDate: "2018-04-23T12:35:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T13:35:00+0200"
   endDate: "2018-04-23T14:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T13:35:00+0200"
   endDate: "2018-04-23T14:00:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T14:00:00+0200"
   endDate: "2018-04-23T14:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T14:25:00+0200"
   endDate: "2018-04-23T15:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T14:25:00+0200"
   endDate: "2018-04-23T14:50:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T14:50:00+0200"
   endDate: "2018-04-23T15:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T15:15:00+0200"
   endDate: "2018-04-23T16:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T16:25:00+0200"
   endDate: "2018-04-23T17:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T17:15:00+0200"
   endDate: "2018-04-23T18:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-23T18:05:00+0200"
   endDate: "2018-04-23T18:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 
 
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T09:25:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T09:55:00+0200"
   endDate: "2018-04-24T10:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T10:55:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T10:55:00+0200"
   endDate: "2018-04-24T11:20:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T11:20:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T11:45:00+0200"
   endDate: "2018-04-24T12:35:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T13:35:00+0200"
   endDate: "2018-04-24T14:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T14:25:00+0200"
   endDate: "2018-04-24T15:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T15:15:00+0200"
   endDate: "2018-04-24T16:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T16:25:00+0200"
   endDate: "2018-04-24T17:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T16:25:00+0200"
   endDate: "2018-04-24T16:50:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T16:50:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T17:15:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 -
   startDate: "2018-04-24T18:05:00+0200"
   endDate: "2018-04-24T18:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 3
 
 -
   startDate: "2018-04-24T13:35:00+0200"
@@ -589,171 +589,171 @@
   startDate: "2018-04-23T09:00:00+0200"
   endDate: "2018-04-23T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:55:00+0200"
+  endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T10:05:00+0200"
-  endDate: "2018-04-10:30:00+0200"
+  endDate: "2018-04-23T10:30:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-10:30:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-10:55:00+0200"
   endDate: "2018-04-23T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-10:55:00+0200"
   endDate: "2018-04-23T11:20:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T11:20:00+0200"
   endDate: "2018-04-23T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-11:45:00+0200"
   endDate: "2018-04-23T12:35:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T13:35:00+0200"
   endDate: "2018-04-23T14:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T13:35:00+0200"
   endDate: "2018-04-23T14:00:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T14:00:00+0200"
   endDate: "2018-04-23T14:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T14:25:00+0200"
   endDate: "2018-04-23T15:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T14:25:00+0200"
   endDate: "2018-04-23T14:50:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T14:50:00+0200"
   endDate: "2018-04-23T15:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T15:15:00+0200"
   endDate: "2018-04-23T16:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T16:25:00+0200"
   endDate: "2018-04-23T17:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T17:15:00+0200"
   endDate: "2018-04-23T18:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-23T18:05:00+0200"
   endDate: "2018-04-23T18:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 
 
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T09:25:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T09:55:00+0200"
   endDate: "2018-04-24T10:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T10:55:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T10:55:00+0200"
   endDate: "2018-04-24T11:20:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T11:20:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T11:45:00+0200"
   endDate: "2018-04-24T12:35:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T13:35:00+0200"
   endDate: "2018-04-24T14:25:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T14:25:00+0200"
   endDate: "2018-04-24T15:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T15:15:00+0200"
   endDate: "2018-04-24T16:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T16:25:00+0200"
   endDate: "2018-04-24T17:15:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T16:25:00+0200"
   endDate: "2018-04-24T16:50:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T16:50:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T17:15:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4
 -
   startDate: "2018-04-24T18:05:00+0200"
   endDate: "2018-04-24T18:55:00+0200"
   sessionId: 
-  roomId: 1
+  roomId: 4

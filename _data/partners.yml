@@ -13,3 +13,7 @@
   elements:
     - {name: "Deezer", description: "Deezer. Just hack it!", link: "https://www.deezerjobs.com/en/this-is-deezer/", imageUrl: "deezer.png"}
     - {name: "Trainline", description: "Trainline. Europe's leading independent rail and coach platform.", link: "https://www.thetrainline.com/about-us", imageUrl: "trainline.png"}
+-
+  group: "Media"
+  elements:
+    - {name: "ChooseYourBoss", description: "ChooseYourBoss : recrutement pour les IT fait par des IT", link: "https://www.chooseyourboss.com/", imageUrl: "chooseyourboss.png"}

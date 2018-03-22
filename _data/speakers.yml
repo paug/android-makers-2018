@@ -149,6 +149,18 @@
   ribbon:
     - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
+  id: 81
+  name: "John"
+  surname: "Hoford"
+  thumbnailUrl: jhoford.jpg
+  company: "Google"
+  bio: "John works on Android Studio and ConstraintLayout at Google. He has worked previously on RenderScript, Vector Drawables, computed shadows and photo editor filters. Prior to joining Google, John was a principal engineer at GE Healthcare working on their image processing applications framework."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/johnhoford"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
   id: 21
   name: "Britt"
   surname: "Barak"

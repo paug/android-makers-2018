@@ -9,11 +9,11 @@
     - {name: "BlaBlaCar", description: "BlaBlaCar, global leader in long-distance carpooling", link: "http://www.blablacar.fr/", imageUrl: "blablacar.png"}
     - {name: "beNext", description: "beNext, be your potential", link: "http://www.benextcompany.com/", imageUrl: "benext.png"}
     - {name: "Chauffeur Privé", description: "Chauffeur Privé, French leading platform connecting private drivers with 1,5M users and inventing a new urban mobility", link: "https://chauffeur-prive.com/", imageUrl: "chauffeurprive.png"}
+    - {name: "Trainline", description: "Trainline. Europe's leading independent rail and coach platform.", link: "https://www.thetrainline.com/about-us", imageUrl: "trainline.png"}
 -
   group: "Virtual sponsor"
   elements:
     - {name: "Deezer", description: "Deezer. Just hack it!", link: "https://www.deezerjobs.com/en/this-is-deezer/", imageUrl: "deezer.png"}
-    - {name: "Trainline", description: "Trainline. Europe's leading independent rail and coach platform.", link: "https://www.thetrainline.com/about-us", imageUrl: "trainline.png"}
 -
   group: "Media"
   elements:

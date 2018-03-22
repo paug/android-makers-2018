@@ -18,3 +18,9 @@
   group: "Media"
   elements:
     - {name: "ChooseYourBoss", description: "ChooseYourBoss : recrutement pour les IT fait par des IT", link: "https://www.chooseyourboss.com/", imageUrl: "chooseyourboss.png"}
+-
+  group: "Individual Speaker Sponsor"
+  elements:
+    - {name: "Uber", description: "Uber", link: "https://www.uber.com/", imageUrl: "uber.png"}
+    - {name: "Qonto", description: "Qonto", link: "https://qonto.eu", imageUrl: "qonto.png"}
+    - {name: "Smile", description: "Smile", link: "https://www.smile.eu", imageUrl: "smile.png"}

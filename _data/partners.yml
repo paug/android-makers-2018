@@ -10,6 +10,8 @@
     - {name: "beNext", description: "beNext, be your potential", link: "http://www.benextcompany.com/", imageUrl: "benext.png"}
     - {name: "Chauffeur Privé", description: "Chauffeur Privé, French leading platform connecting private drivers with 1,5M users and inventing a new urban mobility", link: "https://chauffeur-prive.com/", imageUrl: "chauffeurprive.png"}
     - {name: "Trainline", description: "Trainline. Europe's leading independent rail and coach platform.", link: "https://www.thetrainline.com/about-us", imageUrl: "trainline.png"}
+    - {name: "Parrot Drone", description: "Parrot Drone", link: "https://www.parrot.com/fr/drones", imageUrl: "parrotdrones.png"}
+    - {name: "Parrot Faurecia Automotive", description: "Parrot Faurecia Automotive", link: "http://www.parrotautomotive.com/", imageUrl: "parrotauto.png"}
 -
   group: "Virtual sponsor"
   elements:

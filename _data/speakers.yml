@@ -965,3 +965,11 @@
   rockstar: false
   social:
     - {name: "github", link: "https://github.com/sylvaingourdaut"}
+-
+  id: 80
+  name: "Oleg"
+  surname: "Petshjonkin"
+  thumbnailUrl: opetshjonkin.jpg
+  company: "Trainline"
+  bio: "Android team lead at Trainline with more than 8 years of mobile development experience from UI to API. Before joining Trainline he was creating applications for different industries including banking, trading and gaming."
+  rockstar: false

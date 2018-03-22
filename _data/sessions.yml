@@ -642,12 +642,12 @@
   language: fr
 -
   id: 44
-  title: "Modules in 7 steps [Trainline] -- pending"
-  description: "<p></p>"
+  title: "Modules in 7 steps"
+  description: "<p>Modular application approach is becoming more and more popular. Apart from obvious benefits like build speed and modules re-usability it gives better encapsulation, configurability, and testability.<br /><br />This talk is about Trainline application evolution from single module to 20+ modules. It describes problems we faced during this journey and shows a few not-so-obvious solutions to those problems.</p>"
   type: "Android Development"
   experience: "Intermediate"
   subtype: presentation
-  speakers: []
+  speakers: [80]
   language: en
 -
   id: 70

@@ -594,7 +594,7 @@
   experience: "Beginner and novice"
   subtype: presentation
   speakers: [72,60]
-  language: en
+  language: fr
 -
   id: 66
   title: "Kotlin DSLs"

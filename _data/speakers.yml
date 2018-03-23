@@ -149,6 +149,18 @@
   ribbon:
     - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
+  id: 81
+  name: "John"
+  surname: "Hoford"
+  thumbnailUrl: jhoford.jpg
+  company: "Google"
+  bio: "John works on Android Studio and ConstraintLayout at Google. He has worked previously on RenderScript, Vector Drawables, computed shadows and photo editor filters. Prior to joining Google, John was a principal engineer at GE Healthcare working on their image processing applications framework."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/johnhoford"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
   id: 21
   name: "Britt"
   surname: "Barak"
@@ -397,6 +409,19 @@
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/eugenio-marletti"}
 -
+  id: 20
+  name: "Christina"
+  surname: "Lee"
+  thumbnailUrl: clee.jpg
+  company: "Pinterest"
+  bio: "Christina is an Android Engineer at Pinterest, where she works on the Core UI platform team."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
+    - {name: "github", link: "https://github.com/christinalee"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/christina-lee"}
+-
   id: 31
   name: "Marc"
   surname: "Poppleton"
@@ -538,17 +563,6 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/francoisblavoet"}
--
-  id: 20
-  name: "Christina"
-  surname: "Lee"
-  thumbnailUrl: clee.jpg
-  company: "Pinterest"
-  bio: "Christina is an Android Engineer at Pinterest, where she works on the Core UI platform team."
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
-    - {name: "github", link: "https://github.com/christinalee"}
 -
   id: 25
   name: "Mathieu"
@@ -701,7 +715,7 @@
 -
   id: 45
   name: "Zan"
-  surname: "Marker"
+  surname: "Markan"
   thumbnailUrl: zmarkan.jpg
   company: "Pusher"
   bio: "Zan is a Developer turned Evangelist at Pusher with over 8 years of experience in software development. He spends the days educating developers across the world about the wonders of realtime technologies and good API design, and nights fighting crime. Before DevRel he used to dabble in mobile and SDK development, especially on Android. Currently he fancies Kotlin, Node, TypeScript, and the UX of APIs in general. Other hobbies include speaking at conferences and yelling at computers."
@@ -965,3 +979,11 @@
   rockstar: false
   social:
     - {name: "github", link: "https://github.com/sylvaingourdaut"}
+-
+  id: 80
+  name: "Oleg"
+  surname: "Petshjonkin"
+  thumbnailUrl: opetshjonkin.jpg
+  company: "Trainline"
+  bio: "Android team lead at Trainline with more than 8 years of mobile development experience from UI to API. Before joining Trainline he was creating applications for different industries including banking, trading and gaming."
+  rockstar: false

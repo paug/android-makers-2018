@@ -16,7 +16,7 @@
   id: 104
   title: "Party"
   service: true
-  description: "Let's talk and drink!\n\nFrom 18:00, come at <a href='https://goo.gl/maps/CXaFaLJyNLR2'>The Frog at Bercy Village</a> for chat, networking, drinks and food! Located less than three minutes walk from the Salons of Aveyron, you should have no trouble finding this bar :)"
+  description: "Let's talk and drink!\n\nFrom 19:00, come at the <a href='https://goo.gl/maps/ZaKuHBz8znm'>Café du Théatre</a> for chat, networking, drinks and food! Located on the right side of the Beffroi conference center, you should have no trouble finding it :)"
 -
   id: 105
   title: "Thank you!"
@@ -62,7 +62,7 @@
   type: "Android Development"
   experience: "Intermediate"
   subtype: presentation
-  speakers: [4]
+  speakers: [4,81]
   language: fr
 -
   id: 5
@@ -594,7 +594,7 @@
   experience: "Beginner and novice"
   subtype: presentation
   speakers: [72,60]
-  language: en
+  language: fr
 -
   id: 66
   title: "Kotlin DSLs"
@@ -642,12 +642,12 @@
   language: fr
 -
   id: 44
-  title: "Modules in 7 steps [Trainline] -- pending"
-  description: "<p></p>"
+  title: "Modules in 7 steps"
+  description: "<p>Modular application approach is becoming more and more popular. Apart from obvious benefits like build speed and modules re-usability it gives better encapsulation, configurability, and testability.<br /><br />This talk is about Trainline application evolution from single module to 20+ modules. It describes problems we faced during this journey and shows a few not-so-obvious solutions to those problems.</p>"
   type: "Android Development"
   experience: "Intermediate"
   subtype: presentation
-  speakers: []
+  speakers: [80]
   language: en
 -
   id: 70
@@ -669,7 +669,7 @@
   language: en
 -
   id: 72
-  title: "Autre conf Romain et Chet"
+  title: "How Android Rendering Works to Provide Pixels on the Screen Faster than You Can Read this Sentence"
   description: "<p></p>"
   type: "Android Development"
   experience: "Intermediate"
@@ -678,7 +678,7 @@
   language: en
 -
   id: 73
-  title: "Parrot Auto -- pending"
+  title: "Parrot Auto"
   description: "<p></p>"
   type: "Android Development"
   experience: "Intermediate"
@@ -687,7 +687,7 @@
   language: en
 -
   id: 74
-  title: "APP CLINIC -- pending"
+  title: "APP CLINIC"
   description: "<p></p>"
   type: "Android Development"
   experience: "Intermediate"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Barista @ leboncoin'
+title:  'Continuous Integration on Android @leboncoin'
 date:   2018-03-20 12:00:00
 isStaticPost: false
 ---
@@ -16,7 +16,7 @@ Before we dive into the app, let’s have a look at the big figures of leboncoin
 
 **Mobile app**
 
-Launched in 2006, leboncoin’s website is now in the top 5 most visited websites in France. Our Android app was launched in 2012. Since then, it has been downloaded more than 6 million times and installed on over 16.5 million active mobile phones. There are between 1 and 2 million unique visitors that use the app every day, and last year we broke the record with 2.5 million unique users in one day.
+Launched in 2006, leboncoin’s website is now in the top 5 most visited websites in France. Our Android app was launched in 2012. Since then, it has been downloaded more than 16 million times and installed on over 6.5 million active mobile phones. There are between 1 and 2 million unique visitors that use the app every day, and last year we broke the record with 2.5 million unique users in one day.
 
 **Enhance the quality of our app**
 

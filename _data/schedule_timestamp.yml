@@ -5,10 +5,15 @@
   sessionId: 101
   roomId: 
 -
-  startDate: "2018-04-23T08:00:00+0200"
+  startDate: "2018-04-23T09:55:00+0200"
   endDate: "2018-04-23T10:05:00+0200"
   sessionId: 102
   roomId: 
+-
+  startDate: "2018-04-23T10:55:00+0200"
+  endDate: "2018-04-23T11:05:00+0200"
+  sessionId: 102
+  roomId:
 -
   startDate: "2018-04-23T12:35:00+0200"
   endDate: "2018-04-23T13:35:00+0200"
@@ -21,9 +26,10 @@
   roomId: 
 -
   startDate: "2018-04-23T18:55:00+0200"
-  endDate: "2018-04-23T23:59:00+0200"
+  endDate: "2018-04-23T23:55:00+0200"
   sessionId: 104
-  roomId: 
+  roomId: 1
+
 
 -
   startDate: "2018-04-24T08:30:00+0200"
@@ -31,8 +37,8 @@
   sessionId: 106
   roomId: 
 -
-  startDate: "2018-04-24T08:00:00+0200"
-  endDate: "2018-04-24T10:05:00+0200"
+  startDate: "2018-04-24T10:45:00+0200"
+  endDate: "2018-04-24T11:05:00+0200"
   sessionId: 102
   roomId: 
 -
@@ -68,34 +74,24 @@
   sessionId: 
   roomId: 1
 -
-  startDate: "2018-04-10:30:00+0200"
+  startDate: "2018-04-23T10:30:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
   roomId: 1
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
+  startDate: "2018-04-23T11:05:00+0200"
+  endDate: "2018-04-23T11:55:00+0200"
   sessionId: 2
   roomId: 1
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:20:00+0200"
-  sessionId: 
-  roomId: 1
--
-  startDate: "2018-04-23T11:20:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
-  sessionId: 
-  roomId: 1
--
-  startDate: "2018-04-11:45:00+0200"
-  endDate: "2018-04-23T12:35:00+0200"
-  sessionId: 66
+  startDate: "2018-04-23T11:55:00+0200"
+  endDate: "2018-04-23T12:45:00+0200"
+  sessionId: 58
   roomId: 1
 -
   startDate: "2018-04-23T13:35:00+0200"
   endDate: "2018-04-23T14:25:00+0200"
-  sessionId: 4
+  sessionId: 14
   roomId: 1
 -
   startDate: "2018-04-23T13:35:00+0200"
@@ -135,7 +131,7 @@
 -
   startDate: "2018-04-23T17:15:00+0200"
   endDate: "2018-04-23T18:05:00+0200"
-  sessionId: 16
+  sessionId: 4
   roomId: 1
 -
   startDate: "2018-04-23T18:05:00+0200"
@@ -165,23 +161,23 @@
   sessionId: 72
   roomId: 1
 -
-  startDate: "2018-04-24T10:55:00+0200"
+  startDate: "2018-04-24T11:05:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 1
   roomId: 1
 -
-  startDate: "2018-04-24T10:55:00+0200"
-  endDate: "2018-04-24T11:20:00+0200"
+  startDate: "2018-04-24T11:05:00+0200"
+  endDate: "2018-04-24T11:30:00+0200"
   sessionId: 
   roomId: 1
 -
-  startDate: "2018-04-24T11:20:00+0200"
-  endDate: "2018-04-24T11:45:00+0200"
+  startDate: "2018-04-24T11:30:00+0200"
+  endDate: "2018-04-24T11:55:00+0200"
   sessionId: 
   roomId: 1
 -
-  startDate: "2018-04-24T11:45:00+0200"
-  endDate: "2018-04-24T12:35:00+0200"
+  startDate: "2018-04-24T11:55:00+0200"
+  endDate: "2018-04-24T12:45:00+0200"
   sessionId: 10
   roomId: 1
 -
@@ -192,12 +188,12 @@
 -
   startDate: "2018-04-24T14:25:00+0200"
   endDate: "2018-04-24T15:15:00+0200"
-  sessionId: 17
+  sessionId: 38
   roomId: 1
 -
   startDate: "2018-04-24T15:15:00+0200"
   endDate: "2018-04-24T16:05:00+0200"
-  sessionId: 14
+  sessionId: 66
   roomId: 1
 -
   startDate: "2018-04-24T16:25:00+0200"
@@ -234,7 +230,7 @@
 -
   startDate: "2018-04-23T10:05:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
-  sessionId: 38
+  sessionId: 17
   roomId: 2
 -
   startDate: "2018-04-23T10:05:00+0200"
@@ -242,28 +238,18 @@
   sessionId: 
   roomId: 2
 -
-  startDate: "2018-04-10:30:00+0200"
+  startDate: "2018-04-23T10:30:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
   roomId: 2
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
-  sessionId: 8
+  startDate: "2018-04-23T11:05:00+0200"
+  endDate: "2018-04-23T11:55:00+0200"
+  sessionId: 16
   roomId: 2
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:20:00+0200"
-  sessionId: 
-  roomId: 2
--
-  startDate: "2018-04-23T11:20:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
-  sessionId: 
-  roomId: 2
--
-  startDate: "2018-04-11:45:00+0200"
-  endDate: "2018-04-23T12:35:00+0200"
+  startDate: "2018-04-23T11:55:00+0200"
+  endDate: "2018-04-23T12:45:00+0200"
   sessionId: 28
   roomId: 2
 -
@@ -299,7 +285,7 @@
 -
   startDate: "2018-04-23T15:15:00+0200"
   endDate: "2018-04-23T16:05:00+0200"
-  sessionId: 29
+  sessionId: 45
   roomId: 2
 -
   startDate: "2018-04-23T16:25:00+0200"
@@ -339,29 +325,29 @@
   sessionId: 48
   roomId: 2
 -
-  startDate: "2018-04-24T10:55:00+0200"
+  startDate: "2018-04-24T11:05:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 39
   roomId: 2
 -
-  startDate: "2018-04-24T10:55:00+0200"
-  endDate: "2018-04-24T11:20:00+0200"
+  startDate: "2018-04-24T11:05:00+0200"
+  endDate: "2018-04-24T11:30:00+0200"
   sessionId: 
   roomId: 2
 -
-  startDate: "2018-04-24T11:20:00+0200"
-  endDate: "2018-04-24T11:45:00+0200"
+  startDate: "2018-04-24T11:30:00+0200"
+  endDate: "2018-04-24T11:55:00+0200"
   sessionId: 
   roomId: 2
 -
-  startDate: "2018-04-24T11:45:00+0200"
-  endDate: "2018-04-24T12:35:00+0200"
+  startDate: "2018-04-24T11:55:00+0200"
+  endDate: "2018-04-24T12:45:00+0200"
   sessionId: 37
   roomId: 2
 -
   startDate: "2018-04-24T13:35:00+0200"
   endDate: "2018-04-24T14:25:00+0200"
-  sessionId: 11
+  sessionId: 33
   roomId: 2
 -
   startDate: "2018-04-24T14:25:00+0200"
@@ -371,7 +357,7 @@
 -
   startDate: "2018-04-24T15:15:00+0200"
   endDate: "2018-04-24T16:05:00+0200"
-  sessionId: 33
+  sessionId: 11
   roomId: 2
 -
   startDate: "2018-04-24T16:25:00+0200"
@@ -416,28 +402,18 @@
   sessionId: 22
   roomId: 3
 -
-  startDate: "2018-04-10:30:00+0200"
+  startDate: "2018-04-23T10:30:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
   sessionId: 23
   roomId: 3
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
+  startDate: "2018-04-23T11:05:00+0200"
+  endDate: "2018-04-23T11:55:00+0200"
   sessionId: 40
   roomId: 3
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:20:00+0200"
-  sessionId: 
-  roomId: 3
--
-  startDate: "2018-04-23T11:20:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
-  sessionId: 
-  roomId: 3
--
-  startDate: "2018-04-11:45:00+0200"
-  endDate: "2018-04-23T12:35:00+0200"
+  startDate: "2018-04-23T11:55:00+0200"
+  endDate: "2018-04-23T12:45:00+0200"
   sessionId: 3
   roomId: 3
 -
@@ -473,7 +449,7 @@
 -
   startDate: "2018-04-23T15:15:00+0200"
   endDate: "2018-04-23T16:05:00+0200"
-  sessionId: 58
+  sessionId: 29
   roomId: 3
 -
   startDate: "2018-04-23T16:25:00+0200"
@@ -488,24 +464,24 @@
 -
   startDate: "2018-04-23T18:05:00+0200"
   endDate: "2018-04-23T18:55:00+0200"
-  sessionId: 47
+  sessionId: 21
   roomId: 3
 
 
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
-  sessionId: 
+  sessionId: 63
   roomId: 3
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:25:00+0200"
-  sessionId: 55
+  sessionId: 
   roomId: 3
 -
   startDate: "2018-04-24T09:25:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
-  sessionId: 56
+  sessionId: 
   roomId: 3
 -
   startDate: "2018-04-24T09:55:00+0200"
@@ -513,23 +489,23 @@
   sessionId: 36
   roomId: 3
 -
-  startDate: "2018-04-24T10:55:00+0200"
+  startDate: "2018-04-24T11:05:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 
   roomId: 3
 -
-  startDate: "2018-04-24T10:55:00+0200"
-  endDate: "2018-04-24T11:20:00+0200"
+  startDate: "2018-04-24T11:05:00+0200"
+  endDate: "2018-04-24T11:30:00+0200"
   sessionId: 50
   roomId: 3
 -
-  startDate: "2018-04-24T11:20:00+0200"
-  endDate: "2018-04-24T11:45:00+0200"
+  startDate: "2018-04-24T11:30:00+0200"
+  endDate: "2018-04-24T11:55:00+0200"
   sessionId: 49
   roomId: 3
 -
-  startDate: "2018-04-24T11:45:00+0200"
-  endDate: "2018-04-24T12:35:00+0200"
+  startDate: "2018-04-24T11:55:00+0200"
+  endDate: "2018-04-24T12:45:00+0200"
   sessionId: 67
   roomId: 3
 -
@@ -572,16 +548,15 @@
   endDate: "2018-04-24T18:55:00+0200"
   sessionId: 
   roomId: 3
-
 -
   startDate: "2018-04-24T13:35:00+0200"
   endDate: "2018-04-24T16:05:00+0200"
-  sessionId: 52
+  sessionId: 53
   roomId: 3
 -
   startDate: "2018-04-24T16:05:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
-  sessionId: 53
+  sessionId: 52
   roomId: 3
 
 # ROOM 4
@@ -601,28 +576,18 @@
   sessionId: 
   roomId: 4
 -
-  startDate: "2018-04-10:30:00+0200"
+  startDate: "2018-04-23T10:30:00+0200"
   endDate: "2018-04-23T10:55:00+0200"
   sessionId: 
   roomId: 4
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
-  sessionId: 
+  startDate: "2018-04-23T11:05:00+0200"
+  endDate: "2018-04-23T11:55:00+0200"
+  sessionId: 73
   roomId: 4
 -
-  startDate: "2018-04-10:55:00+0200"
-  endDate: "2018-04-23T11:20:00+0200"
-  sessionId: 24
-  roomId: 4
--
-  startDate: "2018-04-23T11:20:00+0200"
-  endDate: "2018-04-23T11:45:00+0200"
-  sessionId: 25
-  roomId: 4
--
-  startDate: "2018-04-11:45:00+0200"
-  endDate: "2018-04-23T12:35:00+0200"
+  startDate: "2018-04-23T11:55:00+0200"
+  endDate: "2018-04-23T12:45:00+0200"
   sessionId: 6
   roomId: 4
 -
@@ -643,7 +608,7 @@
 -
   startDate: "2018-04-23T14:25:00+0200"
   endDate: "2018-04-23T15:15:00+0200"
-  sessionId: 45
+  sessionId: 8
   roomId: 4
 -
   startDate: "2018-04-23T14:25:00+0200"
@@ -673,24 +638,24 @@
 -
   startDate: "2018-04-23T18:05:00+0200"
   endDate: "2018-04-23T18:55:00+0200"
-  sessionId: 21
+  sessionId: 47
   roomId: 4
 
 
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
-  sessionId: 63
+  sessionId: 
   roomId: 4
 -
   startDate: "2018-04-24T09:00:00+0200"
   endDate: "2018-04-24T09:25:00+0200"
-  sessionId: 
+  sessionId: 55
   roomId: 4
 -
   startDate: "2018-04-24T09:25:00+0200"
   endDate: "2018-04-24T09:55:00+0200"
-  sessionId: 
+  sessionId: 56
   roomId: 4
 -
   startDate: "2018-04-24T09:55:00+0200"
@@ -698,29 +663,34 @@
   sessionId: 64
   roomId: 4
 -
-  startDate: "2018-04-24T10:55:00+0200"
-  endDate: "2018-04-24T11:45:00+0200"
-  sessionId: 73
-  roomId: 4
--
-  startDate: "2018-04-24T10:55:00+0200"
-  endDate: "2018-04-24T11:20:00+0200"
-  sessionId: 
-  roomId: 4
--
-  startDate: "2018-04-24T11:20:00+0200"
+  startDate: "2018-04-24T11:05:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
   sessionId: 
   roomId: 4
 -
-  startDate: "2018-04-24T11:45:00+0200"
-  endDate: "2018-04-24T12:35:00+0200"
-  sessionId: 13
+  startDate: "2018-04-24T11:05:00+0200"
+  endDate: "2018-04-24T11:30:00+0200"
+  sessionId: 71
+  roomId: 4
+-
+  startDate: "2018-04-24T11:30:00+0200"
+  endDate: "2018-04-24T11:55:00+0200"
+  sessionId: 
+  roomId: 4
+-
+  startDate: "2018-04-24T11:55:00+0200"
+  endDate: "2018-04-24T12:45:00+0200"
+  sessionId: 
+  roomId: 4
+-
+  startDate: "2018-04-24T11:30:00+0200"
+  endDate: "2018-04-24T12:45:00+0200"
+  sessionId: 74
   roomId: 4
 -
   startDate: "2018-04-24T13:35:00+0200"
   endDate: "2018-04-24T14:25:00+0200"
-  sessionId: 65
+  sessionId: 13 
   roomId: 4
 -
   startDate: "2018-04-24T14:25:00+0200"
@@ -730,7 +700,7 @@
 -
   startDate: "2018-04-24T15:15:00+0200"
   endDate: "2018-04-24T16:05:00+0200"
-  sessionId: 7
+  sessionId: 65 
   roomId: 4
 -
   startDate: "2018-04-24T16:25:00+0200"
@@ -740,17 +710,17 @@
 -
   startDate: "2018-04-24T16:25:00+0200"
   endDate: "2018-04-24T16:50:00+0200"
-  sessionId: 71
+  sessionId: 24
   roomId: 4
 -
   startDate: "2018-04-24T16:50:00+0200"
-  endDate: "2018-04-24T18:05:00+0200"
-  sessionId: 74
+  endDate: "2018-04-24T17:15:00+0200"
+  sessionId: 25
   roomId: 4
 -
   startDate: "2018-04-24T17:15:00+0200"
   endDate: "2018-04-24T18:05:00+0200"
-  sessionId: 
+  sessionId: 7
   roomId: 4
 -
   startDate: "2018-04-24T18:05:00+0200"

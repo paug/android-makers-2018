@@ -409,6 +409,19 @@
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/eugenio-marletti"}
 -
+  id: 20
+  name: "Christina"
+  surname: "Lee"
+  thumbnailUrl: clee.jpg
+  company: "Pinterest"
+  bio: "Christina is an Android Engineer at Pinterest, where she works on the Core UI platform team."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
+    - {name: "github", link: "https://github.com/christinalee"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/christina-lee"}
+-
   id: 31
   name: "Marc"
   surname: "Poppleton"
@@ -550,17 +563,6 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/francoisblavoet"}
--
-  id: 20
-  name: "Christina"
-  surname: "Lee"
-  thumbnailUrl: clee.jpg
-  company: "Pinterest"
-  bio: "Christina is an Android Engineer at Pinterest, where she works on the Core UI platform team."
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/RunChristinaRun"}
-    - {name: "github", link: "https://github.com/christinalee"}
 -
   id: 25
   name: "Mathieu"

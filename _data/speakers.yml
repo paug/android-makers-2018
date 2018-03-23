@@ -158,7 +158,7 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/brittbarak"}
-    - {name: "site", link: "www.facebook.com/britt.barak"}
+    - {name: "facebook", link: "https://www.facebook.com/britt.barak"}
     - {name: "site", link: "https://medium.com/@britt.barak"}
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/britt-barak"}
@@ -949,7 +949,7 @@
   surname: "Barbaud"
   thumbnailUrl: jpbarbaud.jpg
   company: "Leboncoin"
-  bio: "Arrivé au bon coin il y a un an, développeur Android de la feature team Search 🔎"
+  bio: "Arrivé au bon coin il y a un an, développeur Android de la feature team Search"
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/jpbarbaud"}

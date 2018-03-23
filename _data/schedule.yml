@@ -2,10 +2,10 @@
   date: "2018-04-23"
   dateReadable: "April 23rd"
   tracks:
-    - {title: "Amphi", color: "#90be4e"}
+    - {title: "Moebius", color: "#90be4e"}
     - {title: "Grand Salon", color: "#03a9f4"}
-    - {title: "Room 100", color: "#e91e63"}
-    - {title: "Room 50", color: "#e3e112"}
+    - {title: "Room 2.02", color: "#e91e63"}
+    - {title: "Room 2.04", color: "#e3e112"}
   timeslots: [
     "08:00",
     "09:00",
@@ -31,10 +31,10 @@
   date: "2018-04-24"
   dateReadable: "April 24th"
   tracks:
-    - {title: "Amphi", color: "#90be4e"}
+    - {title: "Moebius", color: "#90be4e"}
     - {title: "Grand Salon", color: "#03a9f4"}
-    - {title: "Room 100", color: "#e91e63"}
-    - {title: "Room 50", color: "#e3e112"}
+    - {title: "Room 2.02", color: "#e91e63"}
+    - {title: "Room 2.04", color: "#e3e112"}
   timeslots: [
     "08:30",
     "09:00",

@@ -161,6 +161,19 @@
   ribbon:
     - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
+  id: 82
+  name: "Ivan"
+  surname: "Gavrilovic"
+  thumbnailUrl: igavrilovic.jpg
+  company: "Google"
+  bio: "Ivan is working on the Android Plugin for Gradle, the build system in Android Studio. His focus is dex compiler and bytecode processing integration in the build pipeline."
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/gavra0"}
+    - {name: "github", link: "https://github.com/gavra0"}
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
   id: 21
   name: "Britt"
   surname: "Barak"

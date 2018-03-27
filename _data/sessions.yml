@@ -678,13 +678,13 @@
   language: en
 -
   id: 73
-  title: "Parrot Auto"
-  description: "<p></p>"
+  title: "Android dans la voiture"
+  description: "<p>Bien qu’il existe des autoradios Android depuis quelques années, le framework prend en compte la voiture officiellement depuis Android O. Après une introduction aux problématiques logiciels dans la voiture, je vous propose une présentation des services proposés par Android pour la voiture pour ensuite traiter un cas concret, qui parlera plus aux développeurs. Cette présentation se destine à tous ceux qui veulent renforcer leur connaissance générale d’Android et aussi à ceux qui voudraient développer des applications pour l’automobile.</p>"
   type: "Android Development"
-  experience: "Intermediate"
+  experience: "Beginner and novice"
   subtype: presentation
-  speakers: []
-  language: en
+  speakers: [83]
+  language: fr
 -
   id: 74
   title: "APP CLINIC"

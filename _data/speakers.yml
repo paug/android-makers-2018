@@ -1000,3 +1000,11 @@
   company: "Trainline"
   bio: "Android team lead at Trainline with more than 8 years of mobile development experience from UI to API. Before joining Trainline he was creating applications for different industries including banking, trading and gaming."
   rockstar: false
+-
+  id: 83
+  name: "Emmanuel"
+  surname: "Cabestan"
+  thumbnailUrl: ecabestan.jpg
+  company: "Parrot Faurecia Automotive"
+  bio: "Architecte logiciel à Parrot Faurecia Automotive"
+  rockstar: false

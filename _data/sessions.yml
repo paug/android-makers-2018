@@ -273,8 +273,8 @@
   language: en
 -
   id: 28
-  title: "De la conception à la livraison d'un SDK: retour d'expérience"
-  description: "<p>De plus en plus de développeurs mettent à disposition des bibliothèques Android, voire même des SDKs.<br /><br />Dans cette présentation nous évoqueront les point clés de la création d'un SDK, de sa genèse jusqu'à sa livraison et sa maintenance.<br /><br />Ayant travaillé bientôt 4 ans sur le SDK pour drones Parrot, je vous ferais un retour d'experience complet et évoquerait les actions que nous prenons pour l'améliorer.</p>"
+  title: "Recette d’un sdk (presque) parfait"
+  description: "<p>De plus en plus de développeurs mettent à disposition des bibliothèques Android, voire même des SDKs.<br /><br />Dans cette présentation nous évoquerons les points clés de la création d'un SDK, de sa genèse jusqu'à sa livraison et sa maintenance.<br /><br />Ayant travaillé bientôt 4 ans sur le SDK pour drones Parrot, je vous ferai un retour d'experience complet et évoquerai les actions que nous prenons pour l'améliorer.</p>"
   type: "Android Development"
   experience: "Beginner and novice"
   subtype: presentation

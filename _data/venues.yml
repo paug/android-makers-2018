@@ -9,12 +9,12 @@
   name : "Le Beffroi de Montrouge"
   type : "conference"
 -
-  address : "41 Avenue de la République, 92120 Montrouge"
-  coordinates : "48.819331, 2.320293"
-  description : "Modern cuisine and authentic bistro"
-  descriptionFr : "Cuisine moderne et bistrot authentique"
+  address : "1 place de la Libération, 92120 Montrouge"
+  coordinates : "48.818254, 2.319235"
+  description : "Modern brewery with large terrace"
+  descriptionFr : "Brasserie moderne avec grande terrasse"
   id : 2
   image : ""
   imageUrl : "afterparty_0.jpg"
-  name : "Café du Théâtre - Montrouge"
+  name : "Rubeo Monte - Montrouge"
   type : "afterparty"

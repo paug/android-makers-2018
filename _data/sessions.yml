@@ -11,12 +11,12 @@
   id: 103
   title: "Lunch"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Fooooood!\nThe best time to talk with speakers and attendees"
 -
   id: 104
-  title: "Party"
+  title: "Makers Party!"
   service: true
-  description: "Let's talk and drink!\n\nFrom 19:00, come at the <a href='https://goo.gl/maps/ZaKuHBz8znm'>Café du Théatre</a> for chat, networking, drinks and food! Located on the right side of the Beffroi conference center, you should have no trouble finding it :)"
+  description: "Let's talk and drink!\n\nFrom 19:00, come at the <a href='https://goo.gl/maps/tBLj33asqMN2'>Café Rubeo Monte</a> for chat, networking, drinks and food! Located on the front of the Beffroi conference center, you should have no trouble finding it :)"
 -
   id: 105
   title: "Thank you!"

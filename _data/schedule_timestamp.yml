@@ -81,7 +81,7 @@
 -
   startDate: "2018-04-23T11:05:00+0200"
   endDate: "2018-04-23T11:55:00+0200"
-  sessionId: 2
+  sessionId: 1
   roomId: 1
 -
   startDate: "2018-04-23T11:55:00+0200"
@@ -163,7 +163,7 @@
 -
   startDate: "2018-04-24T11:05:00+0200"
   endDate: "2018-04-24T11:45:00+0200"
-  sessionId: 1
+  sessionId: 2
   roomId: 1
 -
   startDate: "2018-04-24T11:05:00+0200"

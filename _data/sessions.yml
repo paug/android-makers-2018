@@ -480,7 +480,7 @@
 -
   id: 53
   title: "Hands-on Android Architecture & Architecture Components"
-  description: "<p>Android developers, we propose you to come experiment the MVP & MVVM Android architectures! From a simple Android app, we will work on why and how to implement architectures principles. We will see how to go from MVP to MVVM with Android Architecture Components.<br /><br />At the agenda: Kotlin, RxJava, Refactoring, Unit Tests and Android architecture components.<br /><br />Warm up your AndroidStudio!!!<br /><br />Requirements:AndroidStudio 3.0, and Kotlin plugin 1.1.x or + Knowledge: RxJava, Kotlin</p>"
+  description: "<p>Android developers, we propose you to come experiment the MVP & MVVM Android architectures! From a simple Android app, we will work on why and how to implement architectures principles. We will see how to go from MVP to MVVM with Android Architecture Components.<br /><br />At the agenda: Kotlin, RxJava, Refactoring, Unit Tests and Android architecture components & Koin.<br /><br />Warm up your AndroidStudio!!!<br /><br />Requirements:AndroidStudio 3.0, and Kotlin plugin 1.1.x or + Knowledge: RxJava, Kotlin</p>"
   type: "Android Development"
   experience: "Beginner and novice"
   subtype: workshop

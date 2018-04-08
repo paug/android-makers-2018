@@ -106,7 +106,7 @@
   type: "Android Development"
   experience: "Beginner and novice"
   subtype: presentation
-  speakers: [13]
+  speakers: [84,85]
   language: en
 -
   id: 10
@@ -416,8 +416,8 @@
   language: en
 -
   id: 46
-  title: "Commonly Overlooked Areas of Security"
-  description: "<p>Imagine the following. You're happily coding along when you suddenly realize that there is a serious security flaw with your app. At first you may be in disbelief. You might turn to your co-worker and ask, “Does this sound right to you?” Then the realization of the magnitude of the problem slowly dawns on you. You might swear, walk outside for fresh air, or even laugh out loud, not knowing how else to respond.<br /><br />Maybe you haven't experienced anything like that. In Clive's talk, you will explore some commonly overlooked areas of Android programming that may pose serious security concerns, so that this doesn't happen to you in the future.<br /><br />Why overlooked? Because most of the issues Clive brings up may seem like it has nothing to do with security, even to an experienced Android developer. Addressing these issues may seem like busy work that someone on the team should do, but no one ends up doing because no time is allotted for it. These issues include, for example, logging, obfuscation, NDK, library dependencies, recent app menu, keystore, etc. Clive's hope for this talk is that we recognize the security implications of these overlooked areas and thus prioritize addressing these issues</p>"
+  title: "Commonly Overlooked Areas of Security: Revisited"
+  description: "<p>Imagine the following. You're happily coding along when you suddenly realize that there is a serious security flaw with your app. At first you may be in disbelief. You might turn to your co-worker and ask, “Does this sound right to you?“ Then the realization of the magnitude of the problem slowly dawns on you. You might swear, walk outside for fresh air, or even laugh out loud, not knowing how else to respond.<br /><br />Maybe you haven't experienced anything like that. In Clive's talk, you will explore some commonly overlooked areas of Android programming that may pose serious security concerns, so that this doesn't happen to you in the future.<br /><br />Why overlooked? Because most of the issues Clive brings up may seem like it has nothing to do with security, even to an experienced Android developer. Addressing these issues may seem like busy work that someone on the team should do, but no one ends up doing because no time is allotted for it. These issues include, for example, logging, obfuscation, NDK, library dependencies, and more! Clive's hope for this talk is that we recognize the security implications of these overlooked areas and thus prioritize addressing these issues</p>"
   type: "Android Development"
   experience: "Beginner and novice"
   subtype: presentation

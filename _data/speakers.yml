@@ -94,19 +94,6 @@
   ribbon:
     - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
 -
-  id: 13
-  name: "Alex"
-  surname: "Ruiz"
-  thumbnailUrl: aruiz.jpg
-  company: "Google"
-  bio: "Software Engineer working on Android Studio at Google."
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/alexruiz"}
-    - {name: "github", link: "https://github.com/alexruiz"}
-  ribbon:
-    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
--
   id: 14
   name: "Nick"
   surname: "Butcher"
@@ -1008,3 +995,23 @@
   company: "Parrot Faurecia Automotive"
   bio: "Architecte logiciel à Parrot Faurecia Automotive"
   rockstar: false
+-
+  id: 84
+  name: "Bradley"
+  surname: "Smith"
+  thumbnailUrl: bsmith.webp
+  company: "Google"
+  bio: "Software Engineer working on Android Studio at Google. Currently focusing on how Studio can make working with Gradle build files easier."
+  rockstar: true
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}
+-
+  id: 85
+  name: "Lucas"
+  surname: "Smaira"
+  thumbnailUrl: ecabestan.jpg
+  company: "Google"
+  bio: "Software Engineer working on Android Studio at Google. For the last year, I've been focused in improving Gradle Sync performance, increasing developer's productivity."
+  rockstar: false
+  ribbon:
+    - {abbr: "GOO", title: "Googler", url: "https://d.android.com"}

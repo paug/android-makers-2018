@@ -27,3 +27,4 @@
     - {name: "Qonto", description: "Qonto", link: "https://qonto.eu", imageUrl: "qonto.png"}
     - {name: "Smile", description: "Smile", link: "https://www.smile.eu", imageUrl: "smile.png"}
     - {name: "Ovia Health", description: "The Leader in Women's health", link: "http://benefits.oviahealth.com/", imageUrl: "ovia.png"}
+    - {name: "Yelp", description: "Yelp is your local guide for finding the perfect place to eat, shop, drink, explore, and relax.", link: "https://yelp.com/careers", imageUrl: "yelp.png"}

@@ -20,6 +20,7 @@
   group: "Media"
   elements:
     - {name: "ChooseYourBoss", description: "ChooseYourBoss : recrutement pour les IT fait par des IT", link: "https://www.chooseyourboss.com/", imageUrl: "chooseyourboss.png"}
+    - {name: "StartupVillage", description: "StartupVillage", link: "http://www.startupvillage.fr", imageUrl: "startupvillage.png"}
 -
   group: "Individual Speaker Sponsor"
   elements:

@@ -1,0 +1,18 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.paug.androidmakers",
+    "sha256_cert_fingerprints":
+    ["27:77:B6:49:B2:69:17:1C:C8:62:6D:1D:98:7F:8F:67:45:66:9C:F3:8B:20:88:67:65:43:9C:4F:1D:F8:8F:C9"]
+  }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.paug.androidmakers.preprod",
+    "sha256_cert_fingerprints":
+    ["27:77:B6:49:B2:69:17:1C:C8:62:6D:1D:98:7F:8F:67:45:66:9C:F3:8B:20:88:67:65:43:9C:4F:1D:F8:8F:C9"]
+  }
+}]

@@ -3,7 +3,7 @@
   dateReadable: "April 23rd"
   tracks:
     - {title: "Moebius", color: "#90be4e"}
-    - {title: "Grand Salon", color: "#03a9f4"}
+    - {title: "Room Blin", color: "#03a9f4"}
     - {title: "Room 2.02", color: "#e91e63"}
     - {title: "Room 2.04", color: "#e3e112"}
   timeslots: [
@@ -32,7 +32,7 @@
   dateReadable: "April 24th"
   tracks:
     - {title: "Moebius", color: "#90be4e"}
-    - {title: "Grand Salon", color: "#03a9f4"}
+    - {title: "Room Blin", color: "#03a9f4"}
     - {title: "Room 2.02", color: "#e91e63"}
     - {title: "Room 2.04", color: "#e3e112"}
   timeslots: [

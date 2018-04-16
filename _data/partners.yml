@@ -16,6 +16,7 @@
   group: "Virtual sponsor"
   elements:
     - {name: "Deezer", description: "Deezer. Just hack it!", link: "https://www.deezerjobs.com/en/this-is-deezer/", imageUrl: "deezer.png"}
+    - {name: "Canal+", description: "Canal+", link: "http://www.canalplusgroupe.com/", imageUrl: "canal.png"}
 -
   group: "Media"
   elements:

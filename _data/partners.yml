@@ -18,6 +18,10 @@
     - {name: "Deezer", description: "Deezer. Just hack it!", link: "https://www.deezerjobs.com/en/this-is-deezer/", imageUrl: "deezer.png"}
     - {name: "Canal+", description: "Canal+", link: "http://www.canalplusgroupe.com/", imageUrl: "canal.png"}
 -
+  group: "Makers"
+  elements:
+    - {name: "Immersiv.io", description: "Immersiv.io, Experts en Réalité Augmentée et Réalité Mixte, nous créons les outils pour l'industrie du futur.", link: "https://www.immersiv.io/", imageUrl: "immersiv.png"}
+-
   group: "Media"
   elements:
     - {name: "ChooseYourBoss", description: "ChooseYourBoss : recrutement pour les IT fait par des IT", link: "https://www.chooseyourboss.com/", imageUrl: "chooseyourboss.png"}

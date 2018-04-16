@@ -33,4 +33,4 @@
 -
   group: "Special Thanks"
   elements:
-    - {name: "ESGI", description: "ESGI - École d'informatique en alternance à Paris", link: "https://www.esgi.fr/", imageUrl: esgi.png"}
+    - {name: "ESGI", description: "ESGI - École d'informatique en alternance à Paris", link: "https://www.esgi.fr/", imageUrl: "esgi.png"}

@@ -21,6 +21,7 @@
   group: "Makers"
   elements:
     - {name: "Immersiv.io", description: "Immersiv.io, Experts en Réalité Augmentée et Réalité Mixte, nous créons les outils pour l'industrie du futur.", link: "https://www.immersiv.io/", imageUrl: "immersiv.png"}
+    - {name: "MWM", description: "MWM’s only purpose is to use its expertise to bring more and more advanced technologies enabling new musical experiences accessible to every music lover.", link: "https://musicworldmedia.com/", imageUrl: "mwm.png"}
 -
   group: "Media"
   elements:

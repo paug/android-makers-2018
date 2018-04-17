@@ -653,7 +653,7 @@
   bio: "Responsable d'un pôle d'expertise en développement mobile natif.<br /><br />J'interviens dans l'automatisation des chaines de production sur mobile. Je suis sollicité sur des projets mobiles complexes afin d'apporter une solution adaptée. Je mets en place des architectures techniques évolutives et je m'assure que les bonnes pratiques de programmation sont respectées. J'interviens à la fois sur Android et iOS et j'ai appris à autant aimer que détester chacun des deux.<br /><br />Je bidouille des projets DIY à base de raspi et j'aime courir sous la neige."
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/@_antdesc"}
+    - {name: "twitter", link: "https://twitter.com/_antdesc"}
 -
   id: 37
   name: "Yannick"
@@ -894,7 +894,7 @@
   bio: "Kirill is a developer at Shopify and active member of revived Ottawa Android Meetup. ~3 years Android Dev, 2+ year Canadian, born and raised in Altai, Russia. Passionate about mobile development, platform agnostic (iOS and Android <3) , suck at biographies"
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/@k_suslov"}
+    - {name: "twitter", link: "https://twitter.com/k_suslov"}
     - {name: "site", link: "https://medium.com/@kirillsuslov"}
     - {name: "github", link: "https://github.com/iwuvhugs"}
 -

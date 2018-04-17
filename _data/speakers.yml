@@ -883,7 +883,7 @@
   bio: "Etudiant en alternance en M2 à Supdeweb. Actuellement développeur Android chez CANAL+, je travaille principalement sur myCANAL."
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/@Antoinedroid"}
+    - {name: "twitter", link: "https://twitter.com/Antoinedroid"}
     - {name: "site", link: "http://antoine-danois.fr/"}
 -
   id: 62

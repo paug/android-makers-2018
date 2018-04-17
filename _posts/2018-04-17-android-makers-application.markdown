@@ -23,7 +23,7 @@ Within the app, you are also able to filter the session by their language and ma
 
 **Useful information**
 
-Access information to "Les Salons de l'Aveyron" are given, along with information about the April 10th evening event.
+Access information to the venue are given, along with information about the afterparty.
 Don't hesitate to use [CityMapper](https://citymapper.com/paris) or the [RATP](http://www.ratp.fr/) to gather public transportation ride information.
 
 **Partners**
@@ -56,7 +56,7 @@ Vous aurez également la possibilité de filtrer par langue et d’établir votr
 
 **Les informations pratiques**
 
-Les informations d’accès aux salons de l’Aveyron vous sont données, tout comme pour la soirée du 10 avril. Par ailleurs, n’hésitez pas à vous tourner vers [CityMapper](https://citymapper.com/paris) ou la [RATP](http://www.ratp.fr/) pour obtenir les trajets en transports en commun.
+Les informations d’accès au lieu de la conférence vous sont données, tout comme pour la soirée du premier jour. Par ailleurs, n’hésitez pas à vous tourner vers [CityMapper](https://citymapper.com/paris) ou la [RATP](http://www.ratp.fr/) pour obtenir les trajets en transports en commun.
 
 
 **Les partenaires**

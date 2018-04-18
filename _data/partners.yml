@@ -27,6 +27,7 @@
   elements:
     - {name: "ChooseYourBoss", description: "ChooseYourBoss : recrutement pour les IT fait par des IT", link: "https://www.chooseyourboss.com/", imageUrl: "chooseyourboss.png"}
     - {name: "StartupVillage", description: "StartupVillage", link: "http://www.startupvillage.fr", imageUrl: "startupvillage.png"}
+    - {name: "FrAndroid", description: "Frandroid, Tout ce qu'il faut savoir sur Android, et pas seulement.", link: "http://www.frandroid.com", imageUrl: "frandroid.png"}
 -
   group: "Individual Speaker Sponsor"
   elements:

@@ -110,12 +110,12 @@
   language: en
 -
   id: 10
-  title: "Reduce, reuse, recycle ♻"
-  description: "<p>RecyclerView is one of the most powerful and versatile components in your toolkit for building complex apps. But are you getting the most out of it? This talk will cover best practices for performance and efficiency. You’ll also learn advanced customizations to layout, animation and gestures.</p>"
+  title: "Typesetting: designing and building beautiful text layouts"
+  description: "<p>The design and usability of an app can be heavily influenced by one of the most common UI elements: TextViews. From font selection and pairing, type size, scale and alignment to line breaking… there’s a lot to consider when displaying text. There are many best practices from print and the web that we can learn from. This talk covers the design principles behind producing balanced, legible text layouts and how to implement them on Android.</p>"
   type: "UX/UI"
   experience: "Intermediate"
   subtype: presentation
-  speakers: [14]
+  speakers: [5,14]
   language: en
 -
   id: 11

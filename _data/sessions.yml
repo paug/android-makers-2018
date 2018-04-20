@@ -296,7 +296,7 @@
   experience: "Beginner and novice"
   subtype: presentation
   speakers: [35]
-  language: en
+  language: fr
 -
   id: 32
   title: "Application monolithique, c'est pas automatique"

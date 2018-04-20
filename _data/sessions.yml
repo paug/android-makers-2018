@@ -649,15 +649,6 @@
   speakers: [80]
   language: en
 -
-  id: 70
-  title: "Lint for Life: Your Customizable Guard On the Go"
-  description: "<p>Android Lint was introduced in ADT 16 as a tool to scan for potential bugs. However, Lint itself has been around since the Unix V7 in 1979 as a static analysis tool and adopted by every major programming language over the past 40 years.<br /><br />Well utilized Lint not only prevents common errors such as use of deprecated elements or API calls, but also improves code quality and enforce tailored rules.<br /><br />At the end of this session, audience will walk out with knowledge that reveals the full potential behind Android Lint from the built-in checks and configuration, most updated APIs, UAST Library. And step by step implementation will be shared for one customized check used by production Groupon app (also submitted to the Retrofit Library!). This talk will also cover the difference between Android Lint and other static code analysis tools such as PMD and Findbugs to help you make better decisions on which fits a certain purpose best.<br /><br />Now are you ready to join us and become a Lint Expert?</p>"
-  type: "Android Development"
-  experience: "Intermediate"
-  subtype: presentation
-  speakers: [75]
-  language: en
--
   id: 71
   title: "When Metrics Lie"
   description: "<p>We are now operating in a data-driven world. If your company isn't using metrics to determine what their next step is, then your company is likely moving blindly. That is fairly universally accepted, but what's worse is when what your metrics tell you isn't true. It is very easy for a metric logging error to complete invalidate your conclusion. This talk discusses what we at Pinterest do to avoid this.</p>"

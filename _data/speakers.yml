@@ -1011,3 +1011,6 @@
   company: "Dreamy Robots"
   bio: "Christophe is a freelance Android developer from Belgium with extended experience working for startups and mobile agencies. In love with the green robot since 2009, he is an active contributor to the Android community and author of a few applications such as Brussels Transports (a public transport app) and FOSDEM Companion (the official Android app for FOSDEM). In 2017 he took interest in Kotlin and wrote a series of popular blog posts on Medium: Exploring Kotlin's hidden costs."
   rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/BladeCoder"}
+    - {name: "github", link: "https://github.com/cbeyls"}

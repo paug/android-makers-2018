@@ -677,12 +677,12 @@
   language: fr
 -
   id: 74
-  title: "APP CLINIC"
-  description: "<p></p>"
+  title: "App Clinic"
+  description: "<p>A bunch of Google Developers Experts will come on stage, discovering a few applications in live, they will provide feedback and advices to the developers.<br/>Propose your application for the review by sending the Play Store link or the APK to contact@androidmakers.fr</p>"
   type: "Android Development"
   experience: "Intermediate"
   subtype: presentation
-  speakers: []
+  speakers: [19,21,15,79,22,47,69]
   language: en
 -
   id: 75

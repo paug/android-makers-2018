@@ -51,11 +51,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {link: "https://paug.github.io/android-makers-2017/", text: "2017 Edition"}
 bottomNavigationLinks:
- - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
+ - {link: "https://www.eventbrite.co.uk/e/android-makers-2019-tickets-45468692082#tickets", text: "Get your 2019 edition Tickets!!"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.co.uk/e/android-makers-2018-tickets-41416689433", text: "Get Tickets"}
- - {link: "https://cfp.androidmakers.fr/", text: "Call For Makers"}
- - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
+ - {link: "https://www.eventbrite.co.uk/e/android-makers-2019-tickets-45468692082#tickets", text: "Get your 2019 edition Tickets!!"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -70,9 +68,7 @@ eventDate: "23rd & 24th april, 2018"
 typeoutTextValues: '"", "France", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
- - {link: "https://www.eventbrite.co.uk/e/android-makers-2018-tickets-41416689433", text: "Get Tickets"}
- - {link: "https://cfp.androidmakers.fr/", text: "Call For Makers"}
- - {link: "mailto:contact@androidmakers.fr", text: "Become a sponsor"}
+ - {link: "https://www.eventbrite.co.uk/e/android-makers-2019-tickets-45468692082#tickets", text: "Get your 2019 edition Tickets!!"}
 
 # About Block
 aboutTitle: "Much more than a conference"

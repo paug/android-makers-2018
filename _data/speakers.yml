@@ -1014,3 +1014,14 @@
   social:
     - {name: "twitter", link: "https://twitter.com/BladeCoder"}
     - {name: "github", link: "https://github.com/cbeyls"}
+-
+  id: 87
+  name: "Lorica"
+  surname: "Claesson"
+  thumbnailUrl: lclaesson.jpg
+  company: "Nordic Usability"
+  bio: "Lorica is a UX Designer with a twist, having both a design and technical background.<br /><br />She is passionate about innovative desktop, web and mobile applications that are tailored for real users. Designing engaging and easy-to-use interfaces backed up by a solid technical understanding of what is feasible and using a range of methods for understanding what users really want and need.<br /><br />Lorica works as a UX design consultant in Switzerland, specializing in mobile design, with a rare interest for designing Android apps."
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lorica"}
+    - {name: "site", link: "http://nordicusability.com/"}

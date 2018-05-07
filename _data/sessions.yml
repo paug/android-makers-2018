@@ -553,7 +553,7 @@
   presentation: "https://speakerdeck.com/kirill_suslov/explore-kotlin-dot-collections-api"
 -
   id: 57
-  title: "Using Support Library for Android Oreo : Fonts, Emoji and Text"
+  title: "Fonts, Emoji and Text Using Support Libraries"
   description: "<p>Android Oreo introduced exciting text changes that make it easier to use custom fonts, communicate with emojis, reduce APK size, and expand or contract textviews dynamically. Luckily, the Support Libraries from v26 onwards allow us to implement these new features with backwards compatibility.<br /><br />In this talk, you will learn how to implement these text changes with the help of the Support Libraries, and their limitations. You will also learn about how they are natively implemented in Android Oreo versus the Support Libraries.<br /><br />At the end of this talk, you will have an increased understanding of the inner workings of Fonts in XML, Downloadable Fonts, EmojiCompat and autosizing of TextViews, as well as be ready to update your apps with them without the fear of the unknown!</p>"
   type: "Android Development"
   experience: "Beginner and novice"

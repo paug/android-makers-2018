@@ -63,6 +63,7 @@
   subtype: presentation
   speakers: [4,81]
   language: en
+  presentation: "https://speakerdeck.com/camaelon/constraintlayout-2-dot-0-sneak-peek-1"
 -
   id: 5
   title: "Creating Layouts doesn’t have to be painful"
@@ -72,6 +73,7 @@
   subtype: presentation
   speakers: [7,8]
   language: en
+  presentation: "https://docs.google.com/presentation/d/e/2PACX-1vSanSP0pxPRNSXi1r8VUNyru6mkBN6HifcQE9nUQcgOG96fDwEByXaWIiEh2O73EhDEbPGI4oO0Al7z/pub?start=false&loop=false&delayms=5000&slide=id.gc6f9544c1_0_0"
 -
   id: 6
   title: "Ghost in the Machine - Bridging VR and IoT"
@@ -90,6 +92,7 @@
   subtype: presentation
   speakers: [10]
   language: en
+  presentation: "https://www.slideshare.net/RaimonRls/the-bytecode-gobbledygook"
 -
   id: 8
   title: "Resources internals"
@@ -99,6 +102,7 @@
   subtype: presentation
   speakers: [11,12]
   language: en
+  presentation: "https://speakerdeck.com/sonyxperiadev/marten-kongstad-and-zoran-jovanovic-resource-overlay-updated"
 -
   id: 9
   title: "Gradle in Android Studio 3.2 and beyond"
@@ -108,6 +112,7 @@
   subtype: presentation
   speakers: [84,85]
   language: en
+  presentation: "https://speakerdeck.com/sonyxperiadev/marten-kongstad-and-zoran-jovanovic-resource-overlay-updated"
 -
   id: 10
   title: "Typesetting: designing and building beautiful text layouts"
@@ -126,6 +131,7 @@
   subtype: presentation
   speakers: [15,79]
   language: en
+  presentation: "https://www.dropbox.com/sh/jtkl8a2lv3vwxdb/AAC5ADc5HDUJ7RDHzin5ODGya?dl=0"
 -
   id: 12
   title: "The JPEG of 3D: Bringing 3D scenes and objects into your 2D Android app with glTF"
@@ -144,6 +150,7 @@
   subtype: presentation
   speakers: [17]
   language: fr
+  presentation: "https://speakerdeck.com/francois_blavoet/vectorial-victories-android-makers-2018-paris"
 -
   id: 14
   title: "Better asynchronous programming with Kotlin Coroutines"
@@ -153,6 +160,7 @@
   subtype: presentation
   speakers: [18]
   language: en
+  presentation: "https://speakerdeck.com/erikhellman/better-async-with-kotlin-coroutines"
 -
   id: 15
   title: "Tips for Library Development (from a Startup Developer)"
@@ -180,6 +188,7 @@
   subtype: presentation
   speakers: [21]
   language: en
+  presentation: "https://speakerdeck.com/brittbarak/whos-afraid-of-machine-learning-and-first-steps-with-tensorflow"
 -
   id: 18
   title: "Design Tools and Handoffs*"
@@ -189,6 +198,7 @@
   subtype: presentation
   speakers: [22]
   language: en
+  presentation: "https://photos.google.com/share/AF1QipOMhRkLfo2wxFRYroVuQbx0WIiLwu0ib-YP-VFjC0c7WQuWDeU1A-Vm0jEc-6s7sQ?key=XzAzZGhOb21TSy15UnJDRmVidE5icDJMUTNmSmd3"
 -
   id: 19
   title: "Themes, styles & more: from zero to hero"
@@ -198,6 +208,7 @@
   subtype: presentation
   speakers: [3]
   language: en
+  presentation: "https://speakerdeck.com/cyrilmottier/theme-styles-and-more-from-zero-to-here"
 -
   id: 20
   title: "The big rewrite"
@@ -207,6 +218,7 @@
   subtype: presentation
   speakers: [23]
   language: en
+  presentation: "https://speakerdeck.com/jeroenmols/the-big-rewrite"
 -
   id: 21
   title: "Migrating from installed to instant app, a retrospective"
@@ -225,6 +237,7 @@
   subtype: presentation
   speakers: [25]
   language: fr
+  presentation: "https://speakerdeck.com/mhausherr/les-surcouches-constructeur-sur-android"
 -
   id: 23
   title: "Accessibilité sur Android : comprendre les aveugles pour répondre à leur besoin"
@@ -234,6 +247,7 @@
   subtype: presentation
   speakers: [26]
   language: fr
+  presentation: "https://speakerdeck.com/thierrylee/accessibilite-sur-android-android-makers-2018"
 -
   id: 24
   title: "Traitement d'image simple et rapide avec Renderscript"
@@ -243,6 +257,7 @@
   subtype: presentation
   speakers: [27]
   language: fr
+  presentation: "https://speakerdeck.com/qhutch/traitement-dimage-simple-et-rapide-avec-renderscript"
 -
   id: 25
   title: "OK Google, déploie mon App en prod !"
@@ -261,6 +276,7 @@
   subtype: presentation
   speakers: [30]
   language: fr
+  presentation: "https://speakerdeck.com/jinqian/from-proguard-to-r8-take-care-of-your-byte-code"
 -
   id: 27
   title: "Android all the things!"
@@ -270,6 +286,7 @@
   subtype: presentation
   speakers: [31]
   language: en
+  presentation: "https://speakerdeck.com/marcpoppleton/android-all-the-things"
 -
   id: 28
   title: "Recette d’un sdk (presque) parfait"
@@ -279,6 +296,7 @@
   subtype: presentation
   speakers: [32]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1oAY_5nDIiQY3s4L0uqsHx7ugcZpWnqWiIw5Gs2DKhW4/edit#slide=id.p"
 -
   id: 29
   title: "Android ou l'ART d'optimiser le code Java"
@@ -288,6 +306,7 @@
   subtype: presentation
   speakers: [33]
   language: fr
+  presentation: "https://www.slideshare.net/secret/bNJuBxM7ST4lvy"
 -
   id: 31
   title: "Remote control your application"
@@ -297,6 +316,7 @@
   subtype: presentation
   speakers: [35]
   language: fr
+  presentation: "https://speakerdeck.com/stankocken/remote-control-your-app"
 -
   id: 32
   title: "Application monolithique, c'est pas automatique"
@@ -306,6 +326,7 @@
   subtype: presentation
   speakers: [36]
   language: fr
+  presentation: "https://speakerdeck.com/antdesc/2018"
 -
   id: 33
   title: "Dagger-android, under the hood"
@@ -315,6 +336,7 @@
   subtype: presentation
   speakers: [37]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1HQ8Prdt3emkWQZWt_H5H6KwmCijyl4bBUrhjC2QiiF4/edit#slide=id.gc6f73a04f_0_0"
 -
   id: 34
   title: "De la domotique faite-maison avec Android Things et le Google Assistant"
@@ -332,7 +354,8 @@
   experience: "Intermediate"
   subtype: presentation
   speakers: [39]
-  language: fr
+  language:
+  presentation: "https://speakerdeck.com/mdaniel56/place-de-gitlab-au-sein-des-process-dune-equipe-mobile"
 -
   id: 36
   title: "Par delà le MediaRouter, fabriquons notre FooBarCast !"
@@ -342,6 +365,7 @@
   subtype: presentation
   speakers: [40]
   language: fr
+  presentation: "https://speakerdeck.com/pcrepieux/par-dela-le-mediarouter-fabriquons-notre-foobarcast"
 -
   id: 37
   title: "Rock the Gradle, rule the world"
@@ -351,6 +375,7 @@
   subtype: presentation
   speakers: [41]
   language: fr
+  presentation: "https://gitpitch.com/xgouchet/Talks/AndroidMakers_RockTheGradle#/"
 -
   id: 38
   title: "Want to make a change? Stop talking and start listening"
@@ -360,6 +385,7 @@
   subtype: presentation
   speakers: [42]
   language: en
+  presentation: "https://speakerdeck.com/maltzj/want-to-make-a-change-stop-talking-and-start-listening-android-makers-2018"
 -
   id: 39
   title: "The Curious Case of Android Button"
@@ -369,6 +395,7 @@
   subtype: presentation
   speakers: [43]
   language: en
+  presentation: "https://speakerdeck.com/cortinico/the-curious-case-of-android-button-yelp-engineering"
 -
   id: 40
   title: "Sign here please!"
@@ -387,6 +414,7 @@
   subtype: presentation
   speakers: [45]
   language: en
+  presentation: "https://speakerdeck.com/zmarkan/push-notifications-that-dont-suck"
 -
   id: 42
   title: "Reusable Cross-Platform Frameworks with Kotlin/Native"
@@ -414,6 +442,7 @@
   subtype: presentation
   speakers: [49]
   language: en
+  presentation: "https://speakerdeck.com/alexgherschon/kotlinify-your-gradle"
 -
   id: 46
   title: "Commonly Overlooked Areas of Security: Revisited"
@@ -423,6 +452,7 @@
   subtype: presentation
   speakers: [50]
   language: en
+  presentation: "https://speakerdeck.com/cliveleehere/commonly-overlooked-areas-of-security-revisited"
 -
   id: 47
   title: "Adding conversational features to your mobile app"
@@ -432,6 +462,7 @@
   subtype: presentation
   speakers: [51,52]
   language: en
+  presentation: "https://speakerdeck.com/elainedb/adding-conversational-features-to-your-mobile-app-1"
 -
   id: 48
   title: "Add some reality to your app with ArCore"
@@ -441,6 +472,7 @@
   subtype: presentation
   speakers: [53]
   language: en
+  presentation: "https://speakerdeck.com/yuliyakaleda/add-reality-to-your-app-with-arcore-1"
 -
   id: 49
   title: "Better, Faster Code Reviews in an Agile World"
@@ -450,6 +482,7 @@
   subtype: presentation
   speakers: [54,55]
   language: en
+  presentation: "https://speakerdeck.com/smarkovik/better-faster-code-reviews"
 -
   id: 50
   title: "Quickly build your app alone with Firebase."
@@ -459,6 +492,7 @@
   subtype: presentation
   speakers: [56]
   language: en
+  presentation: "https://speakerdeck.com/renaudmathieu/quickly-build-your-app-alone-with-firebase-android-makers-2018"
 -
   id: 51
   title: "Up close and personal with Nearby"
@@ -468,6 +502,7 @@
   subtype: presentation
   speakers: [57]
   language: en
+  presentation: "https://speakerdeck.com/hugovisser/up-close-and-personal-with-nearby"
 -
   id: 52
   title: "Hands on with ConstraintLayout"
@@ -495,6 +530,7 @@
   subtype: presentation
   speakers: [60]
   language: en
+  presentation: "https://speakerdeck.com/theyann/the-sounds-of-android-androidmakers-2018"
 -
   id: 55
   title: "Android Auto, vos médias dans votre voiture."
@@ -504,6 +540,7 @@
   subtype: presentation
   speakers: [61]
   language: fr
+  presentation: "https://docs.google.com/presentation/d/1J83scwRh7WmNBTql2sZ3_s-kbHNUk_beNZHWXFFZYBg/edit"
 -
   id: 56
   title: "Explore Kotlin.Collections API"
@@ -513,6 +550,7 @@
   subtype: presentation
   speakers: [62]
   language: en
+  presentation: "https://speakerdeck.com/kirill_suslov/explore-kotlin-dot-collections-api"
 -
   id: 57
   title: "Using Support Library for Android Oreo : Fonts, Emoji and Text"
@@ -522,6 +560,7 @@
   subtype: presentation
   speakers: [63]
   language: en
+  presentation: "https://speakerdeck.com/anitas3791/using-support-library-for-android-oreo-fonts-emoji-and-text"
 -
   id: 58
   title: "Travelling across Asia - Our journey from Java to Kotlin"
@@ -540,6 +579,7 @@
   subtype: presentation
   speakers: [65]
   language: en
+  presentation: "https://speakerdeck.com/michaelaubert/android-devops-espresso-on-genymotion-in-aws"
 -
   id: 60
   title: "Party like it's 1970: Conversational interfaces are back (into your Android app)"
@@ -549,6 +589,7 @@
   subtype: presentation
   speakers: [66,67]
   language: en
+  presentation: "https://docs.google.com/presentation/d/10GOuDZ0YdETjH2jDh5HIzRU0EIbqXW5YXRfJ4fdFExg/present?slide=id.g34adb19aba_0_508"
 -
   id: 61
   title: "Kotlin Backstage"
@@ -558,6 +599,7 @@
   subtype: presentation
   speakers: [68]
   language: en
+  presentation: "https://www.slideshare.net/vonGraham/kotlin-backstage-android-makers-paris-2018"
 -
   id: 62
   title: "ADB, Break On Through To the Other Side"
@@ -567,6 +609,7 @@
   subtype: presentation
   speakers: [69]
   language: en
+  presentation: "https://docs.google.com/presentation/d/1HH4Bog2O6GShoMZ0Z7SLNAtVwlDWeL7mX516uG_o580/edit"
 -
   id: 63
   title: "Frustration-free orientation changes"
@@ -603,6 +646,7 @@
   subtype: presentation
   speakers: [73]
   language: en
+  presentation: "https://speakerdeck.com/writtmeyer/kotlin-dsls"
 -
   id: 67
   title: "Pragmatic Testing"
@@ -612,6 +656,7 @@
   subtype: presentation
   speakers: [74]
   language: en
+  presentation: "https://speakerdeck.com/hzsweers/pragmatic-testing"
 -
   id: 68
   title: "Keynote: Modern Android Development"

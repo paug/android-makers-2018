@@ -675,6 +675,7 @@
   subtype: presentation
   speakers: [82]
   language: en
+  presentation: "https://docs.google.com/presentation/d/1KXmV_CzEKN8KwjU3QwIRlhwg8F4D5JsKk-reO4Rhtuk/edit?usp=sharing"
 -
   id: 30
   title: "Gérer vos tests d'UI de manière simple et efficace"

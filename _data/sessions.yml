@@ -346,6 +346,7 @@
   subtype: presentation
   speakers: [38]
   language: fr
+  presentation: "http://bit.ly/homewithandroid"
 -
   id: 35
   title: "Place de Gitlab au sein des process d'une équipe mobile"

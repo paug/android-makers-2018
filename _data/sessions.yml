@@ -36,6 +36,7 @@
   subtype: presentation
   speakers: [5]
   language: en
+  video: "//www.youtube.com/embed/U6Lgym1XEBI"
 -
   id: 2
   title: "Storing and displaying data with Room and Paging"
@@ -45,6 +46,7 @@
   subtype: presentation
   speakers: [5]
   language: en
+  video: "//www.youtube.com/embed/CKr5JKmqmTI"
 -
   id: 3
   title: "Check your app's vitals"
@@ -54,6 +56,7 @@
   subtype: presentation
   speakers: [6]
   language: en
+  video: "//www.youtube.com/embed/7BegrYHwwYY"
 -
   id: 4
   title: "ConstraintLayout 2.0"
@@ -64,6 +67,7 @@
   speakers: [4,81]
   language: en
   presentation: "https://speakerdeck.com/camaelon/constraintlayout-2-dot-0-sneak-peek-1"
+  video: "//www.youtube.com/embed/W39H7972buY"
 -
   id: 5
   title: "Creating Layouts doesn’t have to be painful"
@@ -74,6 +78,7 @@
   speakers: [7,8]
   language: en
   presentation: "https://docs.google.com/presentation/d/e/2PACX-1vSanSP0pxPRNSXi1r8VUNyru6mkBN6HifcQE9nUQcgOG96fDwEByXaWIiEh2O73EhDEbPGI4oO0Al7z/pub?start=false&loop=false&delayms=5000&slide=id.gc6f9544c1_0_0"
+  video: "//www.youtube.com/embed/XGCFhtI6G4U"
 -
   id: 6
   title: "Ghost in the Machine - Bridging VR and IoT"
@@ -83,6 +88,7 @@
   subtype: presentation
   speakers: [9]
   language: en
+  video: "//www.youtube.com/embed/aH28s7DPjK8"
 -
   id: 7
   title: "The bytecode gobbledygook"
@@ -93,6 +99,7 @@
   speakers: [10]
   language: en
   presentation: "https://www.slideshare.net/RaimonRls/the-bytecode-gobbledygook"
+  video: "//www.youtube.com/embed/EzaIUiUnEMY"
 -
   id: 8
   title: "Resources internals"
@@ -103,6 +110,7 @@
   speakers: [11,12]
   language: en
   presentation: "https://speakerdeck.com/sonyxperiadev/marten-kongstad-and-zoran-jovanovic-resource-overlay-updated"
+  video: "//www.youtube.com/embed/e6IdcbrI-Cs"
 -
   id: 9
   title: "Gradle in Android Studio 3.2 and beyond"
@@ -113,6 +121,7 @@
   speakers: [84,85]
   language: en
   presentation: "https://speakerdeck.com/sonyxperiadev/marten-kongstad-and-zoran-jovanovic-resource-overlay-updated"
+  video: "//www.youtube.com/embed/Ukiiv-zhOoQ"
 -
   id: 10
   title: "Typesetting: designing and building beautiful text layouts"
@@ -122,16 +131,18 @@
   subtype: presentation
   speakers: [5,14]
   language: en
+  video: "//www.youtube.com/embed/ccEMHdTc0ZM"
 -
   id: 11
   title: "Portable Material: Flutter physical models"
-  description: "<p>One of the most interesting new technologies to reach the mainstream eye in 2017 is undoubtedly Flutter, a novel cross-platform framework from Google that targets Android, iOS and the oh-so-elusive Fuchsia OS.<br /><br />Whether you’ve <a href='https://www.youtube.com/watch?v=0ijVuVtu6a4'>heard of Flutter</a> or not, you will be fascinated by the intriguing design that lurks under the Surface. We’ll dive in to how exactly your Flutter widgets get drawn on screen, from your code all the way down to Skia. Did you know that the UI toolkit in Flutter is based on physical models, and that Material is just one of those? Or that in Flutter the Material and Cupertino (iOS) toolkits share a common heritage in their roots?</p>"
+  description: "<p>One of the most interesting new technologies to reach the mainstream eye in 2017 is undoubtedly Flutter, a novel cross-platform framework from Google that targets Android, iOS and the oh-so-elusive Fuchsia OS.<br /><br />Whether you’ve <a href='//www.youtube.com/embed/0ijVuVtu6a4'>heard of Flutter</a> or not, you will be fascinated by the intriguing design that lurks under the Surface. We’ll dive in to how exactly your Flutter widgets get drawn on screen, from your code all the way down to Skia. Did you know that the UI toolkit in Flutter is based on physical models, and that Material is just one of those? Or that in Flutter the Material and Cupertino (iOS) toolkits share a common heritage in their roots?</p>"
   type: "Android Development"
   experience: "Expert and senior"
   subtype: presentation
   speakers: [15,79]
   language: en
   presentation: "https://www.dropbox.com/sh/jtkl8a2lv3vwxdb/AAC5ADc5HDUJ7RDHzin5ODGya?dl=0"
+  video: "//www.youtube.com/embed/ik1xpNT_ffQ"
 -
   id: 12
   title: "The JPEG of 3D: Bringing 3D scenes and objects into your 2D Android app with glTF"
@@ -141,6 +152,7 @@
   subtype: presentation
   speakers: [16]
   language: en
+  video: "//www.youtube.com/embed/SF672uJn9lg"
 -
   id: 13
   title: "Vectorial Victories"
@@ -151,6 +163,7 @@
   speakers: [17]
   language: fr
   presentation: "https://speakerdeck.com/francois_blavoet/vectorial-victories-android-makers-2018-paris"
+  video: "//www.youtube.com/embed/POkK5wGfkRk"
 -
   id: 14
   title: "Better asynchronous programming with Kotlin Coroutines"
@@ -161,6 +174,7 @@
   speakers: [18]
   language: en
   presentation: "https://speakerdeck.com/erikhellman/better-async-with-kotlin-coroutines"
+  video: "//www.youtube.com/embed/Bb4CVrf5al4"
 -
   id: 15
   title: "Tips for Library Development (from a Startup Developer)"
@@ -170,6 +184,7 @@
   subtype: presentation
   speakers: [19]
   language: en
+  video: "//www.youtube.com/embed/3fqbfTa76R8"
 -
   id: 16
   title: "The State of Representing State"
@@ -179,6 +194,7 @@
   subtype: presentation
   speakers: [20]
   language: en
+  video: "//www.youtube.com/embed/YGmxbwI3a-4"
 -
   id: 17
   title: "Who’s afraid of Machine Learning? First steps with TensorFlow for Android."
@@ -189,6 +205,7 @@
   speakers: [21]
   language: en
   presentation: "https://speakerdeck.com/brittbarak/whos-afraid-of-machine-learning-and-first-steps-with-tensorflow"
+  video: "//www.youtube.com/embed/8YDt2J7dHXA"
 -
   id: 18
   title: "Design Tools and Handoffs*"
@@ -199,6 +216,7 @@
   speakers: [22]
   language: en
   presentation: "https://photos.google.com/share/AF1QipOMhRkLfo2wxFRYroVuQbx0WIiLwu0ib-YP-VFjC0c7WQuWDeU1A-Vm0jEc-6s7sQ?key=XzAzZGhOb21TSy15UnJDRmVidE5icDJMUTNmSmd3"
+  video: "//www.youtube.com/embed/_yIsiEiBk5s"
 -
   id: 19
   title: "Themes, styles & more: from zero to hero"
@@ -209,6 +227,7 @@
   speakers: [3]
   language: en
   presentation: "https://speakerdeck.com/cyrilmottier/theme-styles-and-more-from-zero-to-here"
+  video: "//www.youtube.com/embed/q_LJG4VuU3Q"
 -
   id: 20
   title: "The big rewrite"
@@ -219,6 +238,7 @@
   speakers: [23]
   language: en
   presentation: "https://speakerdeck.com/jeroenmols/the-big-rewrite"
+  video: "//www.youtube.com/embed/k-utOwkCEfk"
 -
   id: 21
   title: "Migrating from installed to instant app, a retrospective"
@@ -228,6 +248,7 @@
   subtype: presentation
   speakers: [24]
   language: en
+  video: "//www.youtube.com/embed/Z6Qn8OO3R9s"
 -
   id: 22
   title: "Les mauvaises surcouches constructeurs sont-elles du passé ?"
@@ -238,6 +259,7 @@
   speakers: [25]
   language: fr
   presentation: "https://speakerdeck.com/mhausherr/les-surcouches-constructeur-sur-android"
+  video: "//www.youtube.com/embed/akRRdXtDtB4"
 -
   id: 23
   title: "Accessibilité sur Android : comprendre les aveugles pour répondre à leur besoin"
@@ -248,6 +270,7 @@
   speakers: [26]
   language: fr
   presentation: "https://speakerdeck.com/thierrylee/accessibilite-sur-android-android-makers-2018"
+  video: "//www.youtube.com/embed/esa2bAIapGU"
 -
   id: 24
   title: "Traitement d'image simple et rapide avec Renderscript"
@@ -258,6 +281,7 @@
   speakers: [27]
   language: fr
   presentation: "https://speakerdeck.com/qhutch/traitement-dimage-simple-et-rapide-avec-renderscript"
+  video: "//www.youtube.com/embed/EvSoi_wId34"
 -
   id: 25
   title: "OK Google, déploie mon App en prod !"
@@ -267,6 +291,7 @@
   subtype: presentation
   speakers: [28,29]
   language: fr
+  video: "//www.youtube.com/embed/CON7iXMWXFA"
 -
   id: 26
   title: "From ProGuard to R8: Take care of your bytecode"
@@ -277,6 +302,7 @@
   speakers: [30]
   language: fr
   presentation: "https://speakerdeck.com/jinqian/from-proguard-to-r8-take-care-of-your-byte-code"
+  video: "//www.youtube.com/embed/w3bOfxYNY8o"
 -
   id: 27
   title: "Android all the things!"
@@ -287,6 +313,7 @@
   speakers: [31]
   language: en
   presentation: "https://speakerdeck.com/marcpoppleton/android-all-the-things"
+  video: "//www.youtube.com/embed/pRlEaMfJGnM"
 -
   id: 28
   title: "Recette d’un sdk (presque) parfait"
@@ -297,6 +324,7 @@
   speakers: [32]
   language: fr
   presentation: "https://docs.google.com/presentation/d/1oAY_5nDIiQY3s4L0uqsHx7ugcZpWnqWiIw5Gs2DKhW4/edit#slide=id.p"
+  video: "//www.youtube.com/embed/f9tcIs_ZYc8"
 -
   id: 29
   title: "Android ou l'ART d'optimiser le code Java"
@@ -307,6 +335,17 @@
   speakers: [33]
   language: fr
   presentation: "https://www.slideshare.net/secret/bNJuBxM7ST4lvy"
+  video: "//www.youtube.com/embed/DH2AXeuGQVg"
+-
+  id: 30
+  title: "Gérer vos tests d'UI de manière simple et efficace"
+  description: "<p>Les test d'UI sont une étape importante dans le processus de création d'une application robuste et stable sur le long terme. Pourtant, une grande majorité des développeurs android sautent cette étape soit par manque de temps soit parce que les tests d'UI sont compliqués et laborieux à écrire. Depuis que nous sommes organisés en feature team au Boncoin et que nos livraisons se font toutes les 3 semaines, nous avons besoin de faciliter et d'automatiser au maximum l'écriture et l'exécution des tests d'UI. C'est pour cela que nous avons mis en place une solution composée de Barista, une surcouche d'espresso, de Swarmer, permettant de gérer et d’exécuter une batterie d’émulateurs et enfin Composer pour orchestrer le tout et générer les rapports de tests. C'est cette solution que nous allons vous présenter outils par outils puis au sein de notre CI avec une démo en situation réelle.</p>"
+  type: "Android Development"
+  experience: "Beginner and novice"
+  subtype: presentation
+  speakers: [77,78]
+  language: fr
+  video: "//www.youtube.com/embed/FnIYxmA8Z9Y"
 -
   id: 31
   title: "Remote control your application"
@@ -317,6 +356,7 @@
   speakers: [35]
   language: fr
   presentation: "https://speakerdeck.com/stankocken/remote-control-your-app"
+  video: "//www.youtube.com/embed/AzdabAwoZHc"
 -
   id: 32
   title: "Application monolithique, c'est pas automatique"
@@ -327,6 +367,7 @@
   speakers: [36]
   language: fr
   presentation: "https://speakerdeck.com/antdesc/2018"
+  video: "//www.youtube.com/embed/wx136wOwh54"
 -
   id: 33
   title: "Dagger-android, under the hood"
@@ -337,6 +378,7 @@
   speakers: [37]
   language: fr
   presentation: "https://docs.google.com/presentation/d/1HQ8Prdt3emkWQZWt_H5H6KwmCijyl4bBUrhjC2QiiF4/edit#slide=id.gc6f73a04f_0_0"
+  video: "//www.youtube.com/embed/g4JVCb8xmzM"
 -
   id: 34
   title: "De la domotique faite-maison avec Android Things et le Google Assistant"
@@ -347,6 +389,7 @@
   speakers: [38]
   language: fr
   presentation: "http://bit.ly/homewithandroid"
+  video: "//www.youtube.com/embed/ZWZwTbmmg94"
 -
   id: 35
   title: "Place de Gitlab au sein des process d'une équipe mobile"
@@ -357,6 +400,7 @@
   speakers: [39]
   language:
   presentation: "https://speakerdeck.com/mdaniel56/place-de-gitlab-au-sein-des-process-dune-equipe-mobile"
+  video: "//www.youtube.com/embed/pd8U6qwcwUM"
 -
   id: 36
   title: "Par delà le MediaRouter, fabriquons notre FooBarCast !"
@@ -367,6 +411,7 @@
   speakers: [40]
   language: fr
   presentation: "https://speakerdeck.com/pcrepieux/par-dela-le-mediarouter-fabriquons-notre-foobarcast"
+  video: "//www.youtube.com/embed/ile_SKAFGdA"
 -
   id: 37
   title: "Rock the Gradle, rule the world"
@@ -377,6 +422,7 @@
   speakers: [41]
   language: fr
   presentation: "https://gitpitch.com/xgouchet/Talks/AndroidMakers_RockTheGradle#/"
+  video: "//www.youtube.com/embed/o7gxsQflGsE"
 -
   id: 38
   title: "Want to make a change? Stop talking and start listening"
@@ -387,6 +433,7 @@
   speakers: [42]
   language: en
   presentation: "https://speakerdeck.com/maltzj/want-to-make-a-change-stop-talking-and-start-listening-android-makers-2018"
+  video: "//www.youtube.com/embed/NHp9OcRObCM"
 -
   id: 39
   title: "The Curious Case of Android Button"
@@ -397,6 +444,7 @@
   speakers: [43]
   language: en
   presentation: "https://speakerdeck.com/cortinico/the-curious-case-of-android-button-yelp-engineering"
+  video: "//www.youtube.com/embed/_AzLGxH26iM"
 -
   id: 40
   title: "Sign here please!"
@@ -406,6 +454,7 @@
   subtype: presentation
   speakers: [44]
   language: en
+  video: "//www.youtube.com/embed/pE5cCHCzOy0"
 -
   id: 41
   title: "Push Notifications that Don’t Suck"
@@ -416,6 +465,7 @@
   speakers: [45]
   language: en
   presentation: "https://speakerdeck.com/zmarkan/push-notifications-that-dont-suck"
+  video: "//www.youtube.com/embed/31VTSgkWFIE"
 -
   id: 42
   title: "Reusable Cross-Platform Frameworks with Kotlin/Native"
@@ -425,6 +475,7 @@
   subtype: presentation
   speakers: [46]
   language: en
+  video: "//www.youtube.com/embed/F0bv1LX2M_E"
 -
   id: 43
   title: "Tools of the Trade"
@@ -434,6 +485,17 @@
   subtype: presentation
   speakers: [47]
   language: en
+  video: "//www.youtube.com/embed/OXnVONS00_k"
+-
+  id: 44
+  title: "Modules in 7 steps"
+  description: "<p>Modular application approach is becoming more and more popular. Apart from obvious benefits like build speed and modules re-usability it gives better encapsulation, configurability, and testability.<br /><br />This talk is about Trainline application evolution from single module to 20+ modules. It describes problems we faced during this journey and shows a few not-so-obvious solutions to those problems.</p>"
+  type: "Android Development"
+  experience: "Intermediate"
+  subtype: presentation
+  speakers: [80]
+  language: en
+  video: "//www.youtube.com/embed/dZ8j-rvK7h0"
 -
   id: 45
   title: "Kotlinify your Gradle"
@@ -444,6 +506,7 @@
   speakers: [49]
   language: en
   presentation: "https://speakerdeck.com/alexgherschon/kotlinify-your-gradle"
+  video: "//www.youtube.com/embed/COFcFXBnEW0"
 -
   id: 46
   title: "Commonly Overlooked Areas of Security: Revisited"
@@ -454,6 +517,7 @@
   speakers: [50]
   language: en
   presentation: "https://speakerdeck.com/cliveleehere/commonly-overlooked-areas-of-security-revisited"
+  video: "//www.youtube.com/embed/o2oMzJP80DM"
 -
   id: 47
   title: "Adding conversational features to your mobile app"
@@ -464,6 +528,7 @@
   speakers: [51,52]
   language: en
   presentation: "https://speakerdeck.com/elainedb/adding-conversational-features-to-your-mobile-app-1"
+  video: "//www.youtube.com/embed/dIhjSAmyTSg"
 -
   id: 48
   title: "Add some reality to your app with ArCore"
@@ -474,6 +539,7 @@
   speakers: [53]
   language: en
   presentation: "https://speakerdeck.com/yuliyakaleda/add-reality-to-your-app-with-arcore-1"
+  video: "//www.youtube.com/embed/ly-KHn5d5pA"
 -
   id: 49
   title: "Better, Faster Code Reviews in an Agile World"
@@ -484,6 +550,7 @@
   speakers: [54,55]
   language: en
   presentation: "https://speakerdeck.com/smarkovik/better-faster-code-reviews"
+  video: "//www.youtube.com/embed/tMZMq1oSrmA"
 -
   id: 50
   title: "Quickly build your app alone with Firebase."
@@ -494,6 +561,7 @@
   speakers: [56]
   language: en
   presentation: "https://speakerdeck.com/renaudmathieu/quickly-build-your-app-alone-with-firebase-android-makers-2018"
+  video: "//www.youtube.com/embed/RQ4-mdPx78I"
 -
   id: 51
   title: "Up close and personal with Nearby"
@@ -504,6 +572,7 @@
   speakers: [57]
   language: en
   presentation: "https://speakerdeck.com/hugovisser/up-close-and-personal-with-nearby"
+  video: "//www.youtube.com/embed/5kL5MLaRVg0"
 -
   id: 52
   title: "Hands on with ConstraintLayout"
@@ -522,6 +591,7 @@
   subtype: workshop
   speakers: [58,59,5]
   language: en
+  video: "//www.youtube.com/embed/eAz1hP0-aJo"
 -
   id: 54
   title: "Let's make some noise with Android"
@@ -532,6 +602,7 @@
   speakers: [60]
   language: en
   presentation: "https://speakerdeck.com/theyann/the-sounds-of-android-androidmakers-2018"
+  video: "//www.youtube.com/embed/v3XXZDc_6Ss"
 -
   id: 55
   title: "Android Auto, vos médias dans votre voiture."
@@ -542,6 +613,7 @@
   speakers: [61]
   language: fr
   presentation: "https://docs.google.com/presentation/d/1J83scwRh7WmNBTql2sZ3_s-kbHNUk_beNZHWXFFZYBg/edit"
+  video: "//www.youtube.com/embed/r5skn-UtwzY"
 -
   id: 56
   title: "Explore Kotlin.Collections API"
@@ -552,6 +624,7 @@
   speakers: [62]
   language: en
   presentation: "https://speakerdeck.com/kirill_suslov/explore-kotlin-dot-collections-api"
+  video: "//www.youtube.com/embed/q3wHFdffkdE"
 -
   id: 57
   title: "Fonts, Emoji and Text Using Support Libraries"
@@ -562,6 +635,7 @@
   speakers: [63]
   language: en
   presentation: "https://speakerdeck.com/anitas3791/using-support-library-for-android-oreo-fonts-emoji-and-text"
+  video: "//www.youtube.com/embed/HnlsU6xAsCY"
 -
   id: 58
   title: "Travelling across Asia - Our journey from Java to Kotlin"
@@ -571,6 +645,7 @@
   subtype: presentation
   speakers: [64]
   language: en
+  video: "//www.youtube.com/embed/ZaPIcI42Qtw"
 -
   id: 59
   title: "Android DevOps: Espresso on Genymotion in AWS"
@@ -581,6 +656,7 @@
   speakers: [65]
   language: en
   presentation: "https://speakerdeck.com/michaelaubert/android-devops-espresso-on-genymotion-in-aws"
+  video: "//www.youtube.com/embed/1pmXNo04zj4"
 -
   id: 60
   title: "Party like it's 1970: Conversational interfaces are back (into your Android app)"
@@ -591,6 +667,7 @@
   speakers: [66,67]
   language: en
   presentation: "https://docs.google.com/presentation/d/10GOuDZ0YdETjH2jDh5HIzRU0EIbqXW5YXRfJ4fdFExg/present?slide=id.g34adb19aba_0_508"
+  video: "//www.youtube.com/embed/l_IlYgd29cA"
 -
   id: 61
   title: "Kotlin Backstage"
@@ -601,6 +678,7 @@
   speakers: [68]
   language: en
   presentation: "https://www.slideshare.net/vonGraham/kotlin-backstage-android-makers-paris-2018"
+  video: "//www.youtube.com/embed/bhlYKBjcjjw"
 -
   id: 62
   title: "ADB, Break On Through To the Other Side"
@@ -611,6 +689,7 @@
   speakers: [69]
   language: en
   presentation: "https://docs.google.com/presentation/d/1HH4Bog2O6GShoMZ0Z7SLNAtVwlDWeL7mX516uG_o580/edit"
+  video: "//www.youtube.com/embed/3yW_uX25XD8"
 -
   id: 63
   title: "Frustration-free orientation changes"
@@ -620,6 +699,7 @@
   subtype: presentation
   speakers: [70]
   language: en
+  video: "//www.youtube.com/embed/8bXdWQLJBmE"
 -
   id: 64
   title: "Bootstrapping multiplatform development and Android Wear"
@@ -629,6 +709,7 @@
   subtype: presentation
   speakers: [71]
   language: en
+  video: "//www.youtube.com/embed/u70oRndjpWo"
 -
   id: 65
   title: "Android Leaks at Android Makers take 2"
@@ -638,6 +719,7 @@
   subtype: presentation
   speakers: [72,60]
   language: fr
+  video: "//www.youtube.com/embed/QeCL4YHVEP8"
 -
   id: 66
   title: "Kotlin DSLs"
@@ -648,6 +730,7 @@
   speakers: [73]
   language: en
   presentation: "https://speakerdeck.com/writtmeyer/kotlin-dsls"
+  video: "//www.youtube.com/embed/gFP5PMEj_tA"
 -
   id: 67
   title: "Pragmatic Testing"
@@ -658,6 +741,7 @@
   speakers: [74]
   language: en
   presentation: "https://speakerdeck.com/hzsweers/pragmatic-testing"
+  video: "//www.youtube.com/embed/otuEh24r8wI"
 -
   id: 68
   title: "Keynote: Modern Android Development"
@@ -667,6 +751,7 @@
   subtype: presentation
   speakers: [1,2]
   language: en
+  video: "//www.youtube.com/embed/8GFLCL0u1lw"
 -
   id: 69
   title: "Android Gradle Plugin internals"
@@ -677,24 +762,7 @@
   speakers: [82]
   language: en
   presentation: "https://docs.google.com/presentation/d/1KXmV_CzEKN8KwjU3QwIRlhwg8F4D5JsKk-reO4Rhtuk/edit?usp=sharing"
--
-  id: 30
-  title: "Gérer vos tests d'UI de manière simple et efficace"
-  description: "<p>Les test d'UI sont une étape importante dans le processus de création d'une application robuste et stable sur le long terme. Pourtant, une grande majorité des développeurs android sautent cette étape soit par manque de temps soit parce que les tests d'UI sont compliqués et laborieux à écrire. Depuis que nous sommes organisés en feature team au Boncoin et que nos livraisons se font toutes les 3 semaines, nous avons besoin de faciliter et d'automatiser au maximum l'écriture et l'exécution des tests d'UI. C'est pour cela que nous avons mis en place une solution composée de Barista, une surcouche d'espresso, de Swarmer, permettant de gérer et d’exécuter une batterie d’émulateurs et enfin Composer pour orchestrer le tout et générer les rapports de tests. C'est cette solution que nous allons vous présenter outils par outils puis au sein de notre CI avec une démo en situation réelle.</p>"
-  type: "Android Development"
-  experience: "Beginner and novice"
-  subtype: presentation
-  speakers: [77,78]
-  language: fr
--
-  id: 44
-  title: "Modules in 7 steps"
-  description: "<p>Modular application approach is becoming more and more popular. Apart from obvious benefits like build speed and modules re-usability it gives better encapsulation, configurability, and testability.<br /><br />This talk is about Trainline application evolution from single module to 20+ modules. It describes problems we faced during this journey and shows a few not-so-obvious solutions to those problems.</p>"
-  type: "Android Development"
-  experience: "Intermediate"
-  subtype: presentation
-  speakers: [80]
-  language: en
+  video: "//www.youtube.com/embed/_FhjPOMXPmk"
 -
   id: 71
   title: "When Metrics Lie"
@@ -704,6 +772,7 @@
   subtype: presentation
   speakers: [76]
   language: en
+  video: "//www.youtube.com/embed/p0xBqF13RJY"
 -
   id: 72
   title: "How Android Rendering Works to Provide Pixels on the Screen Faster than You Can Read this Sentence"
@@ -713,6 +782,7 @@
   subtype: presentation
   speakers: [1,2]
   language: en
+  video: "//www.youtube.com/embed/J8TgB8GLp-M"
 -
   id: 73
   title: "Android dans la voiture"
@@ -722,6 +792,7 @@
   subtype: presentation
   speakers: [83]
   language: fr
+  video: "//www.youtube.com/embed/v4ZgfJ6VFBo"
 -
   id: 74
   title: "App Clinic"
@@ -740,6 +811,7 @@
   subtype: presentation
   speakers: [1,2]
   language: en
+  video: "//www.youtube.com/embed/Ii2dgToiNsU"
 -
   id: 76
   title: "Kotlin's hidden costs, revisited"
@@ -749,3 +821,4 @@
   subtype: presentation
   speakers: [86]
   language: en
+  video: "//www.youtube.com/embed/xaVLJmTf1kA"
